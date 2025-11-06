@@ -16,6 +16,24 @@ A curated, community-driven list of awesome Model Context Protocol (MCP) servers
 
 ---
 
+## What is MCP?
+
+[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
+
+---
+
+## Tutorials
+
+* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+* [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+
+## Community
+
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
+* [Discord Server](https://glama.ai/mcp/discord)
+
+---
+
 ## ⚠️ Security Warning
 
 When running MCP servers without proper sandboxing, they can execute arbitrary code on your system with the same permissions as the host process. This creates significant security risks.
