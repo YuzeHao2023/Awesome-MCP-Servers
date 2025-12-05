@@ -4,6 +4,10 @@ A curated, community-driven list of awesome Model Context Protocol (MCP) servers
 
 ---
 
+BTW, we provide a [full list of MCP (Master Control Program) Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx), which is compiled by a web crawler and contains approximately 6000 entries.
+
+---
+
 ## All Documents
 > Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
 
