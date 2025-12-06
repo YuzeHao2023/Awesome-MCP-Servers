@@ -4,6 +4,10 @@
 
 ---
 
+另外，我們提供了一份完整的[MCP服務列表](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx)，該列表由爬蟲整理而來，包含大約6000筆條目。
+
+---
+
 ## 所有文件語言
 > 招募翻譯志工！[我們正在招募翻譯者](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1)，協助將文件翻譯給更多使用者！
 
