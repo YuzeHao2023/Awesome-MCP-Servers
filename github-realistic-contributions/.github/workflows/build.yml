@@ -1,0 +1,47 @@
+name: 构建和测试
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.8", "3.9", "3.10", "3.11"]
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        
+      - name: 设置 Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+          
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest
+          
+      - name: 验证脚本语法
+        run: |
+          python -m py_compile contribute.py
+          python -m py_compile test_contribute.py
+          python -m py_compile config.py
+          python -m py_compile generate_realistic_contributions.py
+          
+      - name: 运行测试
+        run: |
+          python -m pytest test_contribute.py -v
+          
+      - name: 检查中文编码
+        run: |
+          python -c "
+          import sys
+          sys.path.append('.')
+          try:
+              import contribute
+              print('✅ 中文编码检查通过')
+          except Exception as e:
+              print(f'❌ 中文编码检查失败: {e}')
+              exit(1)
+          "
