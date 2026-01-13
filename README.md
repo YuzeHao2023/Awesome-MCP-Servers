@@ -632,6 +632,10 @@ Clients and UI tools that consume MCP servers:
 
 Frameworks and scaffolding for building MCP servers:
 
+- PraisonAI MCP — https://github.com/MervinPraison/praisonai-mcp (AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution)
+
+Frameworks and scaffolding for building MCP servers:
+
 - create-mcp-ts — https://github.com/stephencme/create-mcp-ts
 - LiteMCP — https://github.com/wong2/litemcp
 - mcp-framework — https://github.com/QuantGeekDev/mcp-framework
