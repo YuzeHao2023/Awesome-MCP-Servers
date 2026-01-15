@@ -1,6 +1,8 @@
 ![](asserts/logo1.png)
 
-# Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)   
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 A curated, community-driven list of awesome Model Context Protocol (MCP) servers, tools, frameworks, clients, and utilities. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations.
 
