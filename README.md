@@ -350,6 +350,7 @@ Personal knowledge and notes integrations.
 - Slite — https://github.com/fajarmf/slite-mcp
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
+- ODEI — https://github.com/odei-ai/mcp-odei (Constitutional knowledge graph for AI agents. World model queries (91-node Neo4j graph), safety guardrails (APPROVED/REJECTED/ESCALATE), and EVM smart contract audit. Cloud MCP service, production since Jan 2026.)
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
 
 ---
