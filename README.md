@@ -538,6 +538,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Wireshark-MCP — https://github.com/bx33661/Wireshark-MCP — A local MCP server that brings the power of Wireshark/TShark to AI assistants for network packet analysis.
 
 ---
 

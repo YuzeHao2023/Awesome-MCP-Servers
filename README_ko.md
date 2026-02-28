@@ -370,6 +370,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 보안 (🔒)
 
 - Semgrep — https://github.com/semgrep/mcp
+- Wireshark-MCP — https://github.com/bx33661/Wireshark-MCP — AI 비서에게 Wireshark/TShark의 네트워크 패킷 분석 기능을 제공하는 로컬 MCP 서버.
 
 ---
 
