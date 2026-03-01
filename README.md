@@ -284,6 +284,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- API Status Check — https://github.com/shibley/apistatuscheck — Aggregated API and service status monitoring MCP server. Query real-time status of 200+ popular services (AWS, Stripe, GitHub, etc.), check outage history, and get service health data.
 
 ---
 
