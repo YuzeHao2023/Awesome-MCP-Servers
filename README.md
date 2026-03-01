@@ -301,6 +301,7 @@ Web fetching, scraping, and search.
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
+- Screaming Frog SEO Spider — https://github.com/bzsasson/screaming-frog-mcp
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
