@@ -692,3 +692,4 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+- [OpenClaw MCP Ecosystem](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) - 9 remote MCP servers on Cloudflare Workers: JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intelligence, fortune/horoscope, content publisher, and AI tool comparison. Free tier + Pro API keys ($9).
