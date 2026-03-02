@@ -460,6 +460,7 @@ AI model & ML service integrations.
 
 ---
 
+* [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents with MCP server support — provides managed Chromium instances via WebSocket/CDP with built-in proxy rotation and CAPTCHA solving.
 ## Category: Development Tools (💻)
 
 Developer-focused MCP servers and tools.
