@@ -300,6 +300,7 @@ Web fetching, scraping, and search.
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- newsmcp — https://github.com/pranciskus/newsmcp
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
