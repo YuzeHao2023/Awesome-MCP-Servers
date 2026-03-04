@@ -517,6 +517,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Agent Native Registry — https://agentnativeregistry.com — Remote MCP server with 100+ developer tools scored on AI agent compatibility (0-100). Tools: search_tools, get_score, compare_tools. Helps agents discover the right API for any task without trial-and-error.
 
 ---
 
