@@ -292,6 +292,7 @@
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch/SearXNG — https://github.com/mnhlt/WebSearch-MCP 与 https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors 与 RAG Web Browser — https://github.com/apify/actors-mcp-server 与 https://github.com/apify/mcp-server-rag-web-browser
+- GEOScore — https://github.com/henu-wang/geoscore-mcp — AI 搜索优化（GEO）。扫描网站 AI 搜索就绪度，生成 llms.txt、Schema.org 修复、meta 标签优化。
 
 ---
 
