@@ -336,6 +336,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- LLM Optimizer — https://github.com/jonradoff/llmopt (AI brand visibility tool — like SEO for LLMs / GEO. Remote MCP at https://llmopt.metavert.io/mcp)
 
 ---
 
