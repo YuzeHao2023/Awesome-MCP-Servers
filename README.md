@@ -421,6 +421,7 @@ Payments, market data, and finance tools.
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
+- iz-tolk-mcp — https://github.com/izzzzzi/izTolkMcp — MCP server for the Tolk smart contract compiler on the TON blockchain
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
