@@ -428,6 +428,7 @@ Payments, market data, and finance tools.
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
+- RustChain MCP — https://github.com/Scottcjn/rustchain-mcp — MCP server for RustChain blockchain and BoTTube video platform. 15 tools for AI agents. Install: pip install rustchain-mcp
 ---
 
 ## Category: Research & Data (🧬)
