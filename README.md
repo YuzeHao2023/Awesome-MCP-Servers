@@ -421,6 +421,7 @@ Payments, market data, and finance tools.
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
+- Frihet (AI-native business management — invoicing, expenses, clients, tax compliance, 31 tools) — https://github.com/berthelius/frihet-mcp
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
