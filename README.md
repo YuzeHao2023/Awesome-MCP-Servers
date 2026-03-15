@@ -373,6 +373,7 @@ Automation platforms and workflow tools.
 - Make (⭐) — https://github.com/integromat/make-mcp-server
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
 - Taskade (⭐) — https://github.com/taskade/mcp
+- WritBase — https://github.com/Writbase/writbase
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
 - Tool aggregators like Rube, Rube/Composio and MCPJungle are listed in Aggregators.
