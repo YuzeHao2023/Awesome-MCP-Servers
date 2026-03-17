@@ -472,6 +472,7 @@ Developer-focused MCP servers and tools.
 - Postman — https://github.com/delano/postman-mcp-server
 - QA Sphere (⭐) — https://github.com/Hypersequent/qasphere-mcp
 - flutter-skill — https://github.com/ai-dashboad/flutter-skill — AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+- wopee-mcp — https://www.npmjs.com/package/wopee-mcp — AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
 - marimo (⭐) — https://github.com/marimo-team/codemirror-mcp
 - Figma — https://github.com/GLips/Figma-Context-MCP
 - Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp
