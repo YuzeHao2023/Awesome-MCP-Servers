@@ -517,6 +517,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Arch Tools — https://archtools.dev — 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 
 ---
 
