@@ -482,6 +482,7 @@ Developer-focused MCP servers and tools.
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
 - many others in Community Servers and Official Servers
+- AgentRank — https://github.com/superlowburn/agentrank — Live quality-scored index of 25,000+ MCP servers, updated daily. Search for maintained tools using real GitHub signals via 3 MCP tools.
 
 ---
 
