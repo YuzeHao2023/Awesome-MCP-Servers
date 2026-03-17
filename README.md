@@ -91,6 +91,7 @@ Many MCP clients and UIs can connect to servers listed here. Examples include (b
 - 💬 Communication
 - 📈 Monitoring
 - 🔍 Search & Web
+
 - 🗺️ Location Services
 - 🎯 Marketing
 - 📝 Note Taking
@@ -293,6 +294,7 @@ Web fetching, scraping, and search.
 
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
+- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Zero-cost, privacy-first universal web search MCP server. Enforces a Search-First paradigm — instructs LLMs to retrieve real-time web information before answering factual questions, eliminating hallucinations. Supports text, news, images, books, and videos via DuckDuckGo. No API key required. Install: `pip install free-web-search-ultimate`
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
