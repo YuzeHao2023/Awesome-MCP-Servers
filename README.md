@@ -336,6 +336,9 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- gsc-mcp — https://github.com/mikusnuz/gsc-mcp — Google Search Console and Indexing API (13 tools)
+- meta-ads-mcp — https://github.com/mikusnuz/meta-ads-mcp — Meta Marketing API / Facebook Ads (123 tools)
+- umami-mcp — https://github.com/mikusnuz/umami-mcp — Umami Analytics (66 tools)
 
 ---
 
@@ -401,6 +404,7 @@ Social platforms integration.
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- meta-mcp — https://github.com/mikusnuz/meta-mcp — Instagram, Threads, and Meta platform (57 tools)
 
 ---
 
@@ -481,6 +485,10 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- app-publish-mcp — https://github.com/mikusnuz/app-publish-mcp — App Store Connect and Google Play Console management (91 tools)
+- cws-mcp — https://github.com/mikusnuz/cws-mcp — Chrome Web Store management (8 tools)
+- dynadot-mcp — https://github.com/mikusnuz/dynadot-mcp — Dynadot domain registrar (60 tools)
+- npm-mcp — https://github.com/mikusnuz/npm-mcp — npm package management (36 tools)
 - many others in Community Servers and Official Servers
 
 ---
