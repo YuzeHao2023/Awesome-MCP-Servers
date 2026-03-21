@@ -427,7 +427,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
-- GoldRush (⭐) — https://github.com/covalenthq/goldrush-mcp-server
+- GoldRush (⭐) — https://goldrush.dev/docs/goldrush-mcp-server
 
 ---
 
@@ -691,6 +691,6 @@ If this project is helpful for you, please cite:
       year={2025},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
+      howpublished = { rl{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
