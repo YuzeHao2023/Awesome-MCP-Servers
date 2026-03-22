@@ -539,6 +539,8 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- ClawSec — https://github.com/prompt-security/clawsec — Security audit platform for AI agent skills and MCP servers. Five-tier detection (core rules → dynamic rules → LLM analysis → Firecracker sandbox → LLM review), continuous rule evolution, and automated vulnerability reports.
+- ClawSearch — https://clawsearch.cc — AI agent skill discovery with trust scoring, pre-install security checks, and vulnerability assessment across 33k+ skills.
 
 ---
 
