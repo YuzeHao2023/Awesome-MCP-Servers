@@ -482,6 +482,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Useful AI MCP — https://github.com/useful-ai/useful-ai-mcp — Dynamic MCP server with 100+ autonomously-built utilities (unit conversion, text processing, data parsing, math, and more). No auth required.
 - many others in Community Servers and Official Servers
 
 ---
