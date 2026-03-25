@@ -482,6 +482,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- WildRun MCP Validator — https://wildrunai.com/api/mcp — Validates MCP tool definitions for quality and spec compliance. Checks naming, descriptions, inputSchema, annotations, and destructive tool detection. Scores 0-100 with A-F grades. Available as remote MCP server, web UI, and GitHub Action.
 - many others in Community Servers and Official Servers
 
 ---
