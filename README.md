@@ -182,6 +182,7 @@ Server Managers:
 - MCP Installer — https://github.com/anaisbetts/mcp-installer
 
 Other utilities:
+- Clarvia — AEO scoring and tool discovery for AI agents. Search 15,400+ MCP servers, APIs, CLIs, Skills with quality scores, CVE checks, and demand intelligence — https://github.com/clarvia-project/scanner
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli
 - mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
