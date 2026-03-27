@@ -311,6 +311,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Webclaw — https://github.com/0xMassi/webclaw - Fast, local-first web content extraction for LLMs with TLS fingerprinting. 10 MCP tools for scraping, crawling, and structured data extraction.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
