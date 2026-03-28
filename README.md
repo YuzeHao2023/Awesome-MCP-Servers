@@ -518,6 +518,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Rhumb — https://github.com/supertrained/rhumb — Discover, score, and execute external APIs for AI agents. 695+ services across 86 categories, AN Score (20-dimension framework), 16 MCP tools, zero-signup discovery, x402 micropayments. `npx rhumb-mcp`
 
 ---
 
