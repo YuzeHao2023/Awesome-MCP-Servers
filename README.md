@@ -300,6 +300,7 @@ Web fetching, scraping, and search.
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- PageBolt — https://github.com/Custodia-Admin/pagebolt-mcp — Hosted web capture MCP server: screenshots, PDFs, narrated video recording, and page inspection. No browser infrastructure required.
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
