@@ -428,6 +428,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- VEROQ MCP (52 tools for verified financial data, trading signals, sentiment, and fact-checking across 1,061+ tickers) — https://github.com/Veroq-api/veroq-mcp
 
 ---
 
