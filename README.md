@@ -465,6 +465,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Antigravity Link — https://github.com/cafeTechne/antigravity-link-extension — MCP server + OpenAPI API to control Antigravity IDE instances (snapshot, send, stop generation, switch instance, task/walkthrough/plan retrieval) with a mobile companion UI.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
