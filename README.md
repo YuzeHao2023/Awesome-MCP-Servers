@@ -540,6 +540,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- protect-mcp — https://github.com/scopeblind/scopeblind-gateway — Security gateway for MCP servers — per-tool policies (Cedar + JSON), Ed25519-signed decision receipts, human approval gates, trust tiers. Shadow mode by default.
 
 ---
 
