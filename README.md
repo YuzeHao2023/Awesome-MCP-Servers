@@ -314,6 +314,8 @@ Web fetching, scraping, and search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
+- WebCheck — https://github.com/yifanyifan897645/webcheck-mcp
+- Deadlink Checker — https://github.com/yifanyifan897645/deadlink-checker-mcp
 
 ## Category: Location Services (🗺️)
 
