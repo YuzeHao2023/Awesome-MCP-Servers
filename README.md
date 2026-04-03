@@ -534,13 +534,14 @@ Translation and language services.
 
 Security-focused servers and scanning tools.
 
-- Semgrep — https://github.com/semgrep/mcp
+- Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 - Microsoft Entra ID — Microsoft-related MCPs for identity
 - Netwrix (⭐) — https://github.com/netwrix/mcp-server-naa
 - OSV — https://github.com/StacklokLabs/osv-mcp
-- Vulert — https://vulert.com
+- Semgrep — https://github.com/semgrep/mcp
+- SidClaw — https://github.com/sidclawhq/platform — AI agent governance with approval workflows, policy engine, hash-chain audit trails, and 18+ framework integrations. MCP governance proxy for enforcing policies on tool calls. Apache 2.0.
 - Thales / CDSP servers — various MCP integrations for secrets & keys
-- Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Vulert — https://vulert.com
 
 ---
 
