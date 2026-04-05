@@ -429,6 +429,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Aigen Protocol — https://github.com/Aigen-Protocol/aigen-protocol — Token safety analysis and DeFi data for AI agents. 27 scam patterns, honeypot simulation, safety scoring across 6 EVM chains. 38 MCP tools.
 
 ---
 
@@ -541,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Aigen Protocol — https://github.com/Aigen-Protocol/aigen-protocol — Real-time token safety scanner. Detects honeypots via DEX swap simulation, hidden mints, ownership exploits across Ethereum, Base, Optimism, Arbitrum, BSC, Polygon.
 
 ---
 
