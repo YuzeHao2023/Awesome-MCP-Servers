@@ -458,6 +458,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Useful AI — https://github.com/useful-ai/useful-ai-mcp — Dynamic MCP server with 390+ autonomously-built utilities (unit conversion, text processing, data parsing, math, and more). No auth required. New tools added continuously via automated build pipeline.
 
 ---
 
