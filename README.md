@@ -541,6 +541,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Asqav — https://github.com/jagmarques/asqav-mcp — AI agent governance MCP server with quantum-safe audit trails (ML-DSA-65), policy enforcement, threat detection, and compliance reporting. Works with Claude Desktop, Cursor, Claude Code. PyPI: `pip install asqav-mcp`.
 
 ---
 
