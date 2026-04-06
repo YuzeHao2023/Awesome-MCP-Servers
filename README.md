@@ -12,6 +12,7 @@ BTW, we provide a [full list of MCP (Master Control Program) Servers](https://gi
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent orchestration system using 49 MCP-powered Claude Code agents with task registry and quality gates.
 ## All Documents
 > Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
 
