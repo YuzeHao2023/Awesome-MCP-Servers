@@ -673,6 +673,8 @@ Frameworks and scaffolding for building MCP servers:
 - Check each server repo for documentation about transports (stdio, SSE, HTTP), authentication, and example clients.
 - This ecosystem evolves rapidly — many new servers, clients, and frameworks are added frequently. If you maintain a server, ensure the repo has clear installation and security instructions.
 - [SkillFlow MCP Server](https://github.com/rafsilva85/skillflow-mcp-server) - Search and discover AI agent skills from the SkillFlow marketplace. Browse 500+ skills with trust metrics, categories, and ratings.
+- [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
+- [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
