@@ -567,6 +567,7 @@ Commerce and marketplace integrations.
 
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
+- QR Business Cards — https://github.com/ajfrai/qr-business-cards-mcp — Create professional QR business cards via MCP. Generates digital profiles with contact info, social links, and QR codes. Supports ordering printed cards shipped to your door. Remote server with Streamable HTTP transport.
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---
