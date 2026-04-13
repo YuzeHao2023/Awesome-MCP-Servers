@@ -401,6 +401,7 @@ Social platforms integration.
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
 ---
 
@@ -482,7 +483,6 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
-- Useful AI MCP — https://github.com/useful-ai/useful-ai-mcp — Dynamic MCP server with 100+ autonomously-built utilities (unit conversion, text processing, data parsing, math, and more). No auth required.
 - many others in Community Servers and Official Servers
 
 ---
@@ -519,7 +519,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
-- Useful AI — https://github.com/uAI-solana/useful-ai-mcp — Fully dynamic MCP server with 200+ shared utility tools. Tool list auto-updates based on usage. Dispatch tasks in plain English, get structured output. No auth. `https://api.usefulai.fun/mcp`
+- Useful AI — https://github.com/uAI-solana/useful-ai-mcp — Fully dynamic MCP server exposing 200+ shared utility tools (unit conversion, math, parsing, and more). Tool list updates automatically. No auth required. `https://api.usefulai.fun/mcp`
 
 ---
 
@@ -673,6 +673,7 @@ Frameworks and scaffolding for building MCP servers:
 - Prefer official vendor-maintained servers (marked with ⭐) for production use.
 - Check each server repo for documentation about transports (stdio, SSE, HTTP), authentication, and example clients.
 - This ecosystem evolves rapidly — many new servers, clients, and frameworks are added frequently. If you maintain a server, ensure the repo has clear installation and security instructions.
+- [SkillFlow MCP Server](https://github.com/rafsilva85/skillflow-mcp-server) - Search and discover AI agent skills from the SkillFlow marketplace. Browse 500+ skills with trust metrics, categories, and ratings.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
