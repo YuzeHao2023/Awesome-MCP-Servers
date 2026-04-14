@@ -76,6 +76,7 @@ Many MCP clients and UIs can connect to servers listed here. Examples include (b
 - Visual Studio Code
 - LibreChat
 - Various CLI and browser-based clients
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 (Icons and links for specific clients are commonly shown on the individual server/project pages.)
 
