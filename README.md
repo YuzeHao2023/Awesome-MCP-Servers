@@ -309,6 +309,7 @@ Web fetching, scraping, and search.
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
+- Haunt API — https://github.com/Darko893/mcp-server — Extract structured data from any webpage with AI-powered web scraping
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
