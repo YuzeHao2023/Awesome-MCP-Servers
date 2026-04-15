@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- US Business Data (SOS, building permits, SAM.gov, SEC EDGAR) — https://github.com/avabuildsdata/mcp-us-business-data
 
 ---
 
