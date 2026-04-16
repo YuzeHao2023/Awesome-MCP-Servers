@@ -311,6 +311,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Not Human Search (⭐) — https://nothumansearch.ai — Agent-first search engine indexing 1,100+ tools by agentic readiness. MCP endpoint at https://nothumansearch.ai/mcp with tools: search_agents, get_site_details, get_stats, submit_site, register_monitor, verify_mcp. Registered in the official MCP registry as ai.nothumansearch/search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
