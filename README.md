@@ -290,6 +290,7 @@ Access observability and monitoring systems.
 ## Category: Search & Web (🔍)
 
 Web fetching, scraping, and search.
+- Haunt — https://github.com/Darko893/mcp-server — AI-powered web scraping with Cloudflare bypass, JavaScript rendering, and structured data extraction. Pay-per-use API with free tier.
 
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
