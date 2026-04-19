@@ -466,6 +466,12 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- theihtisham/agent-shadow-brain — https://github.com/theihtisham/agent-shadow-brain
+  Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT.
+
+- theihtisham/omni-skills-forge — https://github.com/theihtisham/omni-skills-forge
+  50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT.
+
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
