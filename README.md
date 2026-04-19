@@ -426,6 +426,7 @@ Payments, market data, and finance tools.
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
+- Helium (per-symbol ML option pricing with prob_ITM, daily-ranked long/short-vol strategies, 31-dim news bias scoring across 3.2M+ articles) — https://github.com/connerlambden/helium-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
