@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- agent101 — https://github.com/rachelsu-blip/agent101-mcp — Open directory of 300+ AI tools across 15 categories. MCP server for agent-native AI tool discovery.
 
 ---
 
