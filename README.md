@@ -532,6 +532,7 @@ Translation and language services.
 
 ## Category: Security (🔒)
 
+- [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent/tree/main/platforms/mcp-server) - Encrypted local vault for AI agents. Resolve {{SECRET}} placeholders in prompts without exposing real values. AES-256-GCM + Argon2id. `enigmagent-mcp`
 Security-focused servers and scanning tools.
 
 - Semgrep — https://github.com/semgrep/mcp
