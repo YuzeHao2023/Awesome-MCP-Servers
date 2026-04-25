@@ -473,6 +473,7 @@ Developer-focused MCP servers and tools.
 - OpenRPC — https://github.com/shanejonas/openrpc
 - Postman — https://github.com/delano/postman-mcp-server
 - QA Sphere (⭐) — https://github.com/Hypersequent/qasphere-mcp
+- unslop — https://github.com/MohamedAbdallah-14/unslop
 - flutter-skill — https://github.com/ai-dashboad/flutter-skill — AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - marimo (⭐) — https://github.com/marimo-team/codemirror-mcp
 - Figma — https://github.com/GLips/Figma-Context-MCP
