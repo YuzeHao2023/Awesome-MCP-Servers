@@ -428,6 +428,7 @@ Payments, market data, and finance tools.
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
+- VaultPilot (Safety first. Hardware-verified DeFi for AI agents — designed for when the AI can be compromised. Read balances + DeFi positions across Ethereum / Arbitrum / Polygon / Base / TRON / Solana / Bitcoin and prepare transactions reviewed on a Ledger device; private keys never leave the hardware wallet.) — https://github.com/szhygulin/vaultpilot-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
