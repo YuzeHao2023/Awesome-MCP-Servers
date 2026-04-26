@@ -431,6 +431,7 @@ Payments, market data, and finance tools.
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
+- web3-docs — https://github.com/dioptx/web3-docs (local MCP server indexing 1,767 protocol proposals across 10 chains: EIPs, BIPs, ADRs, CIPs, RFCs; plus canonical contract addresses for 19 EVM protocols. Fork-aware: answers "what's in Cancun?" / "BIPs activated with Taproot?")
 
 ## Category: Research & Data (🧬)
 
