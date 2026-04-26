@@ -476,6 +476,7 @@ Developer-focused MCP servers and tools.
 - flutter-skill — https://github.com/ai-dashboad/flutter-skill — AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - marimo (⭐) — https://github.com/marimo-team/codemirror-mcp
 - Figma — https://github.com/GLips/Figma-Context-MCP
+- Memoire — https://github.com/sarveshsea/m-moire — MCP server and CLI for shadcn-native Design CI. Diagnose UI debt, extract Tailwind tokens, export shadcn registries, and plan safe UI fixes.
 - Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp
 - VSCode Devtools — https://github.com/biegehydra/BifrostMCP
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
