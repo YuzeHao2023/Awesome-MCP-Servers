@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Shirabe Calendar (Japanese calendar — Rokuyo / Rekichu / Eto / fortune judgments) — https://github.com/techwell-inc-jp/shirabe-calendar-api
 
 ---
 
