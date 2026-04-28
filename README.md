@@ -159,6 +159,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Box — https://github.com/box-community/mcp-server-box (⭐)
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
+- MyCarTracks — https://mycartracks.com/resources/connect-with-ai
 - Notion — https://github.com/makenotion/notion-mcp (official)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
@@ -323,6 +324,7 @@ Mapping and geolocation.
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
+- MyCarTracks — https://mycartracks.com/resources/connect-with-ai
 - QGIS — https://github.com/jjsantos01/qgis_mcp
 
 ---
