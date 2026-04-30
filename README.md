@@ -465,7 +465,7 @@ AI model & ML service integrations.
 ## Category: Development Tools (💻)
 
 Developer-focused MCP servers and tools.
-
+- memtrace (⭐) — https://github.com/syncable-dev/memtrace-public — Memtrace is a persistent memory layer for coding agents, built as a bi‑temporal structural knowledge graph over your codebase (AST‑driven symbols and relationships, plus temporal evolution and cross‑service API topology)
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
