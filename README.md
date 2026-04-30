@@ -271,6 +271,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- VirtualSMS — https://github.com/virtualsms-io/mcp-server (SMS verification with real physical SIM phone numbers across 145+ countries and 2500+ services — WhatsApp, Telegram, Discord, Gmail. Lets AI agents receive OTP codes, rent long-term numbers, and automate signup/verification flows. Also exposes x402 micropayments for agent-native billing.)
 
 ---
 
