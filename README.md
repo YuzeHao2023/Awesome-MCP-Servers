@@ -483,6 +483,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- agentprobe — https://agentprobe.fly.dev — Probes any seller URL for agentic commerce readiness. Returns score and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 13 checks: llms.txt, OpenAPI, MCP endpoint, payment rails, fulfillment proof. One MCP tool: probe_site(url). CI action available.
 - many others in Community Servers and Official Servers
 
 ---
