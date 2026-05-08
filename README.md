@@ -417,6 +417,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- ar-agents (Argentine business automation: MP, AFIP, WhatsApp, banking, shipping; 7 packages bundled) — https://github.com/ar-agents/ar-agents [glama](https://glama.ai/mcp/servers/ar-agents/ar-agents)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
