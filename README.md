@@ -305,6 +305,7 @@ Web fetching, scraping, and search.
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** - Search scientific papers and retrieve structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Remote MCP server with free tier.
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
@@ -436,11 +437,12 @@ Payments, market data, and finance tools.
 
 Papers, datasets, and domain data.
 
-- ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
-- Probe.dev — https://mcp.probe.dev
-- OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- ArXiv — https://github.com/blazickjp/arxiv-mcp-server
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** - Search scientific papers and retrieve structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Remote MCP server with free tier.
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- Probe.dev — https://mcp.probe.dev
 
 ---
 
