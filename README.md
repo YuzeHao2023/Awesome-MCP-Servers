@@ -615,6 +615,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 - bytebase/dbhub — https://github.com/bytebase/dbhub
 - Calculator — https://github.com/githejie/mcp-server-calculator
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp
+- Packrift MCP — https://github.com/Packrift/packrift-mcp (remote packaging-supplies catalog server with product search, pricing, inventory, packaging recommendations, and checkout URLs)
 - Context-aware & discovery servers (context-awesome, ref, etc.)
 - Currents — https://github.com/currents-dev/currents-mcp
 - DINO-X, Digma, Driflyte, DreamFactory, Dash0, DB-specific servers, and many more.
