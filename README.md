@@ -459,6 +459,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- llm-prices — https://github.com/benbencodes/llm-prices (LLM API pricing: query, compare, and calculate costs across 128 models and 22 providers. 6 MCP tools: get pricing, calculate cost, compare models, find cheapest, list providers, search models.)
 
 ---
 
