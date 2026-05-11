@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- jpcite / autonomath-mcp (Japanese public-program evidence: 11,601 subsidy/loan/tax/certification programs + 9,484 e-Gov laws + 22,258 enforcement detail rows + 13,801 国税庁 invoice registrants + 503,930 corporate entities + 6.12M facts; 139 tools, stdio, every packet ships `source_url` + `source_fetched_at` + `known_gaps`; 3 req/day per IP free, metered ¥3/billable unit) — https://github.com/shigetosidumeda-cyber/autonomath-mcp
 
 ---
 
