@@ -351,6 +351,7 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+- Dakera — https://github.com/dakera-ai/dakera-mcp (Self-hosted MCP-native agent memory server. 83 tools for persistent, decay-weighted episodic memory. RocksDB+HNSW, 87.8% LoCoMo benchmark, multi-SDK support. Docker Compose deployment.)
 
 ---
 
