@@ -198,6 +198,7 @@ Provides access to local or remote file systems with configurable permissions.
 - FileSystem (mark3labs) — https://github.com/mark3labs/mcp-filesystem-server (2)
 - Everything Search — https://github.com/mamertofabian/mcp-everything-search
 - fast-filesystem-mcp — https://github.com/efforthye/fast-filesystem-mcp
+- MCP Server Convert — https://github.com/demo112/mcp-server-convert
 - llm-context — https://github.com/cyberchitta/llm-context.py
 
 ---
