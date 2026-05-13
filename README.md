@@ -480,6 +480,7 @@ Developer-focused MCP servers and tools.
 - VSCode Devtools — https://github.com/biegehydra/BifrostMCP
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
+- Bilig WorkPaper MCP — https://github.com/proompteng/bilig — Headless spreadsheet WorkPaper server for formula evaluation, verified edits, recalculated readback, and JSON persistence.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
