@@ -466,6 +466,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Certvo — https://certvo.com/docs/mcp — Accessibility scanning (WCAG 2.1 A/AA/AAA via Playwright + axe-core), AI code-fix generation, alt text, and VPAT 2.4 over MCP. `claude mcp add --transport http certvo https://certvo.com/api/mcp/`
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
