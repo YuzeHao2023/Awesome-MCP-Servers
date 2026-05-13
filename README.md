@@ -696,3 +696,7 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+
+## Category: Development Tools
+- [Certvo](https://certvo.com/docs/mcp) ☁️ - Accessibility scanning (WCAG 2.1 A/AA/AAA via Playwright + axe-core), AI code-fix generation, alt text, and VPAT 2.4 over MCP. `claude mcp add --transport http certvo https://certvo.com/api/mcp/`
+
