@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
+- HeadlessTracker — https://github.com/tamasPetki/HeadlessTracker (headless crypto portfolio MCP server: Bybit, Binance, MetaMask/6 EVM chains, Solana, Polymarket positions)
 ---
 
 ## Category: Research & Data (🧬)
