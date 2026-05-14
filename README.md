@@ -417,6 +417,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- ModelForge (⭐) — https://github.com/Whatsonyourmind/modelforge (bulge-tier financial model factory: spec → live-formula Excel for LBO/DCF/M&A/IPO/restructuring/project finance/NPL/structured credit; source-traceable cells; 7-jurisdiction tax pack IT/US/UK/DE/FR/ES/JP)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
