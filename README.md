@@ -240,6 +240,7 @@ Access to cloud storage platforms.
 
 Database access with schema inspection and query capabilities.
 
+- Dakera — https://github.com/dakera-ai/dakera-deploy (Self-hosted agent memory server with hybrid BM25 + HNSW vector retrieval, decay-weighted recall, multi-agent namespacing, and MCP integration)
 - PostgreSQL — https://github.com/modelcontextprotocol/servers/tree/main/src/postgres
 - SQLite — https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite
 - DuckDB — https://github.com/ktanaka101/mcp-server-duckdb
