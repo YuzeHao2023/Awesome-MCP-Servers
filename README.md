@@ -487,6 +487,7 @@ Developer-focused MCP servers and tools.
 
 ---
 
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) — CLI tool that generates MCP server boilerplate from OpenAPI specs, REST APIs, and more.
 ## Category: Data Visualization (📊)
 
 Charting and diagram tools.
