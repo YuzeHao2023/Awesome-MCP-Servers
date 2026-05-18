@@ -222,6 +222,7 @@ Git and version control related MCP servers.
 - Git (direct) — https://github.com/modelcontextprotocol/servers/tree/main/src/git
 - Phabricator — https://github.com/baba786/phabricator-mcp-server
 - Gitingest-MCP — https://github.com/puravparab/Gitingest-MCP
+- rewindex — https://rewindex.org (GitHub: https://github.com/crsxmd/rewindex) — Auto-snapshots every file change made by AI agents. Rewind sessions, audit code, and inspect diffs from your AI chat or the built-in dashboard. Free, local, no coding required.
 
 ---
 
