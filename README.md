@@ -324,6 +324,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Vessel Traffic MCP — https://github.com/tools-mcp/vessel-traffic-mcp - Read-only vessel identity lookup, AIS-style positions, tracks, port calls, carrier schedules, vessel schedules, and delay heuristics with source attribution.
 
 ---
 
