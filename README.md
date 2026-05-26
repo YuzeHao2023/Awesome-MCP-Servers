@@ -324,6 +324,9 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- bolsa_de_carga-mcp — https://github.com/cargoffer/bolsa_de_carga-mcp
+- ecmr-mcp — https://github.com/cargoffer/ecmr-mcp
+- transcend-mcp-server — https://github.com/cargoffer/transcend-mcp-server
 
 ---
 
