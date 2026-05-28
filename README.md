@@ -483,7 +483,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
-- FCoP (fcop-mcp) — https://github.com/joinwell52-AI/FCoP — File-based Coordination Protocol: 35 MCP tools for multi-agent governance (write_task, write_report, write_issue, write_review…). Agents coordinate via structured Markdown files. Registered on official MCP Registry (io.github.joinwell52-AI/fcop). MIT.
+- FCoP (fcop-mcp) — https://github.com/joinwell52-AI/FCoP — File-based Coordination Protocol: 45 MCP tools for multi-agent governance (write_task, write_report, write_issue, write_review, lifecycle claim/submit/approve…). Agents coordinate via structured Markdown files on the filesystem (`_lifecycle/`). Official MCP Registry: `io.github.joinwell52-AI/fcop` (v3.2.4). Glama: https://glama.ai/mcp/servers/joinwell52-AI/FCoP. MIT.
 - many others in Community Servers and Official Servers
 
 ---
