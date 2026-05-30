@@ -511,6 +511,7 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- Tuning Engines — https://github.com/cerebrixos-org/tuning-engines-cli — Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
