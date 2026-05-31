@@ -449,6 +449,7 @@ Papers, datasets, and domain data.
 AI model & ML service integrations.
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
+- Forge Cascade MCP — https://github.com/SunFlash12/forge-cascade-mcp — Enterprise AI memory and RAG buyer-route connector exposing Forge docs, pricing, intake, and direct enterprise checkout paths for agents.
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp
