@@ -290,6 +290,7 @@
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
+- UnifAPI — https://github.com/unifapi-agent/unifapi-mcp-server - 托管式远程 MCP 服务，覆盖社交、搜索、抓取、新闻、创作者研究和 KOL 定价等公共数据工作流。
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch/SearXNG — https://github.com/mnhlt/WebSearch-MCP 与 https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors 与 RAG Web Browser — https://github.com/apify/actors-mcp-server 与 https://github.com/apify/mcp-server-rag-web-browser

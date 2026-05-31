@@ -264,6 +264,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
+- UnifAPI — https://github.com/unifapi-agent/unifapi-mcp-server - 소셜, 검색, 스크래핑, 뉴스, 크리에이터 리서치, KOL 가격 책정 등 공개 데이터 워크플로를 위한 호스팅 원격 MCP 서버.
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 
 ---
