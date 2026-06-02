@@ -568,6 +568,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- WorldCitiSim eSIM — https://github.com/easyname889/worldcitisim-frontend/tree/main/apps/mcp-server
 
 ---
 
