@@ -403,6 +403,7 @@ Shell、操作系统与任务自动化相关。
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
+- TWZRD Agent Intel — https://intel.twzrd.xyz/mcp (基于Solana区块链的AI智能体信任评分MCP服务器，通过x402微支付实现。免费预检工具 + 付费信任证明($0.05 USDC))
 
 ---
 
