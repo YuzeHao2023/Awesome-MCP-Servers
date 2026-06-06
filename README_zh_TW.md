@@ -418,6 +418,7 @@ Shell、作業系統與任務自動化相關工具：
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
+- TWZRD Agent Intel — https://intel.twzrd.xyz/mcp (基於Solana區塊鏈的AI智能體信任評分MCP伺服器，透過x402微支付實現。免費預檢工具 + 付費信任證明($0.05 USDC))
 
 ---
 
