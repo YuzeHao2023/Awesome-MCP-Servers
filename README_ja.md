@@ -415,6 +415,7 @@ Web フェッチ、スクレイピング、検索。
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
+- TWZRD Agent Intel — https://intel.twzrd.xyz/mcp (Solana x402トラストスコアリング、無料の事前確認とUSDP支払い済み署名付き証明書)
 
 ---
 
