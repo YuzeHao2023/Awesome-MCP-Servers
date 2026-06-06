@@ -456,6 +456,7 @@ AI model & ML service integrations.
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
+- RunAPI MCP Server — https://github.com/runapi-ai/mcp — Connect agents to 130+ AI models for image, video, music, and chat generation through one MCP server.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
