@@ -431,6 +431,7 @@ Payments, market data, and finance tools.
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
+- TWZRD Agent Intel — https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel (Solana on-chain agent trust scoring via x402 micropayments. Free preflight + paid trust $0.05 + market intel $0.03 in USDC. Hosted MCP at intel.twzrd.xyz/mcp)
 
 ## Category: Research & Data (🧬)
 
