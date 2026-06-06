@@ -322,6 +322,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
+- TWZRD Agent Intel — https://intel.twzrd.xyz/mcp (Solana x402 트러스트 스코어링: 무료 사전 확인 및 USDC 유료 서명 영수증)
 
 ---
 
