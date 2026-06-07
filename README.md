@@ -174,6 +174,7 @@ Official integrations are maintained by companies building production-ready MCP 
 Helpful utilities to discover, install, manage, and work with MCP servers.
 
 Server Managers:
+- AgentNDX — MCP server directory and hosted MCP search endpoint for discovering 25K+ MCP servers across 95 skill categories — https://agentndx.ai
 - mcp-get — CLI tool to install and manage MCP servers (Claude Desktop oriented) — https://github.com/michaellatman/mcp-get
 - mxcp — An open-source framework for building secure enterprise MCP tools — http://github.com/raw-labs/mxcp
 - Remote MCP — Solution for remote MCP communication — https://github.com/ssut/Remote-MCP
