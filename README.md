@@ -266,6 +266,7 @@ Database access with schema inspection and query capabilities.
 Integration with chat and messaging platforms.
 
 - Slack — https://github.com/korotovsky/slack-mcp-server
+- Resend — https://github.com/friendlygeorge/resend-mcp-server (transactional email sending, contacts, audiences, and domain management via Resend API)
 - LINE Official Account (⭐) — https://github.com/line/line-bot-mcp-server
 - Linear — https://github.com/jerhadf/linear-mcp-server
 - Atlassian — https://github.com/sooperset/mcp-atlassian
@@ -279,6 +280,7 @@ Integration with chat and messaging platforms.
 Access observability and monitoring systems.
 
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
+- Sentry (community) — https://github.com/friendlygeorge/sentry-mcp-server (error tracking, performance monitoring, and issue management via Sentry API)
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
 - sslmon — https://github.com/firesh/sslmon-mcp
@@ -332,6 +334,8 @@ Mapping and geolocation.
 Marketing and analytics tools.
 
 - Agent Mindshare — https://agentmindshare.com
+- PostHog — https://github.com/friendlygeorge/posthog-mcp-server (product analytics, feature flags, and session recordings via PostHog API)
+- Plausible — https://github.com/friendlygeorge/plausible-mcp-server (privacy-friendly web analytics via Plausible API)
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
@@ -370,6 +374,7 @@ Cloud vendors and orchestration.
 
 Automation platforms and workflow tools.
 
+- Jobber — https://github.com/friendlygeorge/jobber-mcp-server (field service management, scheduling, invoicing, and client management via Jobber API)
 - Make (⭐) — https://github.com/integromat/make-mcp-server
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
 - Taskade (⭐) — https://github.com/taskade/mcp
@@ -418,6 +423,9 @@ Game engines and tooling.
 Payments, market data, and finance tools.
 
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
+- CoinGecko — https://github.com/friendlygeorge/coingecko-mcp-server (cryptocurrency market data, prices, and metadata via CoinGecko API)
+- DefiLlama — https://github.com/friendlygeorge/defillama-mcp-server (DeFi protocol data, TVL, and yields via DefiLlama API)
+- Etherscan — https://github.com/friendlygeorge/etherscan-mcp-server (Ethereum blockchain data, transactions, and contract info via Etherscan API)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
@@ -425,6 +433,7 @@ Payments, market data, and finance tools.
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
+- Stripe (community) — https://github.com/friendlygeorge/stripe-mcp-server (payment processing, customer management, and invoice handling via Stripe API)
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
@@ -466,6 +475,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Jira — https://github.com/friendlygeorge/jira-mcp-server (issue tracking, project management, and sprint planning via Jira API)
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
