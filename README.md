@@ -336,6 +336,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- ProposalCraft — https://github.com/jabbawocky/proposalcraft — MCP server for freelancers and consultants. Drafts client proposals in your voice from your past winning work. 8 tools, freemium, MIT, no API key.
 
 ---
 
