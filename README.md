@@ -278,6 +278,7 @@ Integration with chat and messaging platforms.
 
 Access observability and monitoring systems.
 
+- HumanHours — https://github.com/triadgit/humanhours-mcp - remote MCP for agent ROI (hours and money saved) and company enrichment into roles and per-hour wages; OAuth 2.1, no install (https://mcp.humanhours.dev/mcp)
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
