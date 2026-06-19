@@ -429,6 +429,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Public Grants — https://grants.mrchief.ai - French public grants advisor for startups and AI agents; 21 tools for profile onboarding (SIRENE pre-fill, auto-enrichment + customisable input), eligibility check across 49 programmes, application drafting (.md/.docx export), and free strategic briefing PDF; EUR 49/dossier vs EUR 2,000-5,000 at consulting firms; remote Streamable HTTP (https://grants.mrchief.ai/mcp/)
 
 ---
 
