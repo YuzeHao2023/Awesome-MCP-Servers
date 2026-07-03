@@ -527,6 +527,7 @@ Single MCP endpoints that expose many integrations.
 Translation and language services.
 
 - Lara (⭐) — https://github.com/translated/lara-mcp
+- arabicfmt — https://github.com/cc1a2b/arabicfmt
 
 ---
 
