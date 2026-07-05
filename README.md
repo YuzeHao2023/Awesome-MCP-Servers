@@ -696,3 +696,5 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 CLAUDE.md templates (wiki, mental-models, voice, protocols) for AI agent context. MIT.
