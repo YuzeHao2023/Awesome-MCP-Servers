@@ -284,6 +284,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- Quota Dashboard MCP — https://github.com/ryan-knowone/quota-dashboard-mcp — Local MCP server for real-time AI subscription quota across Claude Code Max, Kimi, and Z.ai. Tokens stay on your machine; install with `npx -y ryan-knowone/quota-dashboard-mcp`.
 
 ---
 
