@@ -45,6 +45,7 @@ BTW, we provide a [full list of MCP (Master Control Program) Servers](https://gi
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ---
 
 ## ⚠️ Security Warning
