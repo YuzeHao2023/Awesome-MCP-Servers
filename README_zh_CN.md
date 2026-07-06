@@ -380,6 +380,7 @@ Shell、操作系统与任务自动化相关。
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Taisly Agent Kit（官方 MCP 服务器、CLI、SDK 与 Agent Skill，用于将短视频发布到 TikTok、Instagram Reels、YouTube Shorts、X 和 Facebook；远程 MCP：https://app.taisly.com/mcp）— https://github.com/taisly/agent [npm: @taisly/agent]
 
 ---
 
@@ -646,4 +647,3 @@ Shell、操作系统与任务自动化相关。
 - 在生产环境中优先使用官方厂商维护的服务器（标注为 ⭐）。
 - 查阅每个服务器仓库，了解其支持的传输方式（stdio、SSE、HTTP）、鉴权方式与示例客户端。
 - 该生态系统发展迅速，新的服务器、客户端和框架不断加入。维护者请确保仓库包含清晰的安装与安全说明。
-

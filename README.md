@@ -402,6 +402,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Taisly Agent Kit (official MCP server, CLI, SDK, and agent skill for publishing short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook; remote MCP: https://app.taisly.com/mcp) — https://github.com/taisly/agent [npm: @taisly/agent]
 
 ---
 

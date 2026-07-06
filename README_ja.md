@@ -392,6 +392,7 @@ Web フェッチ、スクレイピング、検索。
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Taisly Agent Kit（TikTok、Instagram Reels、YouTube Shorts、X、Facebook にショート動画を公開するための公式 MCP サーバー、CLI、SDK、Agent Skill。リモート MCP: https://app.taisly.com/mcp）— https://github.com/taisly/agent [npm: @taisly/agent]
 
 ---
 
