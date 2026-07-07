@@ -417,7 +417,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
-- AgentServices — Paid data APIs for AI agents. Crypto prices, DeFi yields, indicators, dispute resolution. x402 on Base. MCP at api.aiservices.to/mcp. [GitHub](https://github.com/vbkotecha/aiservices-api)
+- AgentServices — Paid data APIs for AI agents. Crypto prices, DeFi yields, indicators, dispute resolution. x402 on Base. MCP at agentservices.to/mcp. [GitHub](https://github.com/vbkotecha/aiservices-api)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
