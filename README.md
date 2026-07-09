@@ -429,6 +429,8 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- isocast-mcp (Polymarket weather-market signals: temperature-bucket crossings + live odds across 37 cities; x402 pay-per-call on Base USDC) — https://www.npmjs.com/package/isocast-mcp
+- moltalyzer-mcp (Polymarket + AI-agent-community intelligence: order-book microstructure, whale calibration, market digests; x402 pay-per-call on Base USDC) — https://www.npmjs.com/package/moltalyzer-mcp
 
 ---
 
@@ -441,6 +443,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- vindex-mcp (vehicle data: VIN decode + factory warranty, recalls, known issues/reliability, US/CA purchase costs from NHTSA + Transport Canada; x402 pay-per-call on Base USDC) — https://www.npmjs.com/package/vindex-mcp
 
 ---
 
