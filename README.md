@@ -426,6 +426,7 @@ Payments, market data, and finance tools.
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
+- KLinePic — https://github.com/sher1096/klinepic-agent-api-examples (tested MCP server for turning broker or exchange fills into annotated post-trade candlestick charts, with capability discovery, free preflight, and user-confirmed rendering; no signals, predictions, advice, or order execution)
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
