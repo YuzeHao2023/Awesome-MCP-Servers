@@ -414,6 +414,7 @@ Web フェッチ、スクレイピング、検索。
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
+- KLinePic — https://github.com/sher1096/klinepic-agent-api-examples (ブローカーや取引所の約定履歴から注釈付きの取引後ローソク足レビュー図を生成するテスト済み MCP サーバー。機能確認、無料プリフライト、ユーザー確認後のレンダリングに対応し、売買シグナル、予測、投資助言、注文執行は提供しない)
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 
 ---
