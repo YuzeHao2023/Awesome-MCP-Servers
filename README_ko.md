@@ -322,6 +322,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
+- KLinePic — https://github.com/sher1096/klinepic-agent-api-examples (브로커 또는 거래소 체결 내역을 주석이 포함된 거래 후 캔들스틱 복기 차트로 변환하는 테스트된 MCP 서버. 기능 확인, 무료 사전 점검, 사용자 확인 후 렌더링을 지원하며 신호, 예측, 투자 조언 또는 주문 실행은 제공하지 않음)
 
 ---
 

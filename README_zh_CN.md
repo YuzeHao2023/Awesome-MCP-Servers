@@ -402,6 +402,7 @@ Shell、操作系统与任务自动化相关。
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
+- KLinePic — https://github.com/sher1096/klinepic-agent-api-examples（经过实测的 MCP 服务，可将券商或交易所成交记录生成带标注的交易后 K 线复盘图；支持能力查询、免费预检和用户确认后渲染，不提供信号、预测、投资建议或下单）
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
 
 ---
