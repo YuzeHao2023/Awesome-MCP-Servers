@@ -519,6 +519,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- xiangguangyu-skills — https://github.com/Chromatic0618/alipay-mcp-server — 252 AI Skills MCP Server with Alipay pay-per-use. SSE + stdio transport. Free 10 calls/day/skill. SSE: http://124.222.26.218:3100/sse. npm: xiangguangyu-mcp-skills.
 
 ---
 
