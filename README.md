@@ -655,6 +655,7 @@ Frameworks and scaffolding for building MCP servers:
 Frameworks and scaffolding for building MCP servers:
 
 - create-mcp-ts — https://github.com/stephencme/create-mcp-ts
+- Heym — https://github.com/heymrun/heym (visual AI workflow platform with MCP client and server support)
 - LiteMCP — https://github.com/wong2/litemcp
 - mcp-framework — https://github.com/QuantGeekDev/mcp-framework
 - MCP Plexus — https://github.com/super-i-tech/mcp_plexus
