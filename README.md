@@ -426,6 +426,7 @@ Payments, market data, and finance tools.
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
+- sipi.bot — Spend Firewall for AI Agents — https://github.com/kindrat86/sipi-bot (pre-spend firewall: approves, blocks, or flags every agent transaction before money moves — per-transaction caps, velocity limits, merchant allowlists — in under 5ms; 53/53 eval; MCP server, HTTP API, CLI; MIT)
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
