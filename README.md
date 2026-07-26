@@ -417,6 +417,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- Equibles — https://github.com/daniel3303/stock-market-mcp-server (US stock market data: live stock and options prices, congressional trades, insider transactions, SEC filings full-text search, XBRL fundamentals, 13F holdings, earnings-call transcripts; 90+ tools, remote server `https://mcp.equibles.com/mcp`)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
