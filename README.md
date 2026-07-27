@@ -696,3 +696,5 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live cross-platform trend data for AI agents (Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, npm, Steam, and more). Historical series, growth rates, and live leaderboards. Free API key at https://trendsmcp.ai
