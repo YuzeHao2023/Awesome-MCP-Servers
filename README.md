@@ -329,6 +329,8 @@ Mapping and geolocation.
 
 ## Category: Marketing (🎯)
 
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live cross-platform trend data for AI agents (Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, npm, Steam, and more). Historical series, growth rates, and live leaderboards. Free API key at https://trendsmcp.ai
+
 Marketing and analytics tools.
 
 - Agent Mindshare — https://agentmindshare.com
@@ -697,4 +699,3 @@ If this project is helpful for you, please cite:
 }
 ```
 
-- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live cross-platform trend data for AI agents (Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, npm, Steam, and more). Historical series, growth rates, and live leaderboards. Free API key at https://trendsmcp.ai
