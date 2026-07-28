@@ -422,6 +422,7 @@ Payments, market data, and finance tools.
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
+- DepthFeed (⭐) — https://github.com/vcorp-dev/depthfeed-mcp (remote, read-only MCP for live and historical Polymarket, Kalshi, and Limitless order books; keyless access available)
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
