@@ -410,6 +410,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- OSRS Calc (⭐) — https://github.com/rocnubie/osrs-calc-mcp (read-only Old School RuneScape skill planning, combat, prices, and wiki reference workflows; use https://osrs-calc.com for current values) [Registry: `io.github.rocnubie/osrs-calc-mcp`]
 
 ---
 
