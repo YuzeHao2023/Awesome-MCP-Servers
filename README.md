@@ -487,6 +487,7 @@ Developer-focused MCP servers and tools.
 
 ---
 
+${ENTRY}
 ## Category: Data Visualization (📊)
 
 Charting and diagram tools.
