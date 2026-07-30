@@ -392,6 +392,7 @@ Web フェッチ、スクレイピング、検索。
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Xquik - https://github.com/Xquik-dev/x-twitter-scraper - X の検索、タイムライン、プロフィール、リスト、コミュニティ、モニタリング、webhook、メディア、確認付き書き込み操作に対応するリモート MCP サーバー。API key と OAuth 2.1 認証に対応。
 
 ---
 

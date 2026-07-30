@@ -395,6 +395,7 @@ Shell、作業系統與任務自動化相關工具：
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Xquik - https://github.com/Xquik-dev/x-twitter-scraper - 提供 X 搜尋、時間軸、個人資料、清單、社群、監控、webhook、媒體與需確認寫入操作的遠端 MCP 伺服器。支援 API key 與 OAuth 2.1 驗證。
 
 ---
 

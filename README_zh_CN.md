@@ -380,6 +380,7 @@ Shell、操作系统与任务自动化相关。
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Xquik - https://github.com/Xquik-dev/x-twitter-scraper - 提供 X 搜索、时间线、个人资料、列表、社区、监控、webhook、媒体和需确认写入操作的远程 MCP 服务器。支持 API key 和 OAuth 2.1 认证。
 
 ---
 
