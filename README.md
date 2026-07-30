@@ -586,6 +586,7 @@ Robotics and device control.
 - Bagel — https://github.com/Extelligence-ai/bagel
 
 ---
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data across 25+ platforms (Google, YouTube, TikTok, Reddit, Amazon, news sentiment, app downloads, more). MCP server + REST API. [Free tier](https://trendsmcp.ai) (100 req/mo).
 
 # Community Servers
 
