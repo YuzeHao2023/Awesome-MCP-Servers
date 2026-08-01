@@ -511,6 +511,7 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- Unified AI System — https://github.com/happy520ai/unified-ai-system — Terminal-first, self-hosted AI gateway with an eight-tool MCP server for health, readiness, credential-free fake-provider chat, and read-only knowledge, workflow, and workforce inspection.
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
