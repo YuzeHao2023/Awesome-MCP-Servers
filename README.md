@@ -350,6 +350,7 @@ Personal knowledge and notes integrations.
 - Slite — https://github.com/fajarmf/slite-mcp
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
+- GoodMemory — https://github.com/hjqcan/GoodMemory (Local-first, auditable memory for Codex, Claude Code, and MCP clients, with scoped recall, reviewable writes, recall traces, and revise/forget/export controls.)
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
 
 ---
