@@ -331,7 +331,7 @@
 - Slite — https://github.com/fajarmf/slite-mcp
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
-- GoodMemory — https://github.com/hjqcan/GoodMemory（面向 Codex、Claude Code 与任意 MCP 客户端的本地优先、可审计记忆层。默认使用持久化 SQLite 与无嵌入召回；记忆可检查、纠正、导出和删除，写回需显式启用。安装：`npm install -g goodmemory@0.7.0`。）
+- GoodMemory — https://github.com/hjqcan/GoodMemory（面向 Codex、Claude Code 与任意 MCP 客户端的本地优先、可审计记忆层。默认使用持久化 SQLite 与无嵌入召回；记忆可检查、纠正、导出和删除，写回需显式启用。安装：`npm install -g goodmemory@0.7.1`。）
 
 ---
 
