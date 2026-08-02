@@ -478,6 +478,7 @@ AI モデルおよび ML サービスとの統合。
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- Talivia Agent Kit（収益重視の Web サイト分析の導入、ライブイベントの検証、トラフィックと決済アトリビューションの接続に対応する公式リモート／ローカル MCP サーバー、CLI、Agent Skill。リモート MCP: https://talivia.com/mcp）— https://github.com/talivia-group/agent [npm: @talivia/agent]
 
 ---
 

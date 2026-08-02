@@ -346,6 +346,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 데이터 시각화 (📊)
 
 - VegaLite — https://github.com/isaacwasserman/mcp-vegalite-server
+- Talivia Agent Kit (수익 중심 웹사이트 분석 설치, 실시간 이벤트 검증, 트래픽과 결제 어트리뷰션 연결을 지원하는 공식 원격/로컬 MCP 서버, CLI, Agent Skill. 원격 MCP: https://talivia.com/mcp) — https://github.com/talivia-group/agent [npm: @talivia/agent]
 
 ---
 
@@ -390,5 +391,4 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 - 신뢰할 수 없는 커뮤니티 서버는 컨테이너 또는 VM 같은 격리 환경에서 실행하십시오。
 - 프로덕션 환경에서는 공식(⭐) 구현을 우선 사용하십시오。
 - 각 서버의 리포지토리에서 전송 방식(stdio, SSE, HTTP)、인증 및 예제 클라이언트를 확인하십시오。
-
 

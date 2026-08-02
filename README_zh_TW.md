@@ -480,6 +480,7 @@ AI 與機器學習服務整合：
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- Talivia Agent Kit（官方遠端與本地 MCP 伺服器、CLI 和 Agent Skill，用於安裝以營收為核心的網站分析、驗證即時事件，並將流量與付款歸因連結；遠端 MCP：https://talivia.com/mcp）— https://github.com/talivia-group/agent [npm: @talivia/agent]
 
 ---
 
@@ -662,5 +663,4 @@ AI 與機器學習服務整合：
 - 正式環境建議優先使用官方廠商維護的伺服器（標註為 ⭐）。
 - 檢視各伺服器倉庫以了解支援之傳輸方式（stdio、SSE、HTTP）、認證方式與範例用戶端。
 - 此生態系迅速演進，新伺服器、用戶端與框架經常加入；維護者請確保倉庫附有清楚的安裝與安全說明。
-
 
