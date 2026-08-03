@@ -168,6 +168,8 @@
   https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli（MCP 服务器检查工具）  
   https://github.com/wong2/mcp-cli
+- Jacobian — 面向可组合数学的 MCP 服务器、CLI 和 Python 库，支持跨多项式映射、线性代数与图算法进行精确计算和猜想检验。
+  https://github.com/morluto/jacobian
 - 及其他用于安装、发现与管理的工具
 
 ---
