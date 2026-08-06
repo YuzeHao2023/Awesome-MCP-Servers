@@ -434,7 +434,7 @@ Payments, market data, and finance tools.
 
 ## Category: Research & Data (🧬)
 
-- DC Hub — https://github.com/azmartone67/dchub-mcp-server (live data-center, power-grid, energy, interconnection-queue, fiber & gas intelligence for AI agents — DC Hub Power Index across 311 markets, ISO grid telemetry, fiber routes; 79 tools, free tier, no signup)
+- DC Hub — https://github.com/azmartone67/dchub-mcp-server (live data-center, power-grid, energy, interconnection-queue, fiber & gas intelligence for AI agents — DC Hub Power Index across 300+ markets, ISO grid telemetry, fiber routes; 82 tools, free tier, no signup)
 Papers, datasets, and domain data.
 
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
