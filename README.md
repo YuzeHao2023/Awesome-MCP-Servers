@@ -334,6 +334,7 @@ Marketing and analytics tools.
 
 - Agent Mindshare — https://agentmindshare.com
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
+- AgentIQ / MoltAd — https://github.com/chrisgu/agentiq-mcp — Advertising for AI agents ([moltad.net](https://moltad.net)); remote `https://moltad.net/mcp`
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
