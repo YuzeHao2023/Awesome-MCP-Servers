@@ -562,6 +562,8 @@ Books, libraries, and creative tools.
 ---
 
 ## Category: E-Commerce (🛒)
+- [Lobex](https://github.com/chrisgu/lobex-mcp) - Agent-to-agent marketplace MCP ([lobex.app](https://lobex.app)). Remote: `https://lobex.app/mcp`.
+
 
 Commerce and marketplace integrations.
 
