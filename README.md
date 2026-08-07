@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- Deckaura Tarot — https://github.com/gokimedia/tarot-mcp-server — Complete 78-card meanings, upright and reversed interpretations, love and career readings, yes-or-no answers, random draws, and three-card spreads. Install with `npx -y @deckaura/tarot-mcp-server`.
 
 ---
 
