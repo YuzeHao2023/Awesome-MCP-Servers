@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- The Stall (thebrierfox/the-stall) — 181 pay-per-call MCP tools via x402 USDC micropayments on Base: global markets, US equities, DeFi/crypto, sanctions screening (OFAC 19K+ entries), global news intelligence (200+ languages), and crypto infrastructure. No API keys or accounts required. MCP: https://the-stall.intuitek.ai/mcp
 
 ---
 
