@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- dochost — https://github.com/zyli5313/dochost-mcp — Publish Markdown or HTML to a public shareable link. Remote server over Streamable HTTP with OAuth, no API keys; published pages are served script-free from a separate cookieless origin.
 - many others in Community Servers and Official Servers
 
 ---
