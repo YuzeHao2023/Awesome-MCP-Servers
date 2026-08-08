@@ -161,6 +161,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
 - Notion — https://github.com/makenotion/notion-mcp (official)
+- OrkasVideoStudio — https://github.com/Orkas-AI/Orkas-VideoStudio (official TypeScript MCP server and local-first CLI for agent-driven video composition, editing, generation, transcription, and plan-based assembly)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
 - Tinybird — https://github.com/tinybirdco/mcp-tinybird (⭐)
