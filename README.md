@@ -451,6 +451,7 @@ AI model & ML service integrations.
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - NeuroLink — https://github.com/juspay/neurolink
+- OraClaw — https://github.com/Whatsonyourmind/oraclaw (decision intelligence for AI agents: 19 algorithms including bandits, constraint solvers, Monte Carlo simulation, forecasting, anomaly detection, risk analysis — 12 MCP tools, sub-25ms, zero LLM cost)
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
