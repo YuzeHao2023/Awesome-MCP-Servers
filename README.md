@@ -402,6 +402,7 @@ Social platforms integration.
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Xquik - https://github.com/Xquik-dev/x-twitter-scraper - Remote MCP server for X search, timelines, profiles, lists, communities, monitoring, webhooks, media, and write actions with confirmation. Supports API key and OAuth 2.1 authentication.
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
 ---

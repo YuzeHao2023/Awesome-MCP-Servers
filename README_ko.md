@@ -309,6 +309,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 소셜 미디어 (📱)
 
 - YouTube — https://github.com/anaisbetts/mcp-youtube
+- Xquik - https://github.com/Xquik-dev/x-twitter-scraper - X 검색, 타임라인, 프로필, 목록, 커뮤니티, 모니터링, webhook, 미디어 및 확인이 필요한 쓰기 작업을 제공하는 원격 MCP 서버. API key와 OAuth 2.1 인증을 지원합니다.
 
 ---
 
