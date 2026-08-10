@@ -308,6 +308,7 @@ Web fetching, scraping, and search.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
+- Safari MCP — https://github.com/achiya-automation/safari-mcp - Native Safari browser automation for AI agents on macOS. 80 tools, ~5ms per command, zero Chrome overhead.
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
