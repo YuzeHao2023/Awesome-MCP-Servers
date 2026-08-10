@@ -483,6 +483,7 @@ Developer-focused MCP servers and tools.
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
+- [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, with review workflows, role-based access, and a remote MCP server.
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
 - many others in Community Servers and Official Servers
 
