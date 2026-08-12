@@ -442,6 +442,9 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Blender Optics Simulator (optical bench simulation) — https://github.com/emircbngl/blender-optics-simulator
+- TARHAN (semiconductor & fuel-cell simulation) — https://github.com/emircbngl/tarhan
+- dhm-hybrid (holographic microscopy, quantitative phase) — https://github.com/emircbngl/dhm-hybrid
 
 ---
 
