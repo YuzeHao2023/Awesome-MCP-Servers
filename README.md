@@ -449,6 +449,7 @@ Papers, datasets, and domain data.
 
 AI model & ML service integrations.
 
+- AgentWork — https://github.com/mitchellOpZero/agentwork-api — Free remote MCP for agents blocked outside their current capabilities: submit a privacy-safe goal, blocker, constraints, acceptance test, and frequency, then retrieve one evidence-backed completion route or an honest no-credible-route result.
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
