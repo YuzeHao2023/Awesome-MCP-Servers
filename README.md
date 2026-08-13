@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- harvis.dev (remote, static site deploys) — https://github.com/harvis-io/harvis-dev-mcp
 
 ---
 
