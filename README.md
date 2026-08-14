@@ -210,6 +210,7 @@ Secure sandbox environments for code execution.
 - Microsandbox (⭐) — https://github.com/microsandbox/microsandbox
 - E2B (⭐) — https://github.com/e2b-dev/mcp-server
 - Docker (QuantGeekDev) — https://github.com/QuantGeekDev/docker-mcp
+- SandBase Harness — https://github.com/sandbaseai/sandbase-harness — Model-agnostic managed agent runtime with MCP tools for persistent, sandboxed sessions, streamed runs, artifacts, cancellation, audit, and replay.
 
 ---
 
