@@ -523,6 +523,7 @@ AI 與機器學習服務整合：
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP 類伺服器 — 用於金鑰與機密管理的 MCP 整合
+- Wireshark-MCP — https://github.com/bx33661/Wireshark-MCP — 一個基於 TShark 的本地 MCP 伺服器，為 AI 助手提供 Wireshark 網路封包擷取和分析功能。
 
 ---
 

@@ -509,6 +509,7 @@ Shell、操作系统与任务自动化相关。
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP 类服务器 — 针对密钥与机密管理的 MCP 集成
+- Wireshark-MCP — https://github.com/bx33661/Wireshark-MCP — 一个基于 TShark 的本地 MCP 服务器，为 AI 助手提供 Wireshark 网络数据包抓包和分析功能。
 
 ---
 

@@ -521,6 +521,7 @@ AI モデルおよび ML サービスとの統合。
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP サーバー — シークレットや鍵管理のための各種 MCP 統合
+- Wireshark-MCP — https://github.com/bx33661/Wireshark-MCP — AIアシスタントにWireshark/TSharkのネットワークパケット分析機能を提供するローカルMCPサーバー。
 
 ---
 
