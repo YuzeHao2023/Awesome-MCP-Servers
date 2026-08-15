@@ -519,7 +519,8 @@ Single MCP endpoints that expose many integrations.
 - Zapier — https://zapier.com/mcp
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
-- Magg — https://github.com/sitbon/magg
+- Magg — https://github.com/sitbon/magg - Universal MCP Toolkit — https://github.com/Markgatcha/universal-mcp-toolkit — All-in-one MCP toolkit bundling 15+ servers (filesystem, browser, GitHub, weather, and more) into a single zero-config `npx universal-mcp-toolkit` install. Listed on Glama. 100+ npm downloads.
+- - Universal MCP Toolkit — https://github.com/Markgatcha/universal-mcp-toolkit — An all-in-one MCP server aggregating 15+ tools (file system, web search, weather, SQLite, system info, and more). Zero-config via `npx universal-mcp-toolkit`, Glama-listed, 100+ monthly npm downloads.
 
 ---
 
