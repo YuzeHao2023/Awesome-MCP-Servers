@@ -181,6 +181,7 @@ Server Managers:
 - yamcp — Model Context Workspace Manager — https://github.com/hamidra/yamcp
 - ToolHive — Lightweight utility to simplify deployment & management — https://github.com/StacklokLabs/toolhive
 - MCP Installer — https://github.com/anaisbetts/mcp-installer
+- SandBase CLI — Connects 17+ AI clients to a hosted MCP gateway with OAuth, ownership-aware configuration, rollback, diagnostics, and native Skill setup — https://github.com/sandbaseai/cli
 
 Other utilities:
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
