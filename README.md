@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- Mac Developer Bridge — https://github.com/alexanderradahl/mac-developer-bridge — Local macOS MCP bridge for ChatGPT with shell and file access, real PTY sessions, background jobs, and read-only Codex history; intentionally unsandboxed and requires explicit full-access acknowledgement.
 
 ---
 
