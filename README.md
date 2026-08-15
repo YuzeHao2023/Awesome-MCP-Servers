@@ -469,6 +469,7 @@ Developer-focused MCP servers and tools.
 
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
+- Dibs — https://github.com/Agenxy/dibs
 - Octocode — https://github.com/bgauryy/octocode-mcp
 - OpenAPI Schema Explorer — https://github.com/kadykov/mcp-openapi-schema-explorer
 - OpenRPC — https://github.com/shanejonas/openrpc
