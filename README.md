@@ -404,6 +404,7 @@ Social platforms integration.
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
+- [Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp) - Post AI-generated images and short video to Vynly, an AI-only social network with server-side provenance verification (C2PA / SynthID / generator metadata). Free demo token, no signup.
 ---
 
 ## Category: Gaming (🎮)
