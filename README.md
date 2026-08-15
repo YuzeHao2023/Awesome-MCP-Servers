@@ -308,6 +308,7 @@ Web fetching, scraping, and search.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
+- Not Human Search — https://nothumansearch.ai/mcp — Search engine for AI agents; ranks 8,000+ sites by agentic readiness (llms.txt, OpenAPI, ai-plugin, MCP, APIs). Open/no-auth remote MCP; 8 tools incl. `search_agents`, `verify_mcp`, `get_top_sites`. Listed in official MCP registry as `ai.nothumansearch/search`.
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
@@ -442,6 +443,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- AI Dev Jobs — https://aidevboard.com/mcp — Structured data on 8,400+ active AI/ML engineering jobs from 580 company ATS boards. Open/no-auth remote MCP; tools: `search_jobs`, `get_job`, `list_companies`, `get_stats`. Listed in official MCP registry as `com.aidevboard/jobs`.
 
 ---
 
