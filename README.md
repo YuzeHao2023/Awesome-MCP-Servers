@@ -488,6 +488,7 @@ Developer-focused MCP servers and tools.
 
 ---
 
+- GodProfile — https://github.com/Luc0-0/GodProfile — MCP server generating animated glassmorphic SVGs for GitHub profiles. 16 tools: terminals, neural tech maps, live stat trophies, WakaTime, Spotify. Pure Python stdlib.
 ## Category: Data Visualization (📊)
 
 Charting and diagram tools.
