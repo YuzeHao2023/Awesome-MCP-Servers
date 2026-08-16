@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Iteration Layer (Document extraction, image transformation, and image, document & sheet generation via composable APIs) — https://github.com/iterationlayer/mcp
 
 ---
 
