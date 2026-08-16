@@ -344,6 +344,7 @@ Marketing and analytics tools.
 
 Personal knowledge and notes integrations.
 
+- Akephalos — https://github.com/sunnja69/akephalos (local-first, markdown-first `.akephalos` passport and MCP stdio server for portable agent preferences, tool notes, rules, project context, and durable memories across agents/tools via plain files/Git.)
 - eBook-mcp — https://github.com/onebirdrocks/ebook-mcp
 - Obsidian (1/2) — https://github.com/MarkusPfundstein/mcp-obsidian and https://github.com/calclavia/mcp-obsidian
 - Notion (1/2) — https://github.com/danhilse/notion_mcp and https://github.com/suekou/mcp-notion-server
