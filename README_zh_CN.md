@@ -403,6 +403,7 @@ Shell、操作系统与任务自动化相关。
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
+- Live Tennis API（实时网球比分、赛程、H2H、排名与模型胜率 — 供智能体为网球预测市场定价的赛事数据） — https://github.com/livetennisapi/livetennisapi-mcp
 
 ---
 
