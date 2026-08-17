@@ -422,8 +422,9 @@ Payments, market data, and finance tools.
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
+- CoinPaprika (⭐) — https://github.com/coinpaprika/coinpaprika-mcp
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
-- DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
+- DexPaprika (⭐) — https://github.com/coinpaprika/dexpaprika-mcp
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
