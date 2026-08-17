@@ -628,6 +628,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 
 Clients and UI tools that consume MCP servers:
 
+- Ontheia — https://github.com/Ontheia/ontheia
 - MBro — https://github.com/sitbon/magg/blob/main/docs/mbro.md
 - mcp-cli — https://github.com/wong2/mcp-cli
 - mcp-client — https://github.com/rakesh-eltropy/mcp-client
