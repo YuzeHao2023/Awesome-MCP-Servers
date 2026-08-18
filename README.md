@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- BuyWhere MCP Server — https://github.com/BuyWhere/buywhere-mcp - Cross-border product catalog for AI agents. Search and compare products from Singapore, SEA, and US markets.
 
 ---
 
