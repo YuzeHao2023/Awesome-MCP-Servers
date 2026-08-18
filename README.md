@@ -497,6 +497,7 @@ Charting and diagram tools.
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- Talivia Agent Kit (official remote and local MCP server, CLI, and Agent Skill for installing revenue-first website analytics, verifying live events, and connecting traffic to payment attribution; remote MCP: https://talivia.com/mcp) — https://github.com/talivia-group/agent [npm: @talivia/agent]
 
 ---
 

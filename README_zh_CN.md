@@ -466,6 +466,7 @@ Shell、操作系统与任务自动化相关。
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- Talivia Agent Kit（官方远程与本地 MCP 服务器、CLI 和 Agent Skill，用于安装以收入为核心的网站分析、验证实时事件，并将流量与支付归因关联；远程 MCP：https://talivia.com/mcp）— https://github.com/talivia-group/agent [npm: @talivia/agent]
 
 ---
 
@@ -646,4 +647,3 @@ Shell、操作系统与任务自动化相关。
 - 在生产环境中优先使用官方厂商维护的服务器（标注为 ⭐）。
 - 查阅每个服务器仓库，了解其支持的传输方式（stdio、SSE、HTTP）、鉴权方式与示例客户端。
 - 该生态系统发展迅速，新的服务器、客户端和框架不断加入。维护者请确保仓库包含清晰的安装与安全说明。
-
