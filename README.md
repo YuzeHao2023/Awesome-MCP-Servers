@@ -422,6 +422,7 @@ Payments, market data, and finance tools.
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
+- Polyrama — https://github.com/Polyrama/mcp (official Polymarket and Kalshi research server with live odds, public-wallet analytics, trader leaderboards, whale and mispricing signals, historical backtests, and paper-only orders; install with `npx -y @polyrama/mcp`)
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
