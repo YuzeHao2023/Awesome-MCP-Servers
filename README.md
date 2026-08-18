@@ -376,6 +376,7 @@ Automation platforms and workflow tools.
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
+- CN Calendar Skill — https://github.com/demo112/cn-calendar-skill
 - Tool aggregators like Rube, Rube/Composio and MCPJungle are listed in Aggregators.
 
 ---
