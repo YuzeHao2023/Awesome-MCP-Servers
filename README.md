@@ -422,6 +422,7 @@ Payments, market data, and finance tools.
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
+- Kairos Signal (first-party DePIN supply telemetry — 792 networks catalogued, 171 with first-party supply feeds, every value carrying source + as_of + verify_url; $5 free credits on self-register, no card) — https://github.com/OV3RK177/kairos-signal
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
