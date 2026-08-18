@@ -157,6 +157,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Aiven — https://github.com/Aiven-Open/mcp-aiven
 - AlibabaCloud DevOps MCP — https://github.com/aliyun/alibabacloud-devops-mcp-server
 - Apify Actors — https://github.com/apify/actors-mcp-server
+- monday.com — https://github.com/mondaycom/mcp (⭐)
 - Box — https://github.com/box-community/mcp-server-box (⭐)
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
