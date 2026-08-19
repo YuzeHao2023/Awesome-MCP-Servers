@@ -423,6 +423,7 @@ Payments, market data, and finance tools.
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
+- defi-mcp (DeFi & crypto primitives — real-time token prices, wallet balances, gas prices, and DEX swap quotes across 7 chains) — https://github.com/OzorOwn/defi-mcp
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
@@ -520,6 +521,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Frostbyte MCP — https://github.com/OzorOwn/frostbyte-mcp — One API key for 40+ developer APIs (geolocation, crypto prices, screenshots, DNS, web scraping, code execution, PDF generation). Works with Claude Desktop, Cursor, Windsurf.
 
 ---
 
