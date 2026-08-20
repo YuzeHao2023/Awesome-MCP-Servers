@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- MandateGuard — https://github.com/ezequiellich44-cmd/MandateGuard (deterministic payment policy for AI agents: pre-action gate enforcing budgets, allowlists, rate limits, and signed Ed25519 mandates, zero LLM in the decision path, tamper-evident SHA-256 ledger, official MCP server on the MCP Registry) [glama](https://glama.ai/mcp/servers/cb07u2zjay)
 
 ---
 
