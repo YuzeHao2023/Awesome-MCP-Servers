@@ -324,6 +324,7 @@ Mapping and geolocation.
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
+- Pocket Drives — https://github.com/RevList/pocket-drives-mcp — Public remote MCP for a P2P luxury/exotic/EV rental marketplace. Search, quote, and browse independent hosts. Streamable HTTP at https://pocketdrives.ai/mcp, no auth. Booking finishes in the iOS app.
 - QGIS — https://github.com/jjsantos01/qgis_mcp
 
 ---
