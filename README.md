@@ -280,6 +280,7 @@ Integration with chat and messaging platforms.
 Access observability and monitoring systems.
 
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
+- Prismix — https://prismix.dev — Real-time status monitor for 77 AI services (OpenAI, Anthropic, Gemini, Mistral, Cursor, etc.) via MCP.
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
 - sslmon — https://github.com/firesh/sslmon-mcp
