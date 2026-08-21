@@ -398,6 +398,7 @@ Social platforms integration.
 
 - BlueSky — https://github.com/keturiosakys/bluesky-context-server
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
+- TranscriptAPI (YouTube transcripts, video and channel search, playlist extraction, no Google quota, no OAuth) - https://github.com/ZeroPointRepo/youtube-mcp [hosted MCP: https://transcriptapi.com/mcp]
 - Spotify — https://github.com/varunneal/spotify-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
