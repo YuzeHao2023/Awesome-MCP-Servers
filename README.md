@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Magic Hour (⭐) — https://magichour.ai/mcp (hosted MCP server for AI video/image/audio generation — Sora 2, Veo 3.1, Kling, Flux, face swap, lip sync; endpoint https://mcp.magichour.ai/)
 
 ---
 
