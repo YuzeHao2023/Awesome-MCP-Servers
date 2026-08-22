@@ -480,6 +480,7 @@ Developer-focused MCP servers and tools.
 - Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp
 - VSCode Devtools — https://github.com/biegehydra/BifrostMCP
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
+- Wikivibe MCP — https://github.com/AlexMi64/wikivibe-mcp — Public read-only MCP endpoint for Wikivibe AI-assisted development guides, glossary entries, jobs, and articles.
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
