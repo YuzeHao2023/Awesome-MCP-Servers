@@ -294,7 +294,7 @@ Web fetching, scraping, and search.
 
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
-- Worklittle Jobs — https://github.com/worklittle/jobs-mcp - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love.. Remote Streamable HTTP: https://mcp.worklittle.com/
+- Worklittle Jobs — https://github.com/worklittle/jobs-mcp - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love. Remote Streamable HTTP: https://mcp.worklittle.com/
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
