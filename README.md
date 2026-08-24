@@ -566,6 +566,7 @@ Books, libraries, and creative tools.
 
 Commerce and marketplace integrations.
 
+- BuyWhere — https://github.com/BuyWhere/buywhere-mcp — Cross-border product catalog (370M+ products, SG/MY/VN/TH/PH/US/JP) with `deliver_to` shipping signals. Hosted at `https://mcp.buywhere.ai/mcp`. OAuth 2.1 bearer auth. Official MCP Registry `io.github.BuyWhere/buywhere-mcp@1.1.0`. Install via `npx -y @buywhere/buywhere`.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
