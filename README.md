@@ -467,6 +467,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Kilo-Kit — https://github.com/VoDaiLocz/kilo-kit-mcp — Complete 18-tool MCP runtime and 177-skill library providing protocol-level C4 workflow gates, sandboxed execution, and cognitive reasoning engines (Tree of Thoughts DAG, Red-Team Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for coding agents.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
