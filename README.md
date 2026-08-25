@@ -429,6 +429,7 @@ Payments, market data, and finance tools.
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
+- FiatDock (non-custodial marketplace where AI agents discover and pay for MCP services per call in USDC via x402 on Base — 3 tools: search_services/get_service/call_service; payments settle buyer→seller, 1% on-chain split (0% a seller's first 30 days), never custodial; sellers list free; also a USDC↔bank on/off-ramp; remote MCP + npx fiatdock-mcp) — https://github.com/fiatdock/fiatdock
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
