@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Unchained Engine (⭐) — https://github.com/unchainedshop/unchained - Open-source headless e-commerce engine with a built-in MCP server for AI-driven product, cart and order management
 
 ---
 
