@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- OmniSim MCP — https://github.com/omnilink-tech/omnisim/tree/main/packages/omnisim-mcp — First-party local stdio adapter for OmniSim's robotics World Harness. Agents can load or hot-sync worlds, inspect scene and robot state, aim cameras, capture screenshots, step/reset simulation, and read contacts and controller events. Zero Python runtime dependencies; requires a local OmniSim harness and is currently source-install only, not published on PyPI.
 
 ---
 
