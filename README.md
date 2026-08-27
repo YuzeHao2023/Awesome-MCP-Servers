@@ -512,6 +512,7 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- SandBase CLI — https://github.com/sandbaseai/cli — Local MCP bridge connecting 25 AI client targets to 2,000+ AI models and APIs through six discovery, inspection, execution, run-tracking, and account tools.
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
