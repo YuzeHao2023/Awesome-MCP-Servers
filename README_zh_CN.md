@@ -481,6 +481,7 @@ Shell、操作系统与任务自动化相关。
 
 通过单一 MCP 端点访问多个应用和工具。
 
+- SandBase CLI — https://github.com/sandbaseai/cli — 本地 MCP 桥接器，通过六个发现、检查、执行、运行追踪和账户工具，将 25 个 AI 客户端目标连接至 2,000+ 个 AI 模型与 API。
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
@@ -646,4 +647,3 @@ Shell、操作系统与任务自动化相关。
 - 在生产环境中优先使用官方厂商维护的服务器（标注为 ⭐）。
 - 查阅每个服务器仓库，了解其支持的传输方式（stdio、SSE、HTTP）、鉴权方式与示例客户端。
 - 该生态系统发展迅速，新的服务器、客户端和框架不断加入。维护者请确保仓库包含清晰的安装与安全说明。
-
