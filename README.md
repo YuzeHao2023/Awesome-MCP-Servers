@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- SandBase CLI — https://github.com/sandbaseai/cli — Local MCP bridge for discovering and running 2,000+ AI models and APIs from supported AI clients.
 
 ---
 
