@@ -454,6 +454,7 @@ AI model & ML service integrations.
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
+- SandBase CLI — https://github.com/sandbaseai/cli — Open-source command-line MCP bridge for accessing 2,000+ AI models through one interface.
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
