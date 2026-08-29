@@ -569,6 +569,9 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- newsletter-commerce-mcp — https://github.com/teamsincetoday/newsletter-commerce-mcp - Extract products and affiliate opportunities from newsletter content
+- podcast-commerce-mcp — https://github.com/teamsincetoday/podcast-commerce-mcp - Extract product mentions and commerce signals from podcast transcripts
+- recipe-commerce-mcp — https://github.com/teamsincetoday/recipe-commerce-mcp - Extract shoppable ingredients and affiliate products from recipe content
 
 ---
 
