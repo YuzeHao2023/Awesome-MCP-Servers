@@ -512,6 +512,7 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- ToolRouter — https://toolrouter.com — Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp`
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
