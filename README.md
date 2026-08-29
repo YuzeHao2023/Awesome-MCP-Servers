@@ -505,6 +505,7 @@ Charting and diagram tools.
 Identity and access management.
 
 - Keycloak — https://github.com/ChristophEnglisch/keycloak-model-context-protocol
+- MolTrust — https://github.com/MoltyCel/moltrust-mcp-server
 
 ---
 
