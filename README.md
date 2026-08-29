@@ -376,6 +376,7 @@ Automation platforms and workflow tools.
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
+- Heym - https://github.com/heymrun/heym - Source-available, self-hosted AI workflow automation platform with a visual canvas for agent, RAG, and tool-using workflows. Supports MCP for exposing workflows as tools and connecting agent nodes to external MCP servers.
 - Tool aggregators like Rube, Rube/Composio and MCPJungle are listed in Aggregators.
 
 ---
