@@ -279,6 +279,7 @@ Integration with chat and messaging platforms.
 
 Access observability and monitoring systems.
 
+- ax — https://github.com/Necmttn/ax — Local MCP over coding-agent telemetry, sessions, tool calls, skills, costs, and OTLP events.
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
