@@ -254,6 +254,7 @@ Database access with schema inspection and query capabilities.
 - Airtable — https://github.com/domdomegg/airtable-mcp-server
 - Snowflake — https://github.com/isaacwasserman/mcp-snowflake-server
 - DBUtils — https://github.com/donghao1393/mcp-dbutils
+- text2sql — https://github.com/cpenniman12/text2sql-mcp (Frontier models can now make hundreds of iterative tool calls per prompt — so instead of pre-computing which schema elements are relevant, you can hand the LLM one tool (`execute_sql`) and let it explore the schema, write queries, and self-correct. No RAG, semantic layer, or schema descriptions required — just a connection string and a frontier model. SQLite, Postgres, MySQL, Snowflake, and BigQuery via install extras.)
 - TiDB — https://github.com/c4pt0r/mcp-server-tidb
 - NocoDB — https://github.com/edwinbernadus/nocodb-mcp-server
 - Couchbase (⭐) — https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
