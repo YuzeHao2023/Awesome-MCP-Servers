@@ -519,7 +519,9 @@ Single MCP endpoints that expose many integrations.
 - Zapier — https://zapier.com/mcp
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
+- IteraTools — https://github.com/fredpsantos33/mcp-iteratools — Multi-tool API MCP server: image generation, web search, screenshots, OCR, TTS, browser automation, PDF, QR codes, weather, crypto, and more. Pay-per-use with x402 micropayments.
 - Magg — https://github.com/sitbon/magg
+- IteraTools — https://api.iteratools.com — Pay-per-use multi-tool API with MCP support: image generation (Flux), web scraping, TTS, OCR, QR codes, weather, crypto, charts, and 80+ more tools. x402 micropayments protocol.
 
 ---
 
