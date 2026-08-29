@@ -410,6 +410,7 @@ Social platforms integration.
 
 Game engines and tooling.
 
+- Tier Maker List (⭐) — https://github.com/rocnubie/tiermakerlist-mcp (read-only tier-list editing, local draft, sharing, and PNG/JSON export reference; use https://tiermakerlist.com for the live editor and current templates) [Registry: `io.github.rocnubie/tiermakerlist-mcp`]
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
 
 ---
