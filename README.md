@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- blackwell-systems/agent-lsp — https://github.com/blackwell-systems/agent-lsp — Orchestrates language servers (gopls, rust-analyzer, pyright, jdtls, etc.) into agent-native workflows. Blast-radius analysis, find references/callers, rename, and speculative editing (preview diagnostics before writing to disk). 65 code intelligence tools across 30 CI-verified languages. Single Go binary.
 - many others in Community Servers and Official Servers
 
 ---
