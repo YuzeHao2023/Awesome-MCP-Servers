@@ -361,6 +361,7 @@ Cloud vendors and orchestration.
 
 - Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)
+- KubeStellar Console — https://github.com/kubestellar/console — Multi-cluster Kubernetes MCP bridge with AI-powered operations, real-time observability, and CNCF project integrations. CNCF Sandbox project.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
