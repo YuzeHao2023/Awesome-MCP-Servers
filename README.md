@@ -352,6 +352,7 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+- brain.md — https://github.com/mi4uu/brain.md (Local-first markdown vault with a built-in MCP server. 16 tools + 2 resources for read/write/search/tasks plus semantic helpers — `find_related`, `semantic_outline`, `context_for_query` (token-budgeted chunk packing), `find_orphans`, `weekly_digest`, `compare_notes`. Per-folder agent permissions, embedded WASM ONNX RAG (zero native deps), single Bun binary for macOS/Linux/Windows. AGPL-3.0.)
 
 ---
 
