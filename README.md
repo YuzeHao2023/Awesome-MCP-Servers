@@ -453,6 +453,7 @@ AI model & ML service integrations.
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp
+- RouterBase MCP — https://github.com/zenlee123/routerbase-mcp — Model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com).
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace
