@@ -284,6 +284,7 @@ Access observability and monitoring systems.
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
+- toad-eye — https://github.com/vola-trebla/toad-eye
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
 
 ---
