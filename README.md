@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- OpenPost (open-source, self-hosted social publishing and scheduling with authenticated Streamable HTTP and stdio MCP access for destination-specific content, media reuse, validation, scheduling, publishing, and delivery status) — https://github.com/rodrgds/openpost
 
 ---
 
