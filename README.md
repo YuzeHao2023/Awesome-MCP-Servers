@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Bidda Sovereign Intelligence (regulatory compliance, 3,680 verified nodes) — https://github.com/Bidda-Ai/bidda-mcp
 
 ---
 
