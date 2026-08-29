@@ -402,6 +402,7 @@ Social platforms integration.
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- X/Twitter (GetXAPI) — https://github.com/getxapi/getxapi-mcp (44 endpoints: reads search + profiles + follower graph + timeline + bookmarks + mentions; writes post + like + retweet + follow + DM + articles; bearer-token auth)
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
 ---
