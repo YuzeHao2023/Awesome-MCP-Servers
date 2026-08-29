@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Useful AI — https://github.com/uAI-solana/useful-ai-mcp — Fully dynamic MCP server exposing 200+ shared utility tools (unit conversion, math, parsing, and more). Tool list updates automatically. No auth required. `https://api.usefulai.fun/mcp`
 
 ---
 
