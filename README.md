@@ -360,7 +360,7 @@ Personal knowledge and notes integrations.
 Cloud vendors and orchestration.
 
 - Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare
-- Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)
+- Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3), https://github.com/kubestellar/console (4 — kc-agent: AI-powered multi-cluster MCP bridge with 20+ CNCF integrations)
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
