@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Sverklo — https://github.com/sverklo/sverklo — Local-first repo memory and code-intelligence MCP for Claude Code, Cursor, Windsurf, and Codex CLI. Provides semantic search, symbol lookup, impact analysis, diff-aware review, git-pinned decisions, and no-write proof receipts before setup.
 - many others in Community Servers and Official Servers
 
 ---
