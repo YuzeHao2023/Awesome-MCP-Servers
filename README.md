@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- GroundTruth — https://github.com/rm-rf-prod/GroundTruth-MCP — Self-hosted MCP server for live documentation, code audits, and best practices. 363+ curated libraries with npm/PyPI/crates.io/Go fallback, 100+ audit patterns, no rate limits.
 - many others in Community Servers and Official Servers
 
 ---
