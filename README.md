@@ -183,6 +183,7 @@ Server Managers:
 - MCP Installer — https://github.com/anaisbetts/mcp-installer
 
 Other utilities:
+- Armorer Guard — Local Rust scanner and MCP proxy that wraps MCP servers to inspect tool-call arguments for prompt injection, credential leakage, exfiltration, and risky actions before execution — https://github.com/ArmorerLabs/Armorer-Guard
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli
 - mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
