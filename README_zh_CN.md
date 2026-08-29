@@ -426,6 +426,7 @@ Shell、操作系统与任务自动化相关。
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI 兼容 Chat — https://github.com/pyroprompts/any-chat-completions-mcp
+- OpenAgent — https://github.com/the-open-agent/openagent — 开源个人 AI 助手，支持 LLM、RAG、智能体循环、浏览器自动化、命令行执行与 MCP 工具集成
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace

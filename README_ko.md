@@ -334,6 +334,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: AI 서비스 (🤝)
 
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
+- OpenAgent — https://github.com/the-open-agent/openagent — 오픈소스 개인 AI 어시스턴트. LLM, RAG, 에이전트 루프, 브라우저 자동화, 셸 실행, MCP 도구 통합 지원
 
 ---
 

@@ -437,6 +437,7 @@ AI モデルおよび ML サービスとの統合。
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI 互換のチャット — https://github.com/pyroprompts/any-chat-completions-mcp
+- OpenAgent — https://github.com/the-open-agent/openagent — オープンソースのパーソナル AI アシスタント。LLM、RAG、エージェントループ、ブラウザ自動化、シェル実行、MCP ツール統合をサポート
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace

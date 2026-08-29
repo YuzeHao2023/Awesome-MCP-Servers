@@ -440,6 +440,7 @@ AI 與機器學習服務整合：
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI 相容 Chat — https://github.com/pyroprompts/any-chat-completions-mcp
+- OpenAgent — https://github.com/the-open-agent/openagent — 開源個人 AI 助理，支援 LLM、RAG、Agent 迴圈、瀏覽器自動化、命令列執行與 MCP 工具整合
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace
