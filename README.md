@@ -515,6 +515,7 @@ Single MCP endpoints that expose many integrations.
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
+- TokRepo — https://github.com/henu-wang/tokrepo-mcp-server — Open registry MCP server for discovering and installing 220+ curated AI assets including skills, prompts, workflows, and MCP configs.
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
 - Zapier — https://zapier.com/mcp
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
