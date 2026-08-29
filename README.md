@@ -497,6 +497,7 @@ Charting and diagram tools.
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- Pictify — https://github.com/pictify-io/mcp
 
 ---
 
