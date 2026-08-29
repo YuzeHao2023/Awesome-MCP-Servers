@@ -307,6 +307,7 @@ Web fetching, scraping, and search.
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
+- UnifAPI — https://github.com/unifapi-agent/unifapi-mcp-server - Hosted remote MCP server for public data across social, search, scraping, news, creator research, and KOL pricing workflows.
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser

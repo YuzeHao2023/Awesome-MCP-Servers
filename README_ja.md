@@ -301,6 +301,7 @@ Web フェッチ、スクレイピング、検索。
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
+- UnifAPI — https://github.com/unifapi-agent/unifapi-mcp-server - ソーシャル、検索、スクレイピング、ニュース、クリエイター調査、KOL価格推定などの公開データワークフロー向けホスト型リモートMCPサーバー。
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
