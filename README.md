@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- GetABrain (real human judgment as agent tools) — https://www.npmjs.com/package/@getabrain/mcp-server
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
 ---
