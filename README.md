@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- TwitterAPI.io ([twitterapi.io](https://twitterapi.io)) — Twitter / X data API for AI agents; hosted MCP at mcp.twitterapi.io/mcp, 12 read-only tools: tweet search with full operators, profiles, followers, conversation threads, real-time WebSocket streaming, trending topics — https://github.com/kaitoInfra/twitterapi-io-mcp-server [npm: @kaitoinfra/twitterapi-io-mcp-server]
 
 ---
 
