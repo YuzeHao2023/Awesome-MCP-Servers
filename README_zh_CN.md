@@ -395,6 +395,7 @@ Shell、操作系统与任务自动化相关。
 
 支付、市场数据与金融服务。
 
+- Hive Intelligence（⭐） — https://github.com/hive-intel/hive-sdk（面向 AI 代理的托管加密情报 MCP，支持托管 HTTP、本地 stdio、SDK 与技能）
 - Octagon（⭐） — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee（⭐） — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
@@ -646,4 +647,3 @@ Shell、操作系统与任务自动化相关。
 - 在生产环境中优先使用官方厂商维护的服务器（标注为 ⭐）。
 - 查阅每个服务器仓库，了解其支持的传输方式（stdio、SSE、HTTP）、鉴权方式与示例客户端。
 - 该生态系统发展迅速，新的服务器、客户端和框架不断加入。维护者请确保仓库包含清晰的安装与安全说明。
-

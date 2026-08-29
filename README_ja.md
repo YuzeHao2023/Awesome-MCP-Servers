@@ -407,6 +407,7 @@ Web フェッチ、スクレイピング、検索。
 
 決済、マーケットデータ、ファイナンスツール。
 
+- Hive Intelligence (⭐) — https://github.com/hive-intel/hive-sdk (AI エージェント向けのマネージド暗号資産インテリジェンス MCP。ホスト HTTP、ローカル stdio、SDK、スキルを提供)
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
