@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Vaaya — https://github.com/vaaya-ai/vaaya-mcp — One card for hundreds of paid services: web search & scraping, research, lead enrichment, media & video generation, code sandboxes, browser automation, email. Pay per call, no per-vendor signups or API keys.
 
 ---
 
