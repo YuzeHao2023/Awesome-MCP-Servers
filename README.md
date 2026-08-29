@@ -497,6 +497,7 @@ Charting and diagram tools.
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- SlideForge — https://github.com/smartdatabrokers/slideforge-mcp — Remote MCP server for generating consulting-quality PowerPoint (.pptx) files. 35 composable components, deterministic + AI engines, OAuth 2.1. [slideforge.dev](https://slideforge.dev)
 
 ---
 
