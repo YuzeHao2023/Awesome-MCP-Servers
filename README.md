@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- NotFair — https://github.com/nowork-studio/NotFair — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data via the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Skill areas: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads).
 
 ---
 
