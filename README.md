@@ -304,6 +304,7 @@ Web fetching, scraping, and search.
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
+- Reporecall — https://github.com/proofofwork-agency/reporecall - Local codebase memory with AST indexing (22 languages), call graphs, and hybrid search. Hooks + MCP server.
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
