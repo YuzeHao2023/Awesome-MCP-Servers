@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Useful AI — https://github.com/useful-ai/useful-ai-mcp — Dynamic MCP server with 390+ autonomously-built utilities (unit conversion, text processing, data parsing, math, and more). No auth required. New tools added continuously via automated build pipeline.
 
 ---
 
@@ -484,6 +485,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Useful AI MCP — https://github.com/useful-ai/useful-ai-mcp — Dynamic MCP server with 100+ autonomously-built utilities (unit conversion, text processing, data parsing, math, and more). No auth required.
 - many others in Community Servers and Official Servers
 
 ---
@@ -520,6 +522,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Useful AI — https://github.com/uAI-solana/useful-ai-mcp — Fully dynamic MCP server with 200+ shared utility tools. Tool list auto-updates based on usage. Dispatch tasks in plain English, get structured output. No auth. `https://api.usefulai.fun/mcp`
 
 ---
 
