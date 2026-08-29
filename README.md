@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- DC Hub (data-center, power-grid & energy infrastructure) — https://github.com/azmartone67/dchub-mcp-server
 
 ---
 
