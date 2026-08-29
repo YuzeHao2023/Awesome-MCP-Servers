@@ -449,6 +449,7 @@ Papers, datasets, and domain data.
 
 AI model & ML service integrations.
 
+- AgentRecall — https://github.com/Goldentrii/AgentRecall-MCP — Correction-first persistent memory for AI agents. Logs every correction as a CorrectionRecord with precision KPI (heeded/retrieved), compounds via 5 memory layers. FSRS-lite decay, Hopfield retrieval. Local markdown, no cloud. `npx agent-recall-mcp`
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
