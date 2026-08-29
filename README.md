@@ -373,6 +373,7 @@ Automation platforms and workflow tools.
 
 - Make (⭐) — https://github.com/integromat/make-mcp-server
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
+- NoClick (⭐) — https://github.com/noclickapp/noclick — Build agents to automate any background task. Works with your ChatGPT/Claude subscription. Remote MCP: https://api.noclick.io/mcp
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
