@@ -299,6 +299,7 @@ Web fetching, scraping, and search.
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
+- Superhighway — https://github.com/patwalls/superhighway-mcp — five tools (search, news, images, scrape, research); agents pay per call via x402 USDC or free API key
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
