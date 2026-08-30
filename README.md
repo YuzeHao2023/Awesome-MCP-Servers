@@ -15,6 +15,7 @@ BTW, we provide a [full list of MCP (Master Control Program) Servers](https://gi
 ## All Documents
 > Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
 
+
 **Read our documentation in the following languages:**
 
 | Language | Link                                                                 |

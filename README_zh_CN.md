@@ -5,7 +5,7 @@
 一个优秀 Model Context Protocol (MCP) 服务器、工具、框架、客户端和实用程序清单。MCP 是一个开放协议，使 AI 模型能够通过标准化的服务器实现，与本地和远程资源安全地交互。
 
 ---
-
+ 
 另外，我们提供了一份完整的[MCP服务列表](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx), 该列表由爬虫整理而来，包含大约6000条目。
 
 ---
