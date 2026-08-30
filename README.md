@@ -468,6 +468,7 @@ AI model & ML service integrations.
 Developer-focused MCP servers and tools.
 
 - CentralMind/Gateway — https://github.com/centralmind/gateway
+- SandBase Harness — https://github.com/sandbaseai/sandbase-harness — 本地优先的 AI Agent 运行时，通过 stdio MCP Bridge 提供持久化会话、沙箱工具、记忆、凭据、审计与回放；支持 Local、Docker、Kubernetes 和自托管部署。
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
 - OpenAPI Schema Explorer — https://github.com/kadykov/mcp-openapi-schema-explorer
