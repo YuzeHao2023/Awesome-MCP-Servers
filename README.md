@@ -208,6 +208,7 @@ Provides access to local or remote file systems with configurable permissions.
 Secure sandbox environments for code execution.
 
 - Microsandbox (⭐) — https://github.com/microsandbox/microsandbox
+- SandBase Harness — https://github.com/sandbaseai/sandbase-harness
 - E2B (⭐) — https://github.com/e2b-dev/mcp-server
 - Docker (QuantGeekDev) — https://github.com/QuantGeekDev/docker-mcp
 
