@@ -558,6 +558,7 @@ MCP servers for device and IoT integration.
 Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
+- Magic Hour — https://github.com/magichourhq/magic-hour-mcp — Official hosted MCP server for generating and editing images, videos, and audio through Streamable HTTP.
 - Pollinations — https://github.com/pollinations/model-context-protocol
 
 ---
