@@ -420,6 +420,7 @@ Payments, market data, and finance tools.
 
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
+- Aperture Wallet Knowledge (⭐) — https://github.com/devdasx/aperture (read-only, no-auth remote knowledge for Aperture Wallet product, self-custody security, supported mainnets, releases, app screens, and Journal articles) [remote](https://aperturex.io/mcp/)
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
