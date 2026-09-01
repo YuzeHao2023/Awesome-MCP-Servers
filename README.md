@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Local GPU Imagegen — https://github.com/ChevalGrand520/local-gpu-imagegen
 
 ---
 
