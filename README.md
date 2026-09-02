@@ -371,6 +371,7 @@ Cloud vendors and orchestration.
 
 Automation platforms and workflow tools.
 
+- Process Street (⭐) - https://github.com/process-street/process-street-mcp - Connects AI agents to Process Street workflows, tasks, runs, data sets, and operational records through Streamable HTTP.
 - Make (⭐) — https://github.com/integromat/make-mcp-server
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
 - Taskade (⭐) — https://github.com/taskade/mcp
