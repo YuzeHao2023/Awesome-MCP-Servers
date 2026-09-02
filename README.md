@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- Melaya (Android phone + browser) — https://melaya.org/en/product/mcp — Remote OAuth 2.1 server that drives a paired Android phone by reading its accessibility tree and tapping, typing and swiping, so it works in any app with no per-app integration. Also drives a paired browser and runs agent pipelines. Scoped to apps the user allow-lists; publishing under their identity needs on-device approval. Endpoint: https://api.melaya.org/mcp
 
 ---
 
