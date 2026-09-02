@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- BulkPublish — REST API and MCP server for AI agents to adapt, schedule, publish, and analyze social media content across platforms — https://github.com/azeemkafridi/bulkpublish-api [npm: @bulkpublish/mcp-server]
 
 ---
 
