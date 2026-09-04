@@ -418,6 +418,13 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- Bank Statement — https://github.com/theluckystrike/mcp-servers/tree/main/servers/bank-statement (import a bank CSV export, categorize it, summarize it per currency, and reconcile it against an expense ledger; mcp.zovo.one)
+- Currency — https://github.com/theluckystrike/mcp-servers/tree/main/servers/currency (live and historical exchange rates from the European Central Bank, cached locally; mcp.zovo.one)
+- Expense Tracker — https://github.com/theluckystrike/mcp-servers/tree/main/servers/expense-tracker (local expense, receipt, and mileage ledger with VAT splitting and CSV/xlsx export; mcp.zovo.one)
+- Invoice — https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice (create sendable PDF invoices with numbering, VAT lines, discounts, and overdue reports; mcp.zovo.one)
+- Price Tracker — https://github.com/theluckystrike/mcp-servers/tree/main/servers/price-tracker (track prices and get notified when a target price is hit; mcp.zovo.one)
+- Quotes — https://github.com/theluckystrike/mcp-servers/tree/main/servers/quotes (send client quotes with line items and VAT as PDF; accepted quotes convert to invoices; mcp.zovo.one)
+- Recurring — https://github.com/theluckystrike/mcp-servers/tree/main/servers/recurring (generate recurring invoices on a schedule with an audit log and revenue forecast; mcp.zovo.one)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
@@ -467,6 +474,19 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Barcode — https://github.com/theluckystrike/mcp-servers/tree/main/servers/barcode (generate QR codes and barcodes (SEPA payment QR, Code 128, EAN-13) as SVG or PNG, offline; mcp.zovo.one)
+- Calendar — https://github.com/theluckystrike/mcp-servers/tree/main/servers/calendar (read .ics calendar exports: availability, double-booking checks, and turning meetings into billable time; mcp.zovo.one)
+- Clauses — https://github.com/theluckystrike/mcp-servers/tree/main/servers/clauses (reusable contract and proposal clause library with variables, search, and assembly into a Word document; mcp.zovo.one)
+- Docx — https://github.com/theluckystrike/mcp-servers/tree/main/servers/docx (generate and fill Word documents (proposals, quotes, contracts, statements of work) from a chat; mcp.zovo.one)
+- Image — https://github.com/theluckystrike/mcp-servers/tree/main/servers/image (resize, convert, compress, crop, thumbnail, and watermark images locally; mcp.zovo.one)
+- Kanban — https://github.com/theluckystrike/mcp-servers/tree/main/servers/kanban (local task board per project: columns, due dates, estimates, priorities; mcp.zovo.one)
+- Office Suite — https://github.com/theluckystrike/mcp-servers/tree/main/servers/office-suite (bundle proxying time tracking, price watching, spreadsheets, and PDF invoicing behind one MCP server; mcp.zovo.one)
+- PDF — https://github.com/theluckystrike/mcp-servers/tree/main/servers/pdf (merge, split, extract, rotate, reorder, and stamp PDF files; mcp.zovo.one)
+- Resume — https://github.com/theluckystrike/mcp-servers/tree/main/servers/resume (turn CV facts into a tailored Word resume and cover letter with keyword matching; mcp.zovo.one)
+- Spreadsheet — https://github.com/theluckystrike/mcp-servers/tree/main/servers/spreadsheet (open, inspect, query, edit, and convert xlsx and csv files locally; mcp.zovo.one)
+- Time Tracker — https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker (track billable time with timers, entries, reports, and CSV export; mcp.zovo.one)
+- Timezone — https://github.com/theluckystrike/mcp-servers/tree/main/servers/timezone (time zone conversion, meeting-slot finding, DST checks, and .ics generation; mcp.zovo.one)
+- Zip — https://github.com/theluckystrike/mcp-servers/tree/main/servers/zip (create, inspect, and extract zip archives with a zip-bomb and path-traversal check; mcp.zovo.one)
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
