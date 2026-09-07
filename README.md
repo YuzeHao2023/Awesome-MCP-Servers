@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Hype Stack — https://github.com/BetterTyped/hype-stack — Free MIT fullstack SaaS monorepo MCP (~11 tools via npx @hype-stack/cli mcp install). React 19, Hono, Vite, TanStack, shadcn, Electron, Expo, Postgres.
 - many others in Community Servers and Official Servers
 
 ---
