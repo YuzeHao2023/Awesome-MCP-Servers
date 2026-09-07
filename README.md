@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- CardDeals (⭐) — https://github.com/cello305/carddeals-mcp (Official CardDeals MCP Server for real-time digital gift card discounts across 700+ brands)
 
 ---
 
