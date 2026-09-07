@@ -454,6 +454,7 @@ Shell、操作系统与任务自动化相关。
 - Mastra/mcp（⭐） — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
+- Hype Stack — https://github.com/BetterTyped/hype-stack — 免费 MIT 全栈 SaaS monorepo MCP（约 11 个工具，`npx @hype-stack/cli mcp install`）。React 19、Hono、Vite、TanStack、shadcn、Electron、Expo、Postgres。
 
 ---
 
