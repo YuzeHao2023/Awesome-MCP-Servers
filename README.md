@@ -308,6 +308,7 @@ Web fetching, scraping, and search.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
+- Personae — https://github.com/leek-emperor/Personae — Local MCP control for a selected, already-open account-isolated browser identity. Supports navigation, accessibility snapshots, interactions, screenshots, JavaScript evaluation, and OAuth popup targets. Install `npx -y @leek-emperor/personae-mcp` after installing and launching Personae; no API key or public listener.
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
