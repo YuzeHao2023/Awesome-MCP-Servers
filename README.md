@@ -352,6 +352,7 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+- r3 — https://github.com/n3wth/r3 (Local Redis memory MCP for Claude Desktop, Claude Code, and Cursor. Install: `npx @n3wth/r3`)
 
 ---
 
