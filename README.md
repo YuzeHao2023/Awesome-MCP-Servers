@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Motomarks (⭐) — https://motomarks.io/docs/mcp (Official Motomarks MCP: published car-manufacturer badge, wordmark, and full-logo URLs for dealer and marketplace tools)
 
 ---
 
