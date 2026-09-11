@@ -292,6 +292,7 @@ Access observability and monitoring systems.
 
 Web fetching, scraping, and search.
 
+- x402 Scraper Engine — https://github.com/ami-guru/x402-scraper-engine — Production HTTP 402 micropayment web scraper, Llama-3 digest, and Twitter intelligence engine for AI agents on Base L2. Zero API keys, pay-per-call in USDC.
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
