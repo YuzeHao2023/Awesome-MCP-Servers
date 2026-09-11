@@ -574,6 +574,7 @@ Commerce and marketplace integrations.
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 - Chestny ZNAK (RU) — https://github.com/ilyautov/chestny-znak-mcp-ru (the state product-marking system every Russian seller of marked goods has to work with: marking codes, emission in SUZ, reports. 33 methods in a YAML catalog behind three generic tools; emission asks for confirmation. `uvx chestny-znak-mcp-ru`, MIT)
+- Russian marketplaces (RU) — https://github.com/ilyautov/marketplaces-mcp-ru (Wildberries, Ozon, Yandex Market and Avito seller APIs in one server: sales and orders, stocks and prices, finance, reviews, ads. 1022 methods in YAML catalogs behind three generic tools, every method carries a read/write/destructive class, several shops switch from chat. `uvx marketplaces-mcp-ru` or `npx -y marketplaces-mcp-ru`, MIT. Single-marketplace builds of the same server: https://github.com/ilyautov/ozon-mcp-ru, https://github.com/ilyautov/wildberries-mcp-ru, https://github.com/ilyautov/yandex-market-mcp-ru, https://github.com/ilyautov/avito-mcp-ru)
 
 ---
 
