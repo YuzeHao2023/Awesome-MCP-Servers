@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- hh.ru (RU) — https://github.com/ilyautov/hh-mcp-ru (hh.ru, the dominant job board in Russia and the CIS: vacancies and their analytics, applications and invitations, resumes, salary statistics. 133 methods live in a YAML catalog behind three generic tools, so the whole API costs 14 tool slots instead of 133 schemas per prompt. `uvx hh-mcp-ru`, MIT)
 
 ---
 
@@ -403,6 +404,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- VK (RU) — https://github.com/ilyautov/vk-mcp-ru (VK, the largest social network in Russia: communities, VK Market goods, ads, conversations, statistics. 373 methods in a YAML catalog behind three generic tools; reads run immediately, writes and irreversible calls need confirmation. `uvx vk-mcp-ru`, MIT)
 
 ---
 
@@ -430,6 +432,8 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Diadoc (RU) — https://github.com/ilyautov/diadoc-mcp-ru (Diadoc by Kontur, one of the two main legally-binding EDI operators in Russia: documents, counteragents, signing, powers of attorney. 114 methods in a YAML catalog behind three generic tools; signing asks for confirmation. `uvx diadoc-mcp-ru`, MIT)
+- SBIS / Saby (RU) — https://github.com/ilyautov/sbis-mcp-ru (SBIS, the other main legally-binding EDI operator in Russia: documents, EDI stages, signatures, certificates. 45 methods in a YAML catalog behind three generic tools. `uvx sbis-mcp-ru`, MIT)
 
 ---
 
@@ -569,6 +573,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Chestny ZNAK (RU) — https://github.com/ilyautov/chestny-znak-mcp-ru (the state product-marking system every Russian seller of marked goods has to work with: marking codes, emission in SUZ, reports. 33 methods in a YAML catalog behind three generic tools; emission asks for confirmation. `uvx chestny-znak-mcp-ru`, MIT)
 
 ---
 
