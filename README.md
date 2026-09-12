@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- Lamdis Exchange — https://github.com/lamdis-ai/lamdis-protocol — Pay a person nearby to check something or do something in the physical world, proved with a photo; free sandbox, no account needed.
 
 ---
 
