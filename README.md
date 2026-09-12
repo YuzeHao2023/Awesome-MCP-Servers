@@ -575,6 +575,7 @@ Commerce and marketplace integrations.
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 - Chestny ZNAK (RU) — https://github.com/ilyautov/chestny-znak-mcp-ru (the state product-marking system every Russian seller of marked goods has to work with: marking codes, emission in SUZ, reports. 33 methods in a YAML catalog behind three generic tools; emission asks for confirmation. `uvx chestny-znak-mcp-ru`, MIT)
 - Russian marketplaces (RU) — https://github.com/ilyautov/marketplaces-mcp-ru (Wildberries, Ozon, Yandex Market and Avito seller APIs in one server: sales and orders, stocks and prices, finance, reviews, ads. 1022 methods in YAML catalogs behind three generic tools, every method carries a read/write/destructive class, several shops switch from chat. `uvx marketplaces-mcp-ru` or `npx -y marketplaces-mcp-ru`, MIT. Single-marketplace builds of the same server: https://github.com/ilyautov/ozon-mcp-ru, https://github.com/ilyautov/wildberries-mcp-ru, https://github.com/ilyautov/yandex-market-mcp-ru, https://github.com/ilyautov/avito-mcp-ru)
+- MoySklad (RU) — https://github.com/ilyautov/moysklad-mcp-ru (MoySklad, the cloud ERP most Russian retail and wholesale businesses run their stock and trade documents in: stock, products, orders, counterparties, profit/turnover/cash reports, and document writes for supplies, shipments, invoices and returns. 892 schema-driven methods behind 8 generic meta-tools, read/write/destructive gating, creation always yields a draft. Python, `uvx moysklad-mcp-ru`, MIT, alpha)
 
 ---
 
