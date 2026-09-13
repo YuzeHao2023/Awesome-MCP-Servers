@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Maxion — https://github.com/aruuhii2yo/maxion-mcp — In-process security gate, prompt injection defense, threat scanning and quarantine (Diamonize), encrypted credential vault (Quezar), and autonomous hardware governor (Maxion V16) for MCP AI agents. Connect via `npx -y @smithery/cli install aruuhii2yo/maxion-mcp-gateway`.
 
 ---
 
