@@ -314,6 +314,7 @@ Web fetching, scraping, and search.
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
+- Base HTTP 402 Web Extractor — https://github.com/psicossz29-netizen/base-http402-extractor-api
 ---
 
 ## Category: Location Services (🗺️)
