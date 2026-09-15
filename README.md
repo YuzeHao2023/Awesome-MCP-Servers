@@ -532,6 +532,7 @@ Translation and language services.
 ---
 
 ## Category: Security (🔒)
+- mcp-output-firewall — https://github.com/tangfei7777-cell/mcp-output-firewall — MCP server that inspects tool calls, content and tool results for prompt injection, credential leaks and data egress before they reach the model.
 
 Security-focused servers and scanning tools.
 
