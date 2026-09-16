@@ -297,6 +297,7 @@ Web fetching, scraping, and search.
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+- Advisors AI Check — https://github.com/manmohm/advisorsai-check — Public-page readiness check. Live: https://advisorsai.ai/see.html
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
