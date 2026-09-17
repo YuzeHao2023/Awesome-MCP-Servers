@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- AffixIO — https://github.com/AffixIO/affixio-mcp — Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII on host; not KYC.
 
 ---
 
