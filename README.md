@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- Odds API (⭐) — https://github.com/odds-api/odds-api (32 read-only tools for live and historical bookmaker odds, events, results, coverage, and line movement; `npx -y @odds-api/mcp`)
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
 ---
