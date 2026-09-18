@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- MobOpinions Survey Light (consumer surveys with real respondents, remote OAuth server) — https://github.com/menaker/mobopinions-survey-mcp
 
 ---
 
