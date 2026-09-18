@@ -333,6 +333,7 @@ Mapping and geolocation.
 Marketing and analytics tools.
 
 - Agent Mindshare — https://agentmindshare.com
+- [axelfreeman/tapac-mcp](https://github.com/axelfreeman/tapac-mcp) - Find and verify B2B business contacts in real time: sources prospects from public company websites, Telegram and Discord, and validates every email over SMTP (2-5% bounce vs 10-35% for static databases). Tools: `tapac_find_contacts`, `tapac_status`. `npx -y @tapacapi/mcp` or `uvx --from git+https://github.com/axelfreeman/tapac-mcp tapac-mcp`. Free key with 100 searches: https://tapacapi.com/get-key
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
