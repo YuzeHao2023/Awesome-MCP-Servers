@@ -354,6 +354,7 @@ Personal knowledge and notes integrations.
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
 
 ---
+- Hyperconsciousness — https://github.com/louis030195/hyperconsciousness — Developer-alpha encrypted knowledge store with grant-scoped MCP search and retrieval.
 
 ## Category: Cloud Platforms (⚡)
 
