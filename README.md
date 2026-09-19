@@ -478,6 +478,7 @@ Developer-focused MCP servers and tools.
 - marimo (⭐) — https://github.com/marimo-team/codemirror-mcp
 - Figma — https://github.com/GLips/Figma-Context-MCP
 - Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp
+- ContextStream — https://github.com/contextstream/mcp-server — Shared project context for AI coding agents across Cursor, Claude Code, Codex, Grok, Windsurf, and other MCP clients. https://contextstream.io · benchmarks: https://contextstream.io/benchmarks
 - VSCode Devtools — https://github.com/biegehydra/BifrostMCP
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
