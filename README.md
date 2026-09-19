@@ -420,6 +420,7 @@ Payments, market data, and finance tools.
 
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
+- UnlockFlow (Capital Flow Desk) — https://github.com/mhr2027r-dotcom/mcp-unlockflow — Schema-first stdio MCP server for token-unlock windows and capital-flow research, with illustrative data, NFA guardrails, and a draft Agent Feed for production access; free research notes: https://t.me/CapitalFlowDeskHQ
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
