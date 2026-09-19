@@ -185,6 +185,7 @@ Server Managers:
 Other utilities:
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli
+- mcp-triage — CLI to diagnose and mechanically fix MCP client config problems across Claude Desktop, Claude Code, Codex, Cursor, VS Code, Windsurf, OpenClaw and dsh (broken JSON, commands missing from PATH, missing env vars, relative paths, transport mismatches, cross-client drift); read-only by default, --fix with automatic backups — https://github.com/neufagents/mcp-triage
 - mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
 
 ---
