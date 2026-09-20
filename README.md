@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- SearchLink Lite — https://github.com/GlobalMatchHub/searchlink-lite (Google Search Console inside Claude, Cursor and any MCP client. Local, read-only, free.)
 
 ---
 
