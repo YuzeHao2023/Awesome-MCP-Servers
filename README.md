@@ -326,6 +326,8 @@ Mapping and geolocation.
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
 
+- Zornade — https://github.com/zornade/zornade-mcp
+
 ---
 
 ## Category: Marketing (🎯)
