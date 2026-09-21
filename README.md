@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- ZennoPoster — https://github.com/ZennoLab/zennoposter-mcp — Official MCP servers for the ZennoPoster automation platform: edit projects, run and monitor tasks, drive browser instances and Android devices. Windows only, requires ZennoPoster 7.9.2+.
 
 ---
 
