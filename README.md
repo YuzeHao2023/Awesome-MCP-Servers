@@ -292,6 +292,8 @@ Access observability and monitoring systems.
 
 Web fetching, scraping, and search.
 
+- [ReadGZH](https://github.com/sweesama/readgzh) — Hosted MCP service for reading existing public WeChat Official Account article URLs as Markdown and searching previously cached articles. Anonymous access is limited; API-key authentication is supported. [Documentation](https://readgzh.site/docs).
+
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
