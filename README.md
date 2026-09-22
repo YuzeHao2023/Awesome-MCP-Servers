@@ -292,6 +292,7 @@ Access observability and monitoring systems.
 
 Web fetching, scraping, and search.
 
+- Baizhi Cloud Agent Toolkit — https://github.com/chaitin/baizhi-agent-toolkit — Hosted web search, webpage text retrieval, and structured extraction over Streamable HTTP. Requires a Baizhi account and API key (Bearer); usage may incur charges. Repository contains integration configurations, documentation, and tests, not the hosted backend source.
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
