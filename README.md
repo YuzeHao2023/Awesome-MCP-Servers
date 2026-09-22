@@ -280,6 +280,7 @@ Integration with chat and messaging platforms.
 Access observability and monitoring systems.
 
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
+- PHPRay — https://github.com/stephen1137/phpray
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
 - sslmon — https://github.com/firesh/sslmon-mcp
