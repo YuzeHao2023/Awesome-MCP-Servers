@@ -274,6 +274,8 @@
 
 网页抓取、搜索与处理。
 
+- [ReadGZH](https://github.com/sweesama/readgzh) — 通过托管 MCP 服务将已有公开微信公众号文章链接读取为 Markdown，并搜索已缓存的文章。匿名访问有额度限制，支持 API Key 认证。[接入文档](https://readgzh.site/docs)。
+
 - Haunt — https://github.com/Darko893/mcp-server — AI-powered web scraping with Cloudflare bypass, JavaScript rendering, and structured data extraction. Pay-per-use API with free tier.
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
