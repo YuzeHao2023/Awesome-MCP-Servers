@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Atomic Mail Agentic — https://github.com/Atomic-Mail/atomic-mail-agentic — Gives an AI agent its own email inbox: the agent self-registers an address by solving a proof-of-work challenge, then reads, sends and searches mail over the JMAP standard. Hosted at `https://mcp.atomicmail.ai/mcp` or local stdio via `@atomicmail/mcp`.
 
 ---
 
