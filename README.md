@@ -256,6 +256,7 @@ Database access with schema inspection and query capabilities.
 - DBUtils — https://github.com/donghao1393/mcp-dbutils
 - TiDB — https://github.com/c4pt0r/mcp-server-tidb
 - NocoDB — https://github.com/edwinbernadus/nocodb-mcp-server
+- GaussDB (read-only, for coding agents) — https://github.com/gxc/gaussdb-ro-mcp
 - Couchbase (⭐) — https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
 - Redis (⭐) — https://github.com/redis/mcp-redis
 - Many other DB-specific servers are listed in Community Servers.
