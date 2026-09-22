@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Postbag — https://github.com/faahim/postbag — Open-source form backend for agents & static sites (email/Telegram); MCP: `npx -y @postbag/mcp`; https://postbag.dev
 
 ---
 
