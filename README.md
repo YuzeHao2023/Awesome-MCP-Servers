@@ -373,6 +373,7 @@ Automation platforms and workflow tools.
 
 - Make (⭐) — https://github.com/integromat/make-mcp-server
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
+- Orbit by Noveum - https://orbit.noveum.ai/mcp - Official hosted Streamable HTTP server for issues, projects, sprints, docs and files, with workspace-scoped OAuth.
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
