@@ -183,6 +183,7 @@ Server Managers:
 - MCP Installer — https://github.com/anaisbetts/mcp-installer
 
 Other utilities:
+- Cortex - Generates MCP servers, typed SDKs, and interactive documentation from API specifications and Markdown - https://github.com/cortex-docs/cortex
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli
 - mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
