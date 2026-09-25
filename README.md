@@ -280,6 +280,7 @@ Integration with chat and messaging platforms.
 Access observability and monitoring systems.
 
 - Metoro — https://github.com/metoro-io/metoro-mcp-server
+- [Noveum](https://noveum.ai/en/mcp) - Hosted AI agent tracing and evaluation MCP server. Inspect traces, manage evaluation datasets, and run evaluations through `https://noveum.ai/api/mcp` (Streamable HTTP; OAuth or Bearer API key).
 - Raygun — https://github.com/MindscapeHQ/mcp-server-raygun
 - Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry
 - sslmon — https://github.com/firesh/sslmon-mcp
