@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- ThreadFox (paid Reddit MCP server and skill for Claude Code and Codex: reads community rules, searches, posts and replies through your own logged-in Chrome, with a local ledger that blocks double posts and rechecks posts for removal) — https://github.com/amflimited/threadfox
 
 ---
 
