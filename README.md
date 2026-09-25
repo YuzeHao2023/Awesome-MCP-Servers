@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- Pokémon TCG API (read-only Pokémon card catalogue and prices: Cardmarket EUR and TCGplayer USD per card, Japanese and Chinese print lines, card lookup from a photo) — https://github.com/pokemontcgapi/mcp-server [npm: @pokemontcgapi/mcp]
 
 ---
 
