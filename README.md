@@ -459,6 +459,7 @@ AI model & ML service integrations.
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
+- PromoShot — https://github.com/GarAlex/promoshot — Open Rust promo-video engine as MCP: author `.promo` projects and render stills/GIF/mp4 via wgpu + ffmpeg (CLI + Docker `ghcr.io/garalex/promoshot-mcp`). Docs: https://promoshot.app/mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
 ---
