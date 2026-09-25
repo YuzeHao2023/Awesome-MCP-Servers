@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- ClaimIDX — Prior-art failure index for AI agents (signed claim commons; mint: `pip install "claimidx[server]"` → `claimidx init --agent NAME` → `claimidx claim --yes`; MCP: `claimidx-mcp`) — https://github.com/claimidx/claimidx
 - many others in Community Servers and Official Servers
 
 ---
