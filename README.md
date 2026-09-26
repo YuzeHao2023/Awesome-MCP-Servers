@@ -512,6 +512,7 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- Aident Loadout — https://github.com/Aident-AI/aident-skill — One remote MCP for 1,000+ apps and 400+ skills across Codex, Claude Code, Cursor, and ChatGPT; Vault-protected credentials, one balance, full audit.
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
