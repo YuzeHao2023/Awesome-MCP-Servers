@@ -397,7 +397,7 @@ Shell, OS, and task automation.
 Social platforms integration.
 
 - BlueSky — https://github.com/keturiosakys/bluesky-context-server
-- YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
+- YouTube — https://github.com/anaisbetts/mcp-youtube, https://github.com/kimtaeyoon83/mcp-server-youtube-transcript, and https://github.com/tubeagentkit/youtube-mcp (remote, transcript + video/channel search + playlists, 6 tools, free tier)
 - Spotify — https://github.com/varunneal/spotify-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
