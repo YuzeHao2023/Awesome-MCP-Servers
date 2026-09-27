@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- RapportScore — https://mcp.rapportscore.ai/mcp (hosted Streamable HTTP with OAuth 2.1; authorized Conversational AI Coaching sessions, measurements, and coaching, plus permissioned Team Dynamics reports in a limited U.S. pilot; access depends on account and plan)
 
 ---
 
