@@ -459,6 +459,7 @@ AI model & ML service integrations.
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
+- SpicyAPI — https://github.com/Spicy-API/spicy-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
 ---
