@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Omentir - https://github.com/vanshyadav1408/Omentir - LinkedIn prospecting and outreach: find and score leads, draft messages, run human-paced campaigns and answer replies. Remote endpoint https://omentir.com/api/agent/v1/mcp with OAuth, or self-host (MIT).
 
 ---
 
