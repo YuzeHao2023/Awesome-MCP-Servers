@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Court Rules — https://mcp.courtrules.app/mcp - U.S. federal court rules, local rules, judge standing orders, and court holidays with source citations.
 
 ---
 
