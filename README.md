@@ -437,6 +437,7 @@ Payments, market data, and finance tools.
 
 Papers, datasets, and domain data.
 
+- eCFR MCP (U.S. federal regulations) — https://github.com/lrehmann/ecfr-mcp - Search regulations, browse titles, and retrieve cited text; results include ecfr.io links, source dates, and freshness flags.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
