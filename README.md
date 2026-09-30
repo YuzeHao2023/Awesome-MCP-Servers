@@ -459,6 +459,7 @@ AI model & ML service integrations.
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
+- MakeAIVideo (official; create finished short-form AI videos with voiceover, scenes, captions and music, then post or schedule them to connected social accounts; remote at https://mcp.makeaivideo.ai) — https://github.com/makeaivideo-ai/mcp [npm: @makeaivideo/mcp]
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
 ---
