@@ -363,6 +363,7 @@ Cloud vendors and orchestration.
 - Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
+- Peon — https://github.com/Peon-sh/Peon — Open-source self-hosted Docker deployment platform with built-in Streamable HTTP MCP server (workspace RBAC; no shell exec). Docs: https://peon.sh/docs/mcp
 - Render — https://render.com/docs/mcp-server
 
 ---
