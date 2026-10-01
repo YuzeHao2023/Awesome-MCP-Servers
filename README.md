@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- PyMemoryEditor — https://github.com/JeanExtreme002/PyMemoryEditor — Read, write and scan the memory of running processes on Windows, Linux and macOS (Cheat Engine-style value scans and pointer chains), for reverse engineering and game modding.
 
 ---
 
