@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Communicate (⭐) — https://developer.communicate.so/docs/mcp — Official hosted Streamable HTTP MCP for read-only customer-support agent discovery (`communicate_list_agents`); OAuth client credentials with `agents:read`.
 
 ---
 
