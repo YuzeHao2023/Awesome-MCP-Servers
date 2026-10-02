@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Faceless (official Faceless.so server: create AI faceless videos from a script, render them, and publish or schedule them to YouTube, TikTok, Instagram, Facebook, X, LinkedIn and Threads; remote at https://faceless.so/api/v1/mcp) - https://github.com/Side-Products/faceless-desktop-extension
 
 ---
 
