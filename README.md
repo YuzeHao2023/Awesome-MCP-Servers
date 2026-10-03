@@ -318,6 +318,7 @@ Web fetching, scraping, and search.
 
 ## Category: Location Services (🗺️)
 
+
 Mapping and geolocation.
 
 - Campertunity — https://github.com/campertunity/mcp-server
@@ -325,6 +326,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- CUQU找搭子 — https://github.com/cuqu-net/cuqu-skill (find & book local offline group activities in 10+ China cities)
 
 ---
 
