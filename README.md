@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Kultranz (US salary, tax & cost-of-living data from BLS/BEA/Census/IRS 2026 releases — 5 free read-only tools incl. a 50-state take-home-pay tax engine; no auth) — https://api.kultranz.com/mcp
 
 ---
 
