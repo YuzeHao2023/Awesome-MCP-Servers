@@ -359,6 +359,7 @@ Personal knowledge and notes integrations.
 
 Cloud vendors and orchestration.
 
+- CloudBurn: https://github.com/towardsthecloud/cloudburn (Read-only AWS cost analysis for Terraform, CloudFormation, and live AWS accounts. Local TypeScript server over stdio; Node.js 24+.)
 - Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
