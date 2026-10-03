@@ -350,6 +350,7 @@ Web フェッチ、スクレイピング、検索。
 
 クラウドベンダーおよびオーケストレーション。
 
+- CloudBurn: https://github.com/towardsthecloud/cloudburn (Terraform、CloudFormation、実際の AWS アカウントのコスト問題を読み取り専用で分析。stdio で動作するローカル TypeScript サーバー。Node.js 24+ が必要。)
 - Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes（複数の実装） — https://github.com/strowk/mcp-k8s-go (1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird

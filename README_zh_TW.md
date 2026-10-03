@@ -354,6 +354,7 @@
 
 雲端供應商與編排工具：
 
+- CloudBurn: https://github.com/towardsthecloud/cloudburn (唯讀 AWS 成本分析，檢查 Terraform、CloudFormation 與實際 AWS 帳戶。本機 TypeScript 伺服器，透過 stdio 執行；需要 Node.js 24+。)
 - Cloudflare（⭐） — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes（多種實作） — https://github.com/strowk/mcp-k8s-go、https://github.com/weibaohui/k8m、https://github.com/StacklokLabs/mkp
 - Tinybird（⭐） — https://github.com/tinybirdco/mcp-tinybird
