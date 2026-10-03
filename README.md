@@ -348,6 +348,7 @@ Personal knowledge and notes integrations.
 - Obsidian (1/2) — https://github.com/MarkusPfundstein/mcp-obsidian and https://github.com/calclavia/mcp-obsidian
 - Notion (1/2) — https://github.com/danhilse/notion_mcp and https://github.com/suekou/mcp-notion-server
 - Apple Notes — https://github.com/sirmews/apple-notes-mcp (macOS)
+- Continuity — https://github.com/LAHutchins91/continuity-mcp (Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. Hosted Streamable HTTP at https://continuitywriter.com/mcp with OAuth 2.1.)
 - Slite — https://github.com/fajarmf/slite-mcp
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
