@@ -497,6 +497,7 @@ Charting and diagram tools.
 - ECharts — https://github.com/hustcc/mcp-echarts
 - Mermaid — https://github.com/hustcc/mcp-mermaid
 - unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp
+- AIGUI — https://github.com/liliang-cn/aigui/tree/main/packages/mcp — Lets coding agents draw charts, mermaid, maths, 3D scenes, molecules and infrastructure topologies whose steps play, as PNGs or a live browser page; fills charts from CSV/JSON files, checks drawings for overlapping or clipped labels, and exports PDF, standalone HTML or GIF. Local stdio server (npm: @ai-gui/mcp), also a Claude Code and Codex plugin.
 
 ---
 
