@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- SkyAccess (⭐) - https://github.com/sky-access/skyaccess-mcp (Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Remote endpoint: https://mcp.skyaccess.com/mcp)
 
 ---
 
