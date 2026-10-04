@@ -566,8 +566,9 @@ Books, libraries, and creative tools.
 
 Commerce and marketplace integrations.
 
-- Mercado Libre — https://mcp.mercadolibre.com/
+- ConnectMeGuru — https://github.com/vineetgoyalhuf/connectmeguru-mcp (Official MCP server for prepaid international travel eSIM data plans across 190+ countries. Search data catalogs, validate promo codes, initiate purchases, and check eSIM order and provisioning status in-chat. Remote Streamable HTTP endpoint: https://www.connectmeguru.com/api/mcp)
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
+- Mercado Libre — https://mcp.mercadolibre.com/
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---
