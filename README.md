@@ -401,6 +401,7 @@ Social platforms integration.
 - Spotify — https://github.com/varunneal/spotify-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
+- DMParrot (hosted Instagram comment-to-DM automation: keyword funnels, private replies, tags, broadcasts on the official Instagram API; remote `https://dmparrot.com/mcp`, OAuth) — https://dmparrot.com
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
