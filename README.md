@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- MisarMail — https://github.com/Misar-AI/misarmail-mcp
 
 ---
 
@@ -337,6 +338,8 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Misar.Blog — https://github.com/Misar-AI/misarblog-mcp
+- MisarReach — https://github.com/Misar-AI/misarreach-mcp
 
 ---
 
