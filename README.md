@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Voidpay (agent services marketplace: agents find services and storefronts and prepare owner-approved checkout links; never signs or pays) — https://github.com/voidly-ai/pay-mcp [npm: @voidly/pay-mcp]
 
 ---
 
