@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- poordjaevin — https://github.com/Icaro0310/poordjaevin — Local-first typed decision layer for agents: MCP tools that gate, judge, classify and rate (Choice/Score/Noul questions) with calibrated confidence via temperature scaling and conformal abstention. Runs over stdio, no extra API key by default. PyPI package and official MCP Registry entry.
 - many others in Community Servers and Official Servers
 
 ---
