@@ -400,6 +400,7 @@ Social platforms integration.
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 - Spotify — https://github.com/varunneal/spotify-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
+- TokElements (remote, OAuth 2.1 — build, edit and place TikTok LIVE overlay widgets: gift alerts, goals, chat games) — https://tokelements.com/integrations [remote: https://tokelements.com/api/mcp]
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
