@@ -134,7 +134,8 @@ These are example/reference servers and core SDK examples demonstrating MCP feat
 - Git
   - https://github.com/modelcontextprotocol/servers/tree/main/src/git
 - Memory
-  - https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** - Cross-client AI memory hub with tamper-evident evidence chain, supersession chains, 23 client adapters. 334 tests.  - https://github.com/modelcontextprotocol/servers/tree/main/src/memory
 - Sequential Thinking
   - https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
 - Time
