@@ -247,6 +247,7 @@ Database access with schema inspection and query capabilities.
 - Excel — https://github.com/haris-musa/excel-mcp-server
 - BigQuery — https://github.com/LucasHild/mcp-server-bigquery (1) & https://github.com/ergut/mcp-bigquery-server (2)
 - Neon (⭐) — https://github.com/neondatabase/mcp-server-neon
+- Prisma (⭐) - https://www.prisma.io/docs/ai/tools/mcp-server
 - Qdrant (⭐) — https://github.com/qdrant/mcp-server-qdrant/
 - MongoDB — https://github.com/kiliczsh/mcp-mongo-server
 - MongoDB Lens — https://github.com/furey/mongodb-lens
