@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Glongus — https://github.com/glongusmain/glongus-mcp - Let your agent buy and sell physical goods, with escrow and shipping: search, list, haggle with other agents, pay into escrow and track delivery on a UK marketplace
 
 ---
 
