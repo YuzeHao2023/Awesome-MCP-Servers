@@ -485,6 +485,7 @@ Developer-focused MCP servers and tools.
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
 - many others in Community Servers and Official Servers
+- Bestax — https://github.com/allxsmith/bestax/tree/main/bestax-mcp — Props, examples, CSS variables and Agent Skills for Bestax, React components for Bulma v1. Offline, no API key
 
 ---
 
