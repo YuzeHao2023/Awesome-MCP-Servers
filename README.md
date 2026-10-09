@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- LivePair AI — https://livepairai.com/mcp — remote MCP server for private AI image/video generation and OpenAI-compatible text models; per-request billing via API key or x402 (USDC on Base)
 
 ---
 
