@@ -509,6 +509,7 @@ Shell、操作系统与任务自动化相关。
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP 类服务器 — 针对密钥与机密管理的 MCP 集成
+- REA — https://github.com/morluto/rea — 提供本地 CLI 与 MCP 工具，用于基于证据分析二进制文件、打包应用和浏览器运行时。
 
 ---
 
