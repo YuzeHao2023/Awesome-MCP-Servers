@@ -505,6 +505,7 @@ Charting and diagram tools.
 Identity and access management.
 
 - Keycloak — https://github.com/ChristophEnglisch/keycloak-model-context-protocol
+- FractalAI Agent Passport — https://www.npmjs.com/package/@fractalai/agent-passport-mcp — Issues and verifies agent passports (which agent, run by whom, allowed to do what) signed with ML-DSA-65 (NIST FIPS 204). Signatures check offline against a published key directory with epoch rotation, so a passport is verifiable without trusting the issuer. MIT.
 
 ---
 
