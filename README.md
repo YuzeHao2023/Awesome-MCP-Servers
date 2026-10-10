@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- XActions — https://github.com/nirholas/xactions (X/Twitter MCP server, CLI and browser scripts: scrape profiles, followers and tweets, monitor analytics, automate engagement without API fees)
 
 ---
 
