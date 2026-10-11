@@ -418,6 +418,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- Silicon Floor — https://github.com/Baptoshi/silicon-floor (remote, read-only, no key: who owns AI and semiconductor stocks, who is buying and selling them, and what their filed numbers say — SEC XBRL financials, 13F, Schedule 13D/G, Forms 3/4/5, FINRA short interest and dividends, every figure dated and linked to its filing) [glama](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
