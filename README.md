@@ -315,6 +315,7 @@ Web fetching, scraping, and search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
+- RobotTraining.jobs (remote, Streamable HTTP, no auth) - https://robottraining.jobs/api/mcp - search open robot-training jobs (teleoperation, AV and drone test operation) with posted pay
 
 ## Category: Location Services (🗺️)
 
