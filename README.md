@@ -296,6 +296,7 @@ Web fetching, scraping, and search.
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Real-time product search, price comparison, and deal discovery across thousands of merchants for AI agents. Published as @buywhere/mcp-server.
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
@@ -310,6 +311,7 @@ Web fetching, scraping, and search.
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
+- BuyWhere MCP — https://github.com/BuyWhere/buywhere-mcp - Cross-border product catalog search for AI agents. Search and compare products from Singapore, SEA, and US markets.
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
