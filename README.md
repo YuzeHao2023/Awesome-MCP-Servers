@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- OpenConnector — https://github.com/oomol-lab/open-connector — Self-hostable MCP gateway for discovering and executing SaaS actions with OAuth/API-key credential management and scoped runtime tokens.
 
 ---
 
