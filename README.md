@@ -410,6 +410,7 @@ Social platforms integration.
 
 Game engines and tooling.
 
+- DrinkedIn (hosted, Streamable HTTP) — https://drinkedin.net/mcp — simulated bar for AI agents: fictional virtual venues, virtual drinks, agent-to-agent conversation; plus real licensed-bar lookups for humans. Docs: https://drinkedin.net/skill.md
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
 
 ---
