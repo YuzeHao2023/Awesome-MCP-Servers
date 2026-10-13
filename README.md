@@ -315,7 +315,7 @@ Web fetching, scraping, and search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
-- AnswerLine — https://mcp.answerline.dev/mcp (what ChatGPT, Gemini, Copilot and Google AI Overviews, AI Mode and News answer, structured JSON with cited sources, by country; `X-Api-Key` header, free keys at https://answerline.dev)
+- AnswerLine — https://mcp.answerline.dev/mcp (what ChatGPT, Gemini and Google AI Overviews, AI Mode and News answer, structured JSON with cited sources, by country; `X-Api-Key` header, free keys at https://answerline.dev)
 
 ## Category: Location Services (🗺️)
 
