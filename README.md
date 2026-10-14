@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Karma.Domains Expired Domains — https://github.com/karma-domains/expired-domains-mcp (hosted; expired/auction domain search with SEO metrics; OAuth or API key, Pro plan)
 
 ---
 
