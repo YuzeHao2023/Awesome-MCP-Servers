@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- CurlShot — https://curlshot.com - Hosted screenshot MCP server (Streamable HTTP at https://curlshot.com/api/mcp, Bearer API key): full-page, element and device screenshots of any URL as PNG/JPEG/WebP/PDF or scrolling video
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
