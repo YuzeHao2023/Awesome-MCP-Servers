@@ -160,6 +160,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Box — https://github.com/box-community/mcp-server-box (⭐)
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
+- Latchkey (⭐) — https://latchkey.dev/documentation/connect-your-ai-agent — Self-healing GitHub Actions runners; official remote MCP server (https://latchkey.dev/mcp) to read the CI failures self-heal could not fix (root cause, failing file, logs), check run status, dispatch workflows, and run commands on fresh ephemeral runners.
 - Notion — https://github.com/makenotion/notion-mcp (official)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
