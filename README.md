@@ -258,6 +258,7 @@ Database access with schema inspection and query capabilities.
 - NocoDB — https://github.com/edwinbernadus/nocodb-mcp-server
 - Couchbase (⭐) — https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
 - Redis (⭐) — https://github.com/redis/mcp-redis
+- CortexDB — https://github.com/liliang-cn/cortexdb — AI memory and a knowledge graph in one SQLite file: vector + FTS5 hybrid search, RAG, scoped agent memory, RDF/SPARQL/SHACL and Cypher, 80+ tools. Pure Go, one binary with no Python or Node to set up, and it works without an embedding model. Local stdio server, also a Claude Code and Codex plugin that recalls memories on each prompt.
 - Many other DB-specific servers are listed in Community Servers.
 
 ---
