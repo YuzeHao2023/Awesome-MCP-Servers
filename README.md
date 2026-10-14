@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- Playable Gift (https://playablegift.com) offers a hosted MCP server at https://playablegift.com/mcp for making personalized browser games from a sender's description of the recipient.
 
 ---
 
