@@ -471,6 +471,7 @@ Developer-focused MCP servers and tools.
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
 - OpenAPI Schema Explorer — https://github.com/kadykov/mcp-openapi-schema-explorer
+- Openhook — https://github.com/openhook-dev/openhook-inbox — Open-source webhook inbox for AI agents to capture callbacks, inspect payloads, and wait for events over hosted or self-hosted MCP.
 - OpenRPC — https://github.com/shanejonas/openrpc
 - Postman — https://github.com/delano/postman-mcp-server
 - QA Sphere (⭐) — https://github.com/Hypersequent/qasphere-mcp
