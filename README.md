@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Tanod — https://tanod.dev/mcp — Remote streamable-HTTP server with 140+ pay-per-call tools (PDF, image, web-to-Markdown, search, DNS, chain data, contract and package scans); free daily allowance, then x402 USDC per call, no account.
 
 ---
 
