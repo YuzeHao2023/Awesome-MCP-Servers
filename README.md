@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- CareJobs.Now (US healthcare job postings and posted pay) - https://github.com/yumaheymans/carejobs-mcp
 
 ---
 
