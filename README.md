@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Enhanciar — https://github.com/enhanciar/enhanciar-mcp (remote company-brain server: answers from Slack, Gmail, Notion and Drive with source links, then drafts the follow-up for approval; paid, API key)
 
 ---
 
