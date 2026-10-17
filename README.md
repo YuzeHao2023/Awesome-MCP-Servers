@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- WeInc — https://github.com/umairalisadaqat/weinc-mcp (WeInc MCP server: build, edit and publish AI-generated websites on WeInc (we.inc) from Claude, Cursor, VS Code or any MCP client.)
 
 ---
 
