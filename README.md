@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Posy (build and edit a link-in-bio page: add links, pick a look, publish; hosted remote server `https://posy.page/api/mcp` with OAuth, MIT and self-hostable) — https://github.com/Himanshu-Sangshetti/posy
 
 ---
 
