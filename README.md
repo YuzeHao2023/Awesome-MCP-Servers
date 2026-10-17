@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- BacklinkGenie — https://github.com/nikunjness/backlinkgenie-mcp (remote, OAuth: https://app.backlinkgenie.com/mcp. Link-building outreach agent: find blog posts where your product fits, review and approve pitches, track replies and won links)
 
 ---
 
