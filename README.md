@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- Open Health Sync (wearable and health data) — https://github.com/soma-intelligence/open-health-sync
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
 ---
