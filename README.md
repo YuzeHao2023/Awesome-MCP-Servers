@@ -325,6 +325,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Vedar — Kamchatka travel — https://github.com/tourhabk-ui/pos (remote MCP: https://vedarai.ru/api/mcp)
 
 ---
 
