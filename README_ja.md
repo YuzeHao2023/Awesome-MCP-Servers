@@ -317,6 +317,7 @@ Web フェッチ、スクレイピング、検索。
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Muslim Prayer Reminder MCP — https://github.com/tareq7/muslim-prayer-mcp — 位置情報と地域ごとの計算方式に基づいて礼拝時刻を算出し、次の礼拝までの時間を表示。
 
 ---
 

@@ -321,6 +321,7 @@
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Muslim Prayer Reminder MCP — https://github.com/tareq7/muslim-prayer-mcp — 根據地點與地區計算方法計算穆斯林禮拜時間，並顯示下一次禮拜倒數計時。
 
 ---
 

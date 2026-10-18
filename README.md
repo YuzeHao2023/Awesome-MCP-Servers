@@ -325,6 +325,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Muslim Prayer Reminder MCP — https://github.com/tareq7/muslim-prayer-mcp — Calculates Muslim prayer times by location and regional method, including a next-prayer countdown.
 
 ---
 

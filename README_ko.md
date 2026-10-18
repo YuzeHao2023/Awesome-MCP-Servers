@@ -271,6 +271,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 위치 서비스 (🗺️)
 
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
+- Muslim Prayer Reminder MCP — https://github.com/tareq7/muslim-prayer-mcp — 위치와 지역별 계산 방식에 따라 이슬람 예배 시간을 계산하고 다음 예배까지 남은 시간을 표시합니다.
 
 ---
 
