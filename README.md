@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Agent Evidence API — https://github.com/Thx93/agent-evidence-api - Cited web evidence and claim verification: answers a question against up to five source URLs and returns passages that support, contradict or fail to settle it. Hosted discovery is free; each call costs $0.003 USDC on Base via x402.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
@@ -325,6 +326,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Weather MCP — https://github.com/Thx93/mcp-weather-server - US National Weather Service active alerts by two-letter state code and five-period forecasts by latitude/longitude. Runs locally from source; hosted discovery is free and each call costs $0.003 USDC on Base via x402.
 
 ---
 
