@@ -400,6 +400,7 @@ Social platforms integration.
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 - Spotify — https://github.com/varunneal/spotify-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
+- China News Feed — https://github.com/joydai2026-del/china-news-feed-mcp (China news and Weibo 微博, Baidu 百度, Zhihu 知乎 hot lists from public data; hosted at https://china-news-feed-mcp.joyd-ai-2026.workers.dev/mcp)
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
