@@ -315,6 +315,7 @@ Web fetching, scraping, and search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
+- officegrep — https://github.com/Asgoresmilelong/officegrep
 
 ## Category: Location Services (🗺️)
 
