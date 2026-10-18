@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- [ShortSmash](https://github.com/abicevoice1-sudo/shortsmash) — MCP server + CLI that turns a prompt into a published short video: AI script, 50-language dubbing, karaoke captions, 10 publishing platforms. MIT licensed.
 
 ---
 
