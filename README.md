@@ -402,6 +402,7 @@ Social platforms integration.
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
+- Mysocial — https://github.com/mysocialio/mysocial-intelligence — Lets MCP clients work with a creator's connected social media history and performance signals; official hosted Streamable HTTP endpoint `https://app.mysocial.io/mcp`, OAuth 2.1.
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
 ---
