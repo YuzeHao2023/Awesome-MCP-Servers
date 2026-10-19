@@ -163,6 +163,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Notion — https://github.com/makenotion/notion-mcp (official)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
+- Rillsoft Project — https://github.com/rillsoft/rillsoft-project-mcp — MCP server built into Rillsoft Project 10 (Windows) for multi-project resource and capacity planning, 118 tools, runs locally
 - Tinybird — https://github.com/tinybirdco/mcp-tinybird (⭐)
 - Cloud-run, AWS, Azure, Google offerings — various official MCP servers in the awslabs and Google repos under modelcontextprotocol.
 
