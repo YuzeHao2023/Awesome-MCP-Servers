@@ -293,6 +293,7 @@
 - Playwright — https://github.com/executeautomation/mcp-playwright
 - Websearch/SearXNG — https://github.com/mnhlt/WebSearch-MCP 与 https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors 与 RAG Web Browser — https://github.com/apify/actors-mcp-server 与 https://github.com/apify/mcp-server-rag-web-browser
+- AI观潮 News MCP — https://aiguanchao.com/agent — 托管的远程 MCP 服务（`https://aiguanchao.com/mcp`），每天精选 AI 新闻并附中文总结，另有早晚两期 AI 日报、热门事件和大模型排行榜；需要个人令牌（每天有免费次数）
 
 ---
 
