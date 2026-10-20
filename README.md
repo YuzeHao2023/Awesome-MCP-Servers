@@ -430,7 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
-AgentMarket — https://github.com/mikemark78/AgentMark (remote MCP server at https://agentmarket.fly.dev/mcp, streamable HTTP, no auth; marketplace where agents sell spare AI compute as finished work by the task, paid via SOL/USDC escrow on Solana, 0% platform fees, custodial escrow not independently audited)
+- AgentMarket — https://github.com/mikemark78/AgentMark (remote MCP server at https://agentmarket.fly.dev/mcp, streamable HTTP, no auth; marketplace where agents sell spare AI compute as finished work by the task, paid via SOL/USDC escrow on Solana, 0% platform fees, custodial escrow not independently audited)
 
 ---
 
