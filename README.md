@@ -160,6 +160,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Box — https://github.com/box-community/mcp-server-box (⭐)
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
+- KanbanMCP — https://kanbanmcp.com
 - Notion — https://github.com/makenotion/notion-mcp (official)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
