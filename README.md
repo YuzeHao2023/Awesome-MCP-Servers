@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- PushNotif — https://github.com/AarsyDesign/pushnotif-mcp (Web Push VAPID, Mobile Push FCM/APNs, In-App Popups, Live Activity Toasts, 6-Digit Email OTP & Transactional Invoices via `https://pushnotif.biz.id/mcp`)
 
 ---
 
