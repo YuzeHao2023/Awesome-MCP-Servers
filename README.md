@@ -466,6 +466,7 @@ AI model & ML service integrations.
 ## Category: Development Tools (💻)
 
 Developer-focused MCP servers and tools.
+- T-Zero Context Engine  https://github.com/toprakahmetaydogmus/TZeroAlgorithm  Enterprise codebase context architect and token reducer for AI coding agents with 37 MCP tools, polyglot AST pruning, 95% token savings, and 100% Zero-Leak security.
 
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
