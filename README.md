@@ -185,6 +185,7 @@ Server Managers:
 Other utilities:
 - Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch
 - mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli
+- MCPWatch — free nightly security scores (0-100) and change alerts for the top 500 MCP servers in the official registry, with RSS and README badges — https://mcpwatch-zeta.vercel.app
 - mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
 
 ---
