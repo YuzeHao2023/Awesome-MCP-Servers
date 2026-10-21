@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- isGenAI — https://isgenai.com/developers/mcp — Remote no-auth MCP (`https://isgenai.com/mcp`) that checks images, links and text for C2PA Content Credentials, AI labels and saved generation prompts.
 
 ---
 
