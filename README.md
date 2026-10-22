@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- PeekPanda (hosted remote server for iOS competitor research: Meta ads, App Store keyword rankings, viral posts; Streamable HTTP, OAuth or API key) — https://github.com/fdarkaou/peekpanda-mcp
 
 ---
 
