@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Forever In Our Hearts — https://github.com/Forever-In-Our-Hearts/memorials-mcp-server - Hosted remote MCP server (`https://mcp.foreverinourhearts.co/mcp`, no auth) to search public online memorials, funeral notices and partner funeral homes
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
