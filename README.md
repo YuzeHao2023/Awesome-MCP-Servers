@@ -325,6 +325,7 @@ Mapping and geolocation.
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
+- Rolês em SP — https://github.com/DanRioDev/roles-em-sp-mcp (remote Streamable HTTP OAuth 2.1 MCP server at https://rolesemsp.com.br/mcp for cultural and gastronomic outing discovery in São Paulo, Brazil)
 
 ---
 
