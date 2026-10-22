@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Predge whale-data-mcp (Polymarket settlement-risk records from UMA, whale trades and signed delivery verdicts as MCP tools; paid tools settle per call over x402) — https://github.com/predgeAI/whale-data-mcp
 
 ---
 
