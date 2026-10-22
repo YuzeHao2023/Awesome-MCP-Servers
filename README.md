@@ -418,6 +418,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- SwapChan — https://github.com/TSavo/SwapCha.in (keyless hosted MCP for best-price same-chain and cross-chain crypto swap quotes, unsigned transactions and a memecoin scanner; https://mcp.swapchan.com/mcp)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
