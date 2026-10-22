@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Scento Perfume API (perfume notes, raw materials, scent pairings; remote, no key) — https://github.com/Scento-com/perfume-mcp-server
 
 ---
 
