@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- VK (RU) — https://github.com/ilyautov/vk-mcp-ru (VK, the largest social network in Russia: communities, VK Market goods, ads, conversations, statistics. 373 methods in a YAML catalog behind three generic tools; reads run immediately, writes and irreversible calls need confirmation. `uvx vk-mcp-ru`, MIT)
 
 ---
 
@@ -430,6 +431,8 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Diadoc (RU) — https://github.com/ilyautov/diadoc-mcp-ru (Diadoc by Kontur, one of the two main legally-binding EDI operators in Russia: documents, counteragents, signing, powers of attorney. 114 methods in a YAML catalog behind three generic tools; signing asks for confirmation. `uvx diadoc-mcp-ru`, MIT)
+- SBIS / Saby (RU) — https://github.com/ilyautov/sbis-mcp-ru (SBIS, the other main legally-binding EDI operator in Russia: documents, EDI stages, signatures, certificates. 45 methods in a YAML catalog behind three generic tools. `uvx sbis-mcp-ru`, MIT)
 
 ---
 
@@ -569,6 +572,9 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Chestny ZNAK (RU) — https://github.com/ilyautov/chestny-znak-mcp-ru (the state product-marking system every Russian seller of marked goods has to work with: marking codes, emission in SUZ, reports. 33 methods in a YAML catalog behind three generic tools; emission asks for confirmation. `uvx chestny-znak-mcp-ru`, MIT)
+- Russian marketplaces (RU) — https://github.com/ilyautov/marketplaces-mcp-ru (Wildberries, Ozon, Yandex Market and Avito seller APIs in one server: sales and orders, stocks and prices, finance, reviews, ads. 1022 methods in YAML catalogs behind three generic tools, every method carries a read/write/destructive class, several shops switch from chat. `uvx marketplaces-mcp-ru` or `npx -y marketplaces-mcp-ru`, MIT. Single-marketplace builds of the same server: https://github.com/ilyautov/ozon-mcp-ru, https://github.com/ilyautov/wildberries-mcp-ru, https://github.com/ilyautov/yandex-market-mcp-ru, https://github.com/ilyautov/avito-mcp-ru)
+- MoySklad (RU) — https://github.com/ilyautov/moysklad-mcp-ru (MoySklad, the cloud ERP most Russian retail and wholesale businesses run their stock and trade documents in: stock, products, orders, counterparties, profit/turnover/cash reports, and document writes for supplies, shipments, invoices and returns. 892 schema-driven methods behind 8 generic meta-tools, read/write/destructive gating, creation always yields a draft. Python, `uvx moysklad-mcp-ru`, MIT, alpha)
 
 ---
 
