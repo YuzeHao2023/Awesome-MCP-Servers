@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Doomsday Network MCP (self-custodial Layer-1 `DOOM` & Base Mainnet `wDOOM` agent-to-agent payments, replay-proof invoice memos, PoW faucet claims, and GitHub bounty escrow verification) — https://github.com/doomsday-network/doomsday/tree/main/integrations/mcp
 
 ---
 
