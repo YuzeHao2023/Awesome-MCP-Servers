@@ -337,7 +337,6 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
-- hh.ru (RU) — https://github.com/ilyautov/hh-mcp-ru (hh.ru, the dominant job board in Russia and the CIS: vacancies and their analytics, applications and invitations, resumes, salary statistics. 133 methods live in a YAML catalog behind three generic tools, so the whole API costs 14 tool slots instead of 133 schemas per prompt. `uvx hh-mcp-ru`, MIT)
 
 ---
 
