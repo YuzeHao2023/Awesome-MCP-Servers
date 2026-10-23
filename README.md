@@ -447,6 +447,8 @@ Papers, datasets, and domain data.
 
 ## Category: AI Services (🤝)
 
+- ContextAI — https://github.com/indivatools/contextqa-skills/blob/4a67f1b297ba18f8253eaaf0f2195437965715b8/docs/contextai-mcp.md — Hosted MCP for evaluating text and voice agents with scenarios, personas, and metrics. Streamable HTTP with OAuth; an active ContextAI workspace is required.
+
 AI model & ML service integrations.
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
@@ -466,6 +468,8 @@ AI model & ML service integrations.
 ## Category: Development Tools (💻)
 
 Developer-focused MCP servers and tools.
+
+- ContextQA — https://mcp.contextqa.com/docs — Hosted MCP for application test authoring, execution, and failure investigation. Streamable HTTP with browser OAuth; account and workspace access required. Get started: https://ship.contextqa.com/.
 
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
@@ -697,3 +701,4 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+
