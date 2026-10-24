@@ -329,6 +329,7 @@ Web フェッチ、スクレイピング、検索。
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Axiom Lab（ピッチ資料・製品紹介動画 MCP） — https://axiomlab.online/developers/cli-mcp & https://github.com/Axiom-lab-tech/axiomlab-mcp
 
 ---
 

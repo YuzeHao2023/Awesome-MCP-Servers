@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Axiom Lab (Pitch Deck & Product Video MCP) — https://axiomlab.online/developers/cli-mcp & https://github.com/Axiom-lab-tech/axiomlab-mcp
 
 ---
 

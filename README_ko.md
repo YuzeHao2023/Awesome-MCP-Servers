@@ -277,6 +277,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 마케팅 (🎯)
 
 - Agent Mindshare — https://agentmindshare.com
+- Axiom Lab (피치덱 & 제품 소개 영상 MCP) — https://axiomlab.online/developers/cli-mcp & https://github.com/Axiom-lab-tech/axiomlab-mcp
 
 ---
 

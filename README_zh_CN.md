@@ -317,6 +317,7 @@
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Axiom Lab（商业路演与产品视频 MCP） — https://axiomlab.online/zh/developers/cli-mcp 与 https://github.com/Axiom-lab-tech/axiomlab-mcp
 
 ---
 
