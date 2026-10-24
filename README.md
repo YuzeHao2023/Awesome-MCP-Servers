@@ -467,6 +467,8 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Docsy — https://github.com/getremcp/docsy-plugin — Hosted OAuth 2.1 MCP at `https://docsy.remcp.site/mcp/registry` with five read-only tools for source-linked, version-specific developer documentation.
+
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
