@@ -384,6 +384,8 @@ Automation platforms and workflow tools.
 
 Shell, OS, and task automation.
 
+- ReMCP — https://github.com/getremcp/remcp — Hosted OAuth MCP at `https://remcp.site/mcp`, controlling explicitly paired computers with file, terminal, browser, and desktop tools. Actions can modify device state.
+
 - Shell (wcgw) — https://github.com/rusiaaman/wcgw
 - Windows CLI — https://github.com/SimonB97/win-cli-mcp
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
