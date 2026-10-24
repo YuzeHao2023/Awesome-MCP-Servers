@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- baccaraaa/tavero — https://github.com/baccaraaa/tavero — Finds UI inconsistencies (spacing, colors, typography, component drift) in running React apps and gives coding agents fixes with file/line references. Free, MIT, `npx -y tavero mcp`.
 - many others in Community Servers and Official Servers
 
 ---
