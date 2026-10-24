@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- [AuthiChain](https://authichain.com/mcp/free?utm_campaign=inbound-v1&utm_source=yuzehao-awesome-mcp) - Remote MCP server, no key needed. verify_record checks a signed record's signature; dpp_readiness_check returns a 0-100 EU Digital Product Passport readiness score with the gaps (not legal advice); scan_living_qr.
 
 ---
 
