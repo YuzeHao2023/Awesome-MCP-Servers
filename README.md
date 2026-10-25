@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- apex-edge — https://github.com/nonsynthetic/apex-edge-tools — x402 machine-payable utility edge for agents: 59 priced endpoints in USDC on Base/Solana (HTTP 402), 30 MCP tools via Streamable HTTP at https://api.nonsynthetic.net/mcp — engineering-corpus search, audit checklists, hash/uuid/base64/price utilities.
 
 ---
 
