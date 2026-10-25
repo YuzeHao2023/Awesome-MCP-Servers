@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- NIGHTSHIFT — https://github.com/RobertKodes/nightshift (keyless remote MCP at https://getnightshift.tech/mcp/public: agent crews paid per call over x402 in USDC on Base, Watchtower for what changed on an Ethereum token or Uniswap v4 hook with block evidence, Build & Check for MCP and x402 readiness, and cited research from the IMD agent swarm)
 
 ---
 
