@@ -467,6 +467,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Octeract Context — https://github.com/miguelguerra200022-sudo/octeract-context — Autonomous Context Engine and Active Safety Shield for AI coding agents: stops broken edits with in-RAM 4D verification, cuts token costs by 80%+ via Origami AST folding, and delivers zero-token deterministic diagnostics.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
