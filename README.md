@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- AgentPad (AI-agent token launchpad on Base: token/quote reads plus unsigned launch, buy and sell transactions, never handles keys; remote endpoint https://agentpad.thevibehosting.com/mcp) — https://github.com/moneymanai/agentpad-mcp
 
 ---
 
