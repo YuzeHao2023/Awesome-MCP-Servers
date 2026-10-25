@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Clousd — https://github.com/Clousd-Android/clousd-sdk — Cloud Android phones (150+ device models, Android 12-17) for AI agents: run tasks in plain words or drive the screen with observe and act.
 - many others in Community Servers and Official Servers
 
 ---
