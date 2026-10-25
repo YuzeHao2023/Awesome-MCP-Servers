@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- RoboParts — https://github.com/lm203688/roboparts — Vendor-neutral robot hardware compatibility checker (868 entities, three-state verdicts, ISO 9409-1 anchor, printable adapters). Remote MCP at https://roboparts.cc/mcp.
 
 ---
 
