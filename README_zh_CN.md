@@ -562,6 +562,7 @@ Shell、操作系统与任务自动化相关。
 - AllInOneMCP / MCP Discovery / MCP of MCPs — https://github.com/particlefuture/MCPDiscovery
 - Airtable — https://github.com/domdomegg/airtable-mcp-server
 - Agentset — https://github.com/agentset-ai/mcp-server
+- AgentFEM（通过本地 stdio 接口创建、检查和运行有限元项目，查看计算结果；需另行安装 AgentFEM 科学计算环境）— https://github.com/haoming-luo/agentfem-mcp
 - Alertmanager — https://github.com/ntk148v/alertmanager-mcp-server
 - Algorand — https://github.com/GoPlausible/algorand-mcp
 - Android MCP — https://github.com/minhalvp/android-mcp-server
