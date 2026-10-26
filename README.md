@@ -200,6 +200,7 @@ Provides access to local or remote file systems with configurable permissions.
 - Everything Search — https://github.com/mamertofabian/mcp-everything-search
 - fast-filesystem-mcp — https://github.com/efforthye/fast-filesystem-mcp
 - llm-context — https://github.com/cyberchitta/llm-context.py
+- mountable.io (⭐) — https://github.com/writeitai/mountable — Manage persistent filesystems, mount tickets and session revocation for AI agents. Uses the paid mountable.io service.
 
 ---
 
