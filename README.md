@@ -429,6 +429,7 @@ Payments, market data, and finance tools.
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
+- Level Open Finance MCP — https://github.com/levelcfo/open-finance-skills (read-only accounting and financial close verification MCP server with 20 deterministic SMB finance skills, synthetic JSON fixtures, and Streamable HTTP + stdio transport; docs at https://levelcfo.com/finance-systems/)
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
