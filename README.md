@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- Waspes — https://waspes.com/api — Remote Streamable HTTP MCP server (`https://waspes.com/api/mcp`) for generating 3D models (`.glb`/`.obj`/`.fbx`), inserting live textured `MeshPart` assets directly into Roblox Studio via plugin (`https://waspes.com/roblox`), and building full-stack HTML5 websites, contact forms, and master prompts (8 tools).
 
 ---
 
