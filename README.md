@@ -420,6 +420,7 @@ Payments, market data, and finance tools.
 
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
+- Agent Payment Node — https://github.com/nuanu-ai/agent-payment-node — Local-first payment runtime with a stdio MCP interface for x402 offer inspection, bounded payment preparation, status and receipt recovery on Apple Silicon macOS (Node 24).
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
