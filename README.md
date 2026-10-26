@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Scrapling x402 Data Store (remote MCP: DeFi TVL for 880+ protocols, yields, perps funding, meme coins, SEC filings and insiders, Hyperliquid top traders; free previews, paid calls in USDC via x402) — https://github.com/bnth09productions-maker/scrapling-x402-mcp
 
 ---
 
