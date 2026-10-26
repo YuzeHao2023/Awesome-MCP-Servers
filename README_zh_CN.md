@@ -248,6 +248,7 @@
 
 与聊天与消息平台集成。
 
+- AliasMail (⭐) — https://github.com/aliasmail-space/aliasmail-mcp - 零日志即时临时邮箱、AI Agent 自动提取验证码（OTP）及链接，并提供邮件防垃圾与安全审计工具，基于 [AliasMail.space](https://aliasmail.space)
 - Slack — https://github.com/korotovsky/slack-mcp-server
 - LINE Official Account（⭐） — https://github.com/line/line-bot-mcp-server
 - Linear — https://github.com/jerhadf/linear-mcp-server

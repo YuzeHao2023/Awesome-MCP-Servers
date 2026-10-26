@@ -266,6 +266,7 @@ Database access with schema inspection and query capabilities.
 
 Integration with chat and messaging platforms.
 
+- AliasMail (⭐) — https://github.com/aliasmail-space/aliasmail-mcp - Zero-log disposable temporary inboxes, autonomous OTP & verification code extraction, and deep email forensics powered by [AliasMail.space](https://aliasmail.space)
 - Slack — https://github.com/korotovsky/slack-mcp-server
 - LINE Official Account (⭐) — https://github.com/line/line-bot-mcp-server
 - Linear — https://github.com/jerhadf/linear-mcp-server
