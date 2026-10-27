@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- mcp-gatehouse — https://github.com/nickgeorgeseo/mcp-gatehouse — Permission tiers (READ/WRITE/DESTRUCTIVE), fail-closed approval gates and a secret-redacting JSONL audit log enforced inside Python MCP servers. Project page: https://nickgeorgeai.com/open-source/mcp-gatehouse
 
 ---
 
