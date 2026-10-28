@@ -484,6 +484,8 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Coding Tools MCP — https://github.com/mybolide/coding-tools-mcp — Desktop (Rust + Tauri 2) workspace that turns a local project into an AI-developable area: file read/edit, command and test execution, Git status, plus project-local history sessions that restore context in a new conversation. Windows/macOS installers, Apache-2.0.
+- mcp-probe-kit — https://github.com/mybolide/mcp-probe-kit — Spec-driven dev workflow MCP: start_feature/start_bugfix orchestration, resumable plans, a converge gate that requires requirements/spec/implementation/test/review evidence, and cross-session history. `npx -y mcp-probe-kit@latest`. MIT.
 - many others in Community Servers and Official Servers
 
 ---
