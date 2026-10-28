@@ -335,6 +335,7 @@ Marketing and analytics tools.
 - Agent Mindshare — https://agentmindshare.com
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
+- GSCmate — https://gscmate.com — Hosted read-only Google Search Console MCP over Streamable HTTP at https://gscmate.com/mcp; OAuth 2.1; plans start at USD 19 per month.
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
 
