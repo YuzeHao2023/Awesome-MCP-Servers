@@ -465,6 +465,8 @@ AI モデルおよび ML サービスとの統合。
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
+- Coding Tools MCP — https://github.com/mybolide/coding-tools-mcp — Rust + Tauri 2 デスクトップアプリ。ローカルプロジェクトを AI が直接開発できる MCP ワークスペースに変換：ファイル読み書き、コマンドとテスト実行、Git 状態、セッションをまたいでコンテキストを復元する履歴セッション。Windows/macOS インストーラー、Apache-2.0。
+- mcp-probe-kit — https://github.com/mybolide/mcp-probe-kit — 仕様駆動の開発ワークフロー MCP：start_feature/start_bugfix オーケストレーション、復元可能なプラン、要件/仕様/実装/テスト/レビューの証拠を要求する収束ゲート、クロスセッション履歴。`npx -y mcp-probe-kit@latest`、MIT。
 - コミュニティサーバーや公式サーバーにさらに多くのツールがリストされています
 
 ---
