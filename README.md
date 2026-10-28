@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- DESIGN:OS Studio — https://github.com/jangtrinh/design-os-studio — Free, source-available (PolyForm Shield) native interface design studio in Rust with a local MCP server so AI agents can inspect and edit the open design file (macOS).
 
 ---
 
