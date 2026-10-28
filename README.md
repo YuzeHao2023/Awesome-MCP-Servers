@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- OMOPHub (OHDSI medical vocabularies: SNOMED CT, ICD-10, LOINC, RxNorm concept search and mapping) — https://github.com/OMOPHub/omophub-mcp
 
 ---
 
