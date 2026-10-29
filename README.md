@@ -410,6 +410,7 @@ Social platforms integration.
 
 Game engines and tooling.
 
+- Appside — https://github.com/odedkovach/appside-mcp - Read-only docs search, SDK snippets, SDK status and published pricing for Appside, a self-serve web store and checkout for mobile games (remote: https://appside.build/mcp)
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
 
 ---
