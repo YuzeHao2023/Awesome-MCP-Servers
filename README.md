@@ -658,6 +658,7 @@ Frameworks and scaffolding for building MCP servers:
 - create-mcp-ts — https://github.com/stephencme/create-mcp-ts
 - LiteMCP — https://github.com/wong2/litemcp
 - mcp-framework — https://github.com/QuantGeekDev/mcp-framework
+- xmcp — https://xmcp.dev (Open-source TypeScript framework for building and deploying MCP servers with file-based tools, resources, prompts, and hot reload)
 - MCP Plexus — https://github.com/super-i-tech/mcp_plexus
 - oatpp-mcp — https://github.com/oatpp/oatpp-mcp
 - centralmind/gateway — https://github.com/centralmind/gateway
