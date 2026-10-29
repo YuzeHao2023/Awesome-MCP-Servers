@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- Lantern Works Deals (free GPU and AI-infra price comparison; optimize_agent_stack returns the cheapest cited stack for a described agent; get_price_changes lists daily GPU price moves) — https://github.com/connormatthewdouglas/agent-work-stack-deals (hosted, no install: https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=yuzehao)
 
 ---
 
