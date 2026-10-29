@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- AgentSearch — https://github.com/agentsearchhq-coder/agentsearch-mcp - Web search, URL-to-markdown extract, and JS-heavy page render for AI agents. Pay-per-call at $0.005 via Pocket Network, free search tier (25/day), no API key. `npx -y @agentsearchhq/agentsearch-mcp`
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
