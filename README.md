@@ -432,6 +432,7 @@ Payments, market data, and finance tools.
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
 
 ---
+- SecFeed — https://github.com/secfeedapi/secfeed-mcp (remote MCP server for SEC EDGAR data: filing and full text search, insider trades, 13F holdings, 8-K events, XBRL financials, plus SAM.gov and USAspending federal contracts; API key)
 
 ## Category: Research & Data (🧬)
 
