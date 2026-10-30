@@ -468,6 +468,7 @@ AI model & ML service integrations.
 Developer-focused MCP servers and tools.
 
 - CentralMind/Gateway — https://github.com/centralmind/gateway
+- ComputeFirst — https://computefirst.net/docs — Free hosted MCP server for deterministic calculations, identifier validation, and data transformations; no API key required.
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
 - OpenAPI Schema Explorer — https://github.com/kadykov/mcp-openapi-schema-explorer
