@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- memecub (remote MCP: search memes, GIFs and Chinese 表情包 by feeling and auto-place them into articles) — https://github.com/liyupi/memecub [endpoint: https://memecub.com/mcp]
 
 ---
 
