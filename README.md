@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- open-data-mcp — https://github.com/markatdataandbeyond/open-data-mcp (free local MCP: EU VAT/LEI, TED, PubMed, ClinicalTrials.gov, company registries, VIN recalls, weather)
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
 ---
