@@ -479,6 +479,7 @@ Developer-focused MCP servers and tools.
 - Figma — https://github.com/GLips/Figma-Context-MCP
 - Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp
 - VSCode Devtools — https://github.com/biegehydra/BifrostMCP
+- Vicem — https://github.com/RAKKUNN/vicem — Zero-dependency cross-agent context handoff baton (.vicem/BATON.md), deterministic AST code skeletonizer, and local stdio MCP server for lossless symbol rehydration across Claude Code, Codex, Cursor, and Gemini CLI.
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
