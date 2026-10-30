@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Agent Provider Depot — https://getagentdepot.com — Hosted, read-only MCP server (`https://getagentdepot.com/api/mcp`, no API key; proprietary service, MIT client libraries) that tells coding agents which provider to use for LLM APIs, code sandboxes, vector DBs, web search, email and Postgres, with dated editorial picks and prices copied from official pages, plus diagnosis of failing API calls (429, 402, 529, retired models).
 - many others in Community Servers and Official Servers
 
 ---
