@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Post Engineer (Create AI video personas and schedule videos to YouTube, Instagram, LinkedIn and Bluesky) — https://github.com/Ryan-Carloso/post-engineer [npm: post-engineer-mcp]
 
 ---
 
