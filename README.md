@@ -161,6 +161,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
 - GitHub — https://github.com/github/github-mcp-server (official)
 - Notion — https://github.com/makenotion/notion-mcp (official)
+- Signbee — https://github.com/signbee/mcp (⭐) — Official MCP server for Signb.ee document signing and e-signatures for AI agents (Markdown/PDF input, SHA-256 audit trails)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
 - Tinybird — https://github.com/tinybirdco/mcp-tinybird (⭐)
