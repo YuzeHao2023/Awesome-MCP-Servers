@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Homo Universalis — Viveka (Swiss Ephemeris & 7-Wisdoms Oracle, OpenSSF Gold #16118) — https://github.com/David-Porto-Baraldes/Viveka_Web (Remote MCP: https://homouniversalis.ai/mcp)
 
 ---
 
