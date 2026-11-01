@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- SoldFetch — https://github.com/ecom-crawl/soldfetch-mcp — Hosted MCP server for eBay sold and active listings, categories, and item details; API key required. Not affiliated with eBay.
 
 ---
 
