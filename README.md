@@ -568,6 +568,7 @@ Commerce and marketplace integrations.
 
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
+- McClipFace — https://mcclipface.com/mcp/read - Remote MCP server (no auth) that finds current coupon codes, promo codes, deals and discounts for stores and products. Repo: https://github.com/velhetica/mcclipface-plugin
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---
