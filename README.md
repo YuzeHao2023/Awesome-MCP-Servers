@@ -461,6 +461,7 @@ AI model & ML service integrations.
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
+- Reelsi — https://reelsi.ai/mcp — Hosted MCP (Streamable HTTP, OAuth 2.1 or Bearer) to create and revise short-form reels from a prompt plus video, website or graphic. Docs: https://reelsi.ai/api. Site: https://reelsi.ai/?utm_source=yuzehao-awesome-mcp-servers&utm_medium=listing&utm_campaign=directories
 ---
 
 ## Category: Development Tools (💻)
@@ -543,6 +544,7 @@ Security-focused servers and scanning tools.
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
+- BALMAS AI — https://github.com/YaakovTzedek/balmas-mcp — Local read-only MCP that anonymizes documents before an agent reads them (names, IDs, secrets → tokens). `npx -y balmas-mcp`. Site: https://balmasai.com/?utm_source=yuzehao-awesome-mcp-servers&utm_medium=listing&utm_campaign=directories
 ---
 
 ## Category: IoT (🔌)
