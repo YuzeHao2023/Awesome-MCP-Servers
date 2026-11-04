@@ -439,6 +439,7 @@ Papers, datasets, and domain data.
 
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
+- Astrodai (Vedic Astrology & Ephemeris) — https://github.com/tanudai/astrodai-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
