@@ -193,6 +193,7 @@ Other utilities:
 
 Provides access to local or remote file systems with configurable permissions.
 
+- [KaijuConverter](https://kaijuconverter.com) — Universal 201+ file format conversion & document processing MCP server (`https://kaijuconverter.com/api/mcp`) — https://github.com/PabloCirre/kaijuconverter-mcp
 - Backup — https://github.com/hexitex/MCP-Backup-Server
 - FileStash — https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp
 - FileSystem (modelcontextprotocol reference) — https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem (1)
