@@ -442,7 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
-- Panda Federation Tools (citation checks, OpenAlex, PubMed, grants, federal contracts) — https://github.com/pandadad0214/panda-federation-tools
+- Panda Federation Tools (23 tools: citation checks, OpenAlex, PubMed, grants, SBIR/STTR, SEC, clinical trials, page diffs, hidden-AI scan, B2B leads) — https://github.com/pandadad0214/panda-federation-tools
 
 ---
 
