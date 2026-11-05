@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- vshulcz/deja-vu — https://github.com/vshulcz/deja-vu — Local session memory CLI and MCP server (`deja mcp`) that indexes transcripts across Claude Code, Codex CLI, Cursor, Copilot, and 39 other coding agents in SQLite + FTS5. Single Go binary.
 - many others in Community Servers and Official Servers
 
 ---
