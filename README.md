@@ -301,6 +301,7 @@ Web fetching, scraping, and search.
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- JobsPipe — https://github.com/jobspipe/mcp - Hosted MCP to search live job postings from 30+ ATS feeds and job boards (`https://mcp.jobspipe.dev/mcp`); docs: https://docs.jobspipe.dev/ai-agents/mcp
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
