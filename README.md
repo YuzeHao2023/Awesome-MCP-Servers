@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Odds-API.io (⭐) — https://github.com/odds-api-io/odds-api-mcp-server (33 tools for pre-match and live sports betting odds from 450+ bookmakers across 34 sports, odds movements, value bets, arbitrage, closing lines, golf outrights and bet settlement; `npx -y odds-api-mcp-server`)
 
 ---
 
