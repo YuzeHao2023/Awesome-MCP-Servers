@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- GoAnyAPI MCP — https://github.com/GoAnyAPI/goanyapi-mcp - Hosted remote MCP server (Streamable HTTP, OAuth 2.1) with 35+ SEO & marketing data APIs: website traffic, domain rating history, backlinks, keyword research, multi-engine SERP, Google Trends and Google Ads Transparency
 
 ---
 
