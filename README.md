@@ -462,6 +462,7 @@ AI model & ML service integrations.
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
 ---
+- Imagera — https://github.com/alexadams6ix/imagera-skills (remote: https://mcp.imagera.ai/mcp — image, video, voice and music generation, OAuth)
 
 ## Category: Development Tools (💻)
 
