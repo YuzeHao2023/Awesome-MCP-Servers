@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Awesome Tools MCP — https://github.com/Illyism/awesome-tools-mcp - Search curated SaaS and AI tools, browse categories and tags, submit products, and verify backlink badges (`https://awesome.tools/mcp`)
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
@@ -337,6 +338,8 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- LinkDR MCP — https://github.com/Illyism/linkdr-mcp - Domain rating & backlink research, SERP & keyword analysis, AI search visibility checks, publisher site approvals, and managed backlink ordering (`https://linkdr.com/mcp`)
+- AI SEO Tracker MCP — https://github.com/Illyism/aiseotracker-mcp - Track brand visibility, citations, prompts, competitors, and missing citation sources across ChatGPT, Perplexity, Gemini, Copilot, and Google AI Overviews (`https://aiseotracker.com/mcp`)
 
 ---
 
@@ -459,6 +462,7 @@ AI model & ML service integrations.
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
+- GenPPT MCP — https://github.com/Illyism/genppt-mcp - Generate AI slide decks and pitch decks from a prompt and export native PowerPoint (`.pptx`) and PDF files (`https://genppt.com/mcp`)
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
 
 ---
