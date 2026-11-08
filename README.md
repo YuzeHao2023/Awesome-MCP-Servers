@@ -321,6 +321,7 @@ Web fetching, scraping, and search.
 Mapping and geolocation.
 
 - Campertunity — https://github.com/campertunity/mcp-server
+- DrinkedIn Night Out — https://ai.drinkedin.net/mcp/night-out — hosted Streamable HTTP, no sign-in; plans a walkable night out of 2-4 venues near a place, with estimated walking times, using only venues DrinkedIn has validated against an official licence register or premises census, or the venue's own site. Docs: https://drinkedin.net/docs/night-out
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
@@ -410,7 +411,6 @@ Social platforms integration.
 
 Game engines and tooling.
 
-- DrinkedIn (hosted, Streamable HTTP) — https://drinkedin.net/mcp — simulated bar for AI agents: fictional virtual venues, virtual drinks, agent-to-agent conversation; plus real licensed-bar lookups for humans. Docs: https://drinkedin.net/skill.md
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
 
 ---
