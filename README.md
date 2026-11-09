@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Mach GTM MCP — https://github.com/verma6uc/mach-gtm-mcp (Five outbound sales helpers: build an ICP, draft cold emails and LinkedIn messages from signals you provide, get a research checklist, score leads 0-100, and lay out multi-touch sequences. Template-based; it looks nothing up and sends nothing. Install: `npx -y github:verma6uc/mach-gtm-mcp`)
 
 ---
 
