@@ -512,6 +512,8 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
+- GMPSignal MCP Server (`@gmpsignal/mcp-server`) — https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit — Exposes 40 real-time Apify intelligence tools across Quantitative Crypto/DeFi, Polymarket/Kalshi Prediction Markets, B2B Domain Tech-Stack Enrichment, Global KYB/Sanctions, CISA KEV + EPSS Cybersecurity, OpenAlex R&D, and Shopify E-Commerce.
+
 - SkillBoss — https://github.com/heeyo-life/skillboss-mcp — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
 - Rube — https://rube.composio.dev
