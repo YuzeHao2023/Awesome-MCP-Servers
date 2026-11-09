@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- macOS Spaces (Spacepal) — https://github.com/TanKucukhas/spacepal-mcp
 
 ---
 
