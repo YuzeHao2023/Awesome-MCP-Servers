@@ -292,6 +292,7 @@ Access observability and monitoring systems.
 
 Web fetching, scraping, and search.
 
+- Arcmira — https://github.com/arcmira/mcp — YouTube transcript search and monitoring for your AI. Arcmira understands YouTube and podcasts like it watched them: the exact quote, often who said it, the full transcript and sponsors. [Website](https://arcmira.com/) · [API docs](https://arcmira.com/docs).
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
