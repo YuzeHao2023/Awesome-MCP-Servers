@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Nexscope — https://github.com/nexscope-ai/nexscope-ecommerce-api — Remote MCP (Streamable HTTP) with ecommerce marketplace data tools for Amazon, TikTok Shop, Walmart, Shopee and more; OAuth or API key. https://api.nexscope.ai/mcp
 
 ---
 
