@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- Smarter.Poker (⭐) (Official 26-tool MCP server for [Smarter.Poker](https://smarter.poker): poker hand equity, 100BB 6-Max GTO preflop ranges, Malmuth-Harville ICM ($EV), Pot-Limit Omaha bet sizing, live North American cardroom directory, and Official TDA floor rulings via stdio and remote HTTP at `https://smarter.poker/api/mcp`) — https://github.com/Smarter-Poker/smarter-poker-mcp
 
 ---
 
