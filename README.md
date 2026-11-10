@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- imageat — https://github.com/incendies/imageat-mcp — AI image and video generation, editing, narrated explainers, and voiceovers
 
 ---
 
