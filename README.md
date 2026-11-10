@@ -673,6 +673,7 @@ Frameworks and scaffolding for building MCP servers:
 - Prefer official vendor-maintained servers (marked with ⭐) for production use.
 - Check each server repo for documentation about transports (stdio, SSE, HTTP), authentication, and example clients.
 - This ecosystem evolves rapidly — many new servers, clients, and frameworks are added frequently. If you maintain a server, ensure the repo has clear installation and security instructions.
+- [agent-fleet](https://agent-fleet-ppqpwu.camelai.app/mcp) - Iranian and Persian verification and data tools for agents (national code, bank card and Sheba checks, mobile number to operator, postal code, licence plate, passport MRZ check digits, Jalali and Hijri dates). Remote MCP over streamable HTTP, no key, 76 tools, 59 free; an unpaid priced call returns 402 in USDC on Solana or Base. [Repo](https://github.com/Elviro2658/agent-fleet-mcp)
 - [SkillFlow MCP Server](https://github.com/rafsilva85/skillflow-mcp-server) - Search and discover AI agent skills from the SkillFlow marketplace. Browse 500+ skills with trust metrics, categories, and ratings.
 
 <div align="right">
