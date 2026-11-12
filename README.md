@@ -484,6 +484,8 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- GhostQA — https://github.com/avivgerz-hue/ghost-qa — Headless Playwright browser QA MCP server that crawls running web apps across desktop, tablet, and mobile viewports across 8 inspection traps (console, network, layout collisions, accessibility, CWV, links, SEO, and dark/light parity). Run via `npx -y ghost-qa@latest mcp`.
+- Unslop — https://github.com/avivgerz-hue/unslop — 72-rule UI design craft MCP server auditing CSS, Tailwind, and JSX/TSX across 7 pillars (WCAG 2.1 + APCA contrast math, typography, spatial grid, and design tokens). Run via `npx -y unslop-mcp@latest mcp`.
 - many others in Community Servers and Official Servers
 
 ---
@@ -542,6 +544,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- VibeShield — https://github.com/avivgerz-hue/vibe-shield — 92-rule static security scanner MCP server and CLI for Next.js, Supabase, TypeScript, and AI agent configs (`SKILL.md`, `mcp.json`) with OWASP Top 10:2025 mappings and SARIF output. Run via `npx -y @vibefoundry/vibe-shield@latest mcp`.
 
 ---
 
