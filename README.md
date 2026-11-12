@@ -556,6 +556,7 @@ MCP servers for device and IoT integration.
 ## Category: Art & Literature (🧑‍🎨)
 
 Books, libraries, and creative tools.
+- Vidmoat (hosted; Streamable HTTP, OAuth or API key; video editing and MP4 rendering) — https://developer.vidmoat.com/developer/docs/mcp
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
