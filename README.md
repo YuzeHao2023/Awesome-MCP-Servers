@@ -535,6 +535,7 @@ Translation and language services.
 
 Security-focused servers and scanning tools.
 
+- Excession Labs CVE intelligence — https://excessionlabs.ai/cve-intelligence/ — Six read-only tools for CVE search, source software/version evidence, available CISA KEV and dated FIRST EPSS, source health and hosted history. Free, no account or API key. Streamable HTTP endpoint: `https://excessionlabs.ai/mcp/cve`.
 - Semgrep — https://github.com/semgrep/mcp
 - Microsoft Entra ID — Microsoft-related MCPs for identity
 - Netwrix (⭐) — https://github.com/netwrix/mcp-server-naa
