@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- FalcoScan (AI market intelligence: 7,000+ AI products across 29 markets, shut-downs and acquisitions; remote, key required) — https://falcoscan.com/mcp
 
 ---
 
