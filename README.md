@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- datawebot (⭐) — https://github.com/datawebot/datawebot-mcp (hosted remote server: product search across online shops worldwide, every seller's price for one product with shop links, and extraction Jobs on Amazon and Shopify stores)
 
 ---
 
