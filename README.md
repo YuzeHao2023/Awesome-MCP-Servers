@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Scalekit — https://www.scalekit.com — Agent integration platform: 500+ connectors and 20,000+ tools behind one per-user authenticated MCP gateway. Virtual MCP servers expose only the tools a team or use case needs, each call runs with the end user's scoped credentials (OAuth, API keys, RSA) from an encrypted token vault, and every tool call is audit-logged. SOC 2 Type II, HIPAA BAA, and VPC or self-hosted deployment.
 
 ---
 
