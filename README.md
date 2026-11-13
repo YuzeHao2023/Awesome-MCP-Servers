@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- Alloy — https://github.com/argonrobotics-ai/alloy — Physics engine for robot learning; its MCP server (`alloy mcp`) lets agents build, run and check scenes with robots, cloth, liquids and sand
 
 ---
 
