@@ -460,6 +460,9 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Kling AI MCP (Global, ⭐) — https://github.com/klingai-tech/claude-plugin — Official hosted image/video generation, reference workflows, subjects, motion control and task tracking. Endpoint: `https://kling.ai/mcp/plugin`; Streamable HTTP + OAuth with the matching regional account. Generation uses credits; China/Global accounts, credits and task IDs are separate. Install: `claude mcp add --transport http kling-ai-global https://kling.ai/mcp/plugin`. Capabilities depend on live tools/account permissions; repository contains integration/docs, not hosted-server source.
+- Kling AI MCP (China, ⭐) — https://github.com/klingai-dev/openclaw-plugin — Official hosted image/video generation, reference workflows, subjects, motion control and task tracking. Endpoint: `https://klingai.com/mcp/plugin`; Streamable HTTP + OAuth with the matching regional account. Generation uses credits; China/Global accounts, credits and task IDs are separate. Install: `claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`. Capabilities depend on live tools/account permissions; repository contains integration/docs, not hosted-server source.
+
 
 ---
 

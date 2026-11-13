@@ -433,6 +433,9 @@ Shell、操作系统与任务自动化相关。
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML（⭐） — https://github.com/zenml-io/mcp-zenml
+- 可灵 Kling AI MCP（海外，⭐） — https://github.com/klingai-tech/claude-plugin — 官方托管图像/视频生成、参考创作、主体与动作控制、任务查询。端点：`https://kling.ai/mcp/plugin`，Streamable HTTP + OAuth；使用对应地区账号授权，生成消耗账号积分，国内/海外账号、积分和任务 ID 不互通。安装：`claude mcp add --transport http kling-ai-global https://kling.ai/mcp/plugin`。能力依实时工具和账号权限，仓库为集成插件/文档而非托管服务源码。
+- 可灵 Kling AI MCP（国内，⭐） — https://github.com/klingai-dev/openclaw-plugin — 官方托管图像/视频生成、参考创作、主体与动作控制、任务查询。端点：`https://klingai.com/mcp/plugin`，Streamable HTTP + OAuth；使用对应地区账号授权，生成消耗账号积分，国内/海外账号、积分和任务 ID 不互通。安装：`claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`。能力依实时工具和账号权限，仓库为集成插件/文档而非托管服务源码。
+
 
 ---
 
