@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- AISend — https://aisend.app — hosted remote server, OAuth (`https://api.aisend.app/mcp`): send email from your verified domain, track delivery, validate addresses
 
 ---
 
@@ -285,6 +286,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- Bugsly — https://bugsly.dev — hosted remote server, OAuth (`https://bugsly.dev/api/mcp`): list, read and resolve error-tracking issues and check monitors
 
 ---
 
@@ -337,6 +339,8 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- GrowFast — https://growfast.sh — hosted remote server, OAuth (`https://growfast.sh/api/mcp`): find B2B customers, score companies, draft emails, listen on Reddit
+- SEOBolt — https://seobolt.app — hosted remote server, OAuth (`https://seobolt.app/mcp`): crawl a site, audit Google and AI-search readiness, get a fix plan
 
 ---
 
@@ -460,6 +464,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- CVPosh — https://cvposh.com — hosted remote server, OAuth (`https://cvposh.com/api/mcp`): read your resumes, check ATS compatibility, match keywords to a job posting
 
 ---
 
@@ -559,6 +564,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- RemixViral — https://remixviral.ai — hosted remote server, OAuth (`https://remixviral.ai/api/mcp`): check clip jobs, videos and credits, create faceless Shorts from a prompt
 
 ---
 
