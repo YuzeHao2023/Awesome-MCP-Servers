@@ -299,6 +299,7 @@ Web fetching, scraping, and search.
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
+- Parallel Search MCP (⭐) — https://docs.parallel.ai/integrations/mcp/search-mcp - Hosted web search and page retrieval at `https://search.parallel.ai/mcp`, with no API key required.
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
