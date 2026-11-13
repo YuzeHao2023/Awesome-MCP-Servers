@@ -153,6 +153,7 @@
 - Apify Actors — https://github.com/apify/actors-mcp-server
 - Box — https://github.com/box-community/mcp-server-box (⭐)
 - Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare (⭐)
+- Firecrawl — https://github.com/firecrawl/firecrawl-mcp-server (⭐)
 - GitHub — https://github.com/github/github-mcp-server (公式)
 - Notion — https://github.com/makenotion/notion-mcp (公式)
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
