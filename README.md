@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- RealtyCrawl — https://github.com/realtycrawl/realtycrawl-mcp — Discover real estate capabilities and endpoint schemas, then retrieve source-linked observations with explicit credit budgets; data calls require an API key.
 
 ---
 
