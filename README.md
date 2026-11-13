@@ -399,6 +399,7 @@ Social platforms integration.
 - BlueSky — https://github.com/keturiosakys/bluesky-context-server
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 - Spotify — https://github.com/varunneal/spotify-mcp
+- Spotify Play Count MCP (play counts for any track, album, artist or playlist, plus monthly listeners and followers) — https://github.com/GeminiGeorge22/spotify-play-count-mcp
 - TikTok — https://github.com/Seym0n/tiktok-mcp
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
