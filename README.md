@@ -662,6 +662,7 @@ Frameworks and scaffolding for building MCP servers:
 - oatpp-mcp — https://github.com/oatpp/oatpp-mcp
 - centralmind/gateway — https://github.com/centralmind/gateway
 - ToolHive — https://github.com/Stacklok/toolhive
+- mcp-diet — https://github.com/FramY2/mcp-diet (Zero-dependency stdio MCP proxy & runtime firewall for deterministic `tools/list` tree-shaking, oversized `tools/call` crash protection, and live secret redaction)
 - fastMCP4J — https://github.com/tersePrompts/fastMCP4J
 - many others to simplify server creation, type-safety, and security best practices
 
