@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Ahel — https://github.com/ahel-technologies/ahel — Remote MCP server (`https://mcp.ahel.ai`, OAuth) with one catalog of data tasks: company and people enrichment, SEO/SERP, social media and EU business register data, paid per call.
 
 ---
 
