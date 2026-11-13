@@ -295,6 +295,7 @@ Web フェッチ、スクレイピング、検索。
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- FlashData — https://github.com/rocosen/flashdata-mcp - Google 検索と YouTube データの MCP。字幕取得とダウンロードに対応。API キーと有料 Credits が必要。ドキュメント：https://flashdata.dev/mcp
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
