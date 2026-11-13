@@ -293,6 +293,7 @@ Access observability and monitoring systems.
 Web fetching, scraping, and search.
 
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+- easi.run - https://github.com/julianosig/easi.run - Self-hosted Chrome for external AI agents via MCP/REST, with live viewing and human takeover. AGPL-3.0-only; own Linux/Docker hosting and agent/model costs.
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
