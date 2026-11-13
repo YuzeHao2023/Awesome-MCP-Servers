@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- oliveralerubio/muster — https://github.com/oliveralerubio/muster — Local-first Rust CLI, web UI, and stdio MCP server (`muster mcp`) for inspecting effective AI coding agent configurations, proposing config changes, and managing `age`-encrypted secrets across machines.
 - many others in Community Servers and Official Servers
 
 ---
