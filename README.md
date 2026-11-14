@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Preferly — https://www.preferly.ai/tools (remote, no key: `https://www.preferly.ai/mcp`; checks AI crawler access, llms.txt, business schema and readable business info for any website)
 
 ---
 
