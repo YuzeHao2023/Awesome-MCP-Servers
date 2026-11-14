@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- RemixMeme (remote MCP: generate watermark-free vertical AI meme videos from 1–2 photos; official registry com.remixmeme/remixmeme) — https://github.com/xianyu110/remixmeme [endpoint: https://remixmeme.com/mcp]
 
 ---
 
