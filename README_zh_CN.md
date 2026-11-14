@@ -488,6 +488,7 @@ Shell、操作系统与任务自动化相关。
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- OpenAny — https://github.com/openanysi/openany-mcp
 
 ---
 
