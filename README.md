@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- leadli.me — https://leadli.me/en/guides/mcp-server — Official hosted MCP for Telegram subscriber attribution and marketing workflows (Streamable HTTP; Bearer organization access key).
 
 ---
 
