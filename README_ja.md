@@ -500,6 +500,7 @@ AI モデルおよび ML サービスとの統合。
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- OpenAny — https://github.com/openanysi/openany-mcp
 
 ---
 
