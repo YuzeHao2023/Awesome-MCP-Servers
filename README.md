@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Scrapewise — https://github.com/BEBOTECH-OU/scrapewise-mcp - Remote MCP server that scrapes, cleans and matches product and price data from any website.
 
 ---
 
