@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- CCS Verifier — https://github.com/DSHCorrectover/ccs-verifier-mcp — Free, unlimited CCS (Cryptographic Commitment Scheme) receipt verification via Ed25519 signatures. CC0-1.0 licensed, implements draft-correctover-ccs-11 with 5 verification checks. Run via `npx ccs-verifier-mcp`.
 
 ---
 
