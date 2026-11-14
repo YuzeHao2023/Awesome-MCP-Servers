@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- Rumors Lines — https://rumors.app/.well-known/mcp/server-card.json (remote, Streamable HTTP at https://rumors.app/api/mcp; multilingual pick-up line corpus curated by native editors, English glosses, no auth)
 
 ---
 
