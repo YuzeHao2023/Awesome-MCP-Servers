@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Warden MCP (⭐) (remote MCP server for AI agents to find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc via Warden Token Terminal) — https://github.com/warden-protocol/warden-mcp
 
 ---
 

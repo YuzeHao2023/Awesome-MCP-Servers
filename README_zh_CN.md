@@ -403,6 +403,7 @@ Shell、操作系统与任务自动化相关。
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
+- Warden MCP（⭐）（远程 MCP 服务器，供 AI 智能体通过 Warden Token Terminal 在 Base、BNB Chain、Robinhood Chain 和 Arc 上查找代币、获取兑换报价并链上交易） — https://github.com/warden-protocol/warden-mcp
 
 ---
 
