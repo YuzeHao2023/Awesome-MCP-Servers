@@ -321,6 +321,7 @@ Web fetching, scraping, and search.
 Mapping and geolocation.
 
 - Campertunity — https://github.com/campertunity/mcp-server
+- Eigenheim Market (Berlin real estate data, remote) — https://github.com/magicSEO/eigenheim-mcp
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
