@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- ERIUS PHONE MCP — https://github.com/Protremix/erius-phone-mcp — MIT-licensed Python MCP server for persistent cloud Android devices: UI trees, screenshots, touch input, apps and crash logs. Service in early access, by invitation.
 
 ---
 
