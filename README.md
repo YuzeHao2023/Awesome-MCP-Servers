@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- SFXMint (search a library of CC0 sound effects by description or by game/app event, preview them, and get MP3 download URLs for a project; no API key needed to try) — https://github.com/sfxmint/sfxmint-mcp
 
 ---
 
