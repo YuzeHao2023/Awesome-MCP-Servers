@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- LeadSets - https://www.leadsets.ai (Unlimited B2B Contact Data for AI agents: hosted remote MCP server at https://mcp.leadsets.ai to search people and companies, enrich records and verify work emails; OAuth)
 
 ---
 
