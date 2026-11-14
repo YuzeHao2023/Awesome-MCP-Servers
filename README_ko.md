@@ -358,6 +358,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: 집계기 (🔗)
 
 - MCPJungle — https://github.com/mcpjungle/MCPJungle
+- OpenAny — https://github.com/openanysi/openany-mcp
 
 ---
 
