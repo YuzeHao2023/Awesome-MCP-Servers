@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Fezola — https://github.com/mehdis34/fezola-mcp — Hosted multi-account MCP server (Gmail, Outlook, iCloud, any IMAP, Google Chat, Telegram, Calendar, Notion, ad platforms), one shared Memory
 
 ---
 
