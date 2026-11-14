@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- OpenAny — https://github.com/openanysi/openany-mcp — The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs (social, SEO, crypto, company, finance, legal) and 168+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo, Kling). Browse free; pay per call. Remote: https://mcp.openany.si
 
 ---
 
