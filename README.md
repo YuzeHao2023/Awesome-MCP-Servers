@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- SEO Rank Fixer — https://seorankfixer.com/connectors (remote MCP: Google Search Console and Bing data with SEO fixes ranked by the clicks they can win)
 
 ---
 
