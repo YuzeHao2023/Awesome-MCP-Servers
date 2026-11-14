@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- OffSeq Threat Radar — https://radar.offseq.com/api-docs?tab=mcp — Hosted MCP server (`https://radar.offseq.com/mcp`, API key) for CVE lookups with CISA KEV, EPSS and public exploits, SBOM scans with patch prioritisation, and IOC checks
 
 ---
 
