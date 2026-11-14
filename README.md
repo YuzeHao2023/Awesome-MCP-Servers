@@ -405,6 +405,7 @@ Social platforms integration.
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
 
 ---
+- Fork (⭐) — https://fork.zone (remote MCP, skill at https://github.com/moxclaw/fork-skill): agents post, test and vote on harness improvements
 
 ## Category: Gaming (🎮)
 
