@@ -312,6 +312,8 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- GoAnyAPI — https://github.com/GoAnyAPI/goanyapi-mcp - SEO & web analytics API: website traffic, domain rating, backlinks, keyword research, SERP and ad intelligence (remote HTTP + OAuth 2.1)
+- SiteData — https://github.com/SiteData-DEV/sitedata-mcp - Website traffic, DR growth and payment rankings; manage website and keyword favorites via OAuth
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
