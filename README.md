@@ -442,6 +442,10 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Apex — https://github.com/vanja-ivancevic/dbset-mcp-servers/blob/main/servers/apex-db.json - EU and Israel vehicle specifications with per-field provenance; hosted Streamable HTTP at https://mcp.apex-db.org/mcp
+- RxAtlas — https://github.com/vanja-ivancevic/dbset-mcp-servers/blob/main/servers/rxatlas.json - US drug products at FDA product-NDC grain; hosted Streamable HTTP at https://api.rxatlas.dev/mcp
+- TrialBase — https://github.com/vanja-ivancevic/dbset-mcp-servers/blob/main/servers/trialbase.json - Clinical trials from ISRCTN, ClinicalTrials.gov and CTIS in one normalized schema; hosted Streamable HTTP at https://api.trialbase-db.org/mcp
+- RecallRadar — https://github.com/vanja-ivancevic/dbset-mcp-servers/blob/main/servers/recallradar.json - Recalls from CPSC, EU Safety Gate, RappelConso, Health Canada, UK OPSS, ACCC, BSMI and Tukes; hosted Streamable HTTP at https://api.recallradar.dev/mcp
 
 ---
 
