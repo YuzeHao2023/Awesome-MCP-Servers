@@ -425,6 +425,7 @@ Payments, market data, and finance tools.
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
+- SendNF — https://sendnf.com/mcp/ (remote MCP for Brazilian electronic invoices: issue NFS-e, NFC-e and NF-e, with a preview and approval step before anything is issued) [repo](https://github.com/sendnf/sendnf-mcp)
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
