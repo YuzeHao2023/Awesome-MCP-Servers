@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Tapetide (⭐) — https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp — AI-first stock analysis for Indian markets: 34 tools to search, screen & analyze all 8,200+ NSE and BSE stocks (live quotes, financials, technicals, 326-ratio screener, FII/DII flows, IPOs & portfolio tracking). Install: `npx tapetide-mcp`
 
 ---
 
