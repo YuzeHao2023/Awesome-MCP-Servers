@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- RoboPartPicker — https://github.com/brainbook0/robopartpicker-mcp
 
 ---
 
