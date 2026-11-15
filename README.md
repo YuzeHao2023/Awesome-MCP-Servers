@@ -152,6 +152,7 @@ Official integrations are maintained by companies building production-ready MCP 
 - 4everland/4everland-hosting-mcp — https://github.com/4everland/4everland-hosting-mcp
 - Adfin — https://github.com/Adfin-Engineering/mcp-server-adfin
 - Agent Mindshare — https://agentmindshare.com
+- ShipFunnels — https://shipfunnels.app/connect - AI agents build and launch sales funnels with checkout, upsells, CRM, email and A/B tests (remote, OAuth)
 - AgentQL — https://github.com/tinyfish-io/agentql-mcp
 - AgentRPC — https://github.com/agentrpc/agentrpc
 - Aiven — https://github.com/Aiven-Open/mcp-aiven
