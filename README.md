@@ -337,10 +337,9 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
-
----
 - OpenSMM Protocol (open protocol and reference gateway for ordering SMM services from AI agents: catalog, quotes, idempotent orders over REST /v0 and MCP, x402/USDC direct settlement to the provider) — https://github.com/opensmm-protocol/mcp-server
 
+---
 
 ## Category: Note Taking (📝)
 
