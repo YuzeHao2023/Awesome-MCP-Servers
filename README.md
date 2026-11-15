@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- EveryApp — https://everyapp.pro/mcp — Remote MCP server (`https://api.everyapp.pro/mcp`) that lets an assistant find and run tools from EveryApp, a collection of 300+ web tools and apps. Free tools plus an optional paid Pro plan.
 
 ---
 
