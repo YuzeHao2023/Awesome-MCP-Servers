@@ -337,7 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
-- Transformer — https://github.com/NBV-AppFactory/transformer-mcp (remote server https://transformer.gg/mcp: find X creators, send sponsored-post offers, track results)
+- Transformer.gg — https://github.com/NBV-AppFactory/transformer-mcp (remote server https://transformer.gg/mcp: find X creators, send sponsored-post offers, track results)
 
 ---
 
