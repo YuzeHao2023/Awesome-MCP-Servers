@@ -541,6 +541,7 @@ Security-focused servers and scanning tools.
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
+- REA — https://github.com/morluto/rea — Local CLI and MCP toolkit for evidence-backed analysis of binaries, packaged applications, and browser runtimes.
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
 ---

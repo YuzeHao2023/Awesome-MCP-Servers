@@ -523,6 +523,7 @@ AI 與機器學習服務整合：
 - OSV — https://github.com/StacklokLabs/osv-mcp
 - Vulert — https://vulert.com
 - Thales / CDSP 類伺服器 — 用於金鑰與機密管理的 MCP 整合
+- REA — https://github.com/morluto/rea — 提供本機 CLI 與 MCP 工具，用於依據證據分析二進位檔、封裝應用程式及瀏覽器執行環境。
 
 ---
 
