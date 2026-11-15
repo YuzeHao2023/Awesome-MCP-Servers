@@ -308,6 +308,7 @@ Web fetching, scraping, and search.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
+- No Stairs Please MCP (Remote Streamable HTTP server for under-400-capacity live-music venues & booking contacts in all 50 US states, DC, and BC) — https://nostairsplease.com/mcp
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
