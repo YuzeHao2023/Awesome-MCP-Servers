@@ -285,6 +285,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- Agent Nexus: https://github.com/Strategiumfinancepartner/AgentNexus : Discovery registry for agent-facing APIs, MCP servers and CLIs with live health, capability and output-schema probes plus signed health receipts. Remote endpoint https://agentnexus.app/mcp.
 
 ---
 
