@@ -521,6 +521,7 @@ Single MCP endpoints that expose many integrations.
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
 
+- Zambo — https://github.com/zambodotdev/zambo-mcp — One zero-auth endpoint exposing 120 native MCP tools; free 20 calls/tool/day, no account, with x402 USDC micropayments on Base.
 ---
 
 ## Category: Language & Translation (💬)
