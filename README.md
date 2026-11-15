@@ -352,6 +352,7 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+- OneMira AI — https://github.com/onemira-space/onemira-mcp (Local-first MCP server for the [OneMira C1 AI Voice Recorder](https://onemira.com/products/c1) and [OneMira Desktop](https://onemira.com/download) with 38 tools to search, read, and update 99-language speaker-diarized meeting transcripts and local Markdown Wiki notes; zero cloud subscription.)
 
 ---
 
