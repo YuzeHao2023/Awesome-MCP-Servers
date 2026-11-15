@@ -487,6 +487,7 @@ Developer-focused MCP servers and tools.
 - many others in Community Servers and Official Servers
 
 ---
+- [Zambo MCP](https://github.com/zambodotdev/zambo-mcp) - 100+ native MCP tools over one zero-auth remote endpoint: code audit, strategy, lead generation, onchain scoring, credit discovery, prompt defense. Solo-built AI infrastructure by Brennan Zambo. Free 20 calls/tool/day, no signup.
 
 ## Category: Data Visualization (📊)
 
