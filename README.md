@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- Screenpipe — https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp — Search locally recorded screen, audio, meetings, and UI context
 
 ---
 
