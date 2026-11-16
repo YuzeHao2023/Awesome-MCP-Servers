@@ -550,6 +550,7 @@ Security-focused servers and scanning tools.
 MCP servers for device and IoT integration.
 
 - Coreflux MQTT — https://github.com/CorefluxCommunity/CorefluxMCPServer
+- iotaudit - https://github.com/emirmrkaljevic/iotaudit - Local CLI and MCP server that audits IoT devices on your own LAN (destinations, encryption, public DNS, DNS-over-TLS and DNS-over-HTTPS).
 
 ---
 
