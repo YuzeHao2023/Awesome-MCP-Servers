@@ -410,6 +410,7 @@ Social platforms integration.
 
 Game engines and tooling.
 
+- PlayDrop — https://github.com/playdrop-ai/playdrop-plugin (Publish a browser game from your AI agent and get a link that plays on any phone or computer.)
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
 
 ---
