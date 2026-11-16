@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Mamba Labs GTM Suite (21 account intelligence tools for sales research: company identity, firmographics, hiring, tech stack and funding signals, ICP scoring; runs on Apify) - https://github.com/mambalabsdev/mcp-gtm-suite [npm: @mambalabsdev/mcp-gtm-suite]
 
 ---
 
