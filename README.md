@@ -322,6 +322,7 @@ Mapping and geolocation.
 
 - Campertunity — https://github.com/campertunity/mcp-server
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
+- GoVisit Tools (hosted; Streamable HTTP, 22 read-only travel and place tools) — https://govisit.ai/en/docs/developers/mcp/overview
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
