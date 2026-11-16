@@ -314,6 +314,8 @@ Web fetching, scraping, and search.
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
+- link-check-lite — https://github.com/tidybytetools/link-check-lite
+
 ---
 
 ## Category: Location Services (🗺️)
@@ -352,6 +354,11 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+
+- doc2md-lite — https://github.com/tidybytetools/doc2md-lite
+- md-chunk-lite — https://github.com/tidybytetools/md-chunk-lite
+- pdf-table-pull-lite — https://github.com/tidybytetools/pdf-table-pull-lite
+- json-shaper-lite — https://github.com/tidybytetools/json-shaper-lite
 
 ---
 
