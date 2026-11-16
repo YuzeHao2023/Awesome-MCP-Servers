@@ -570,6 +570,8 @@ Commerce and marketplace integrations.
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
+- Thmenu — https://github.com/kerimsaglam/thmenu-mcp — Remote Streamable HTTP MCP server (`https://mcp.thmenu.com/`) for restaurant discovery, multilingual menus, dietary filtering, and OAuth 2.1 table reservations.
+
 ---
 
 ## Category: Data Platforms (📦)
