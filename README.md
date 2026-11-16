@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- Vidmoat (hosted; Streamable HTTP, OAuth or API key; video editing and MP4 rendering) — https://developer.vidmoat.com/developer/docs/mcp
 
 ---
 
