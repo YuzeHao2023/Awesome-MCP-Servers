@@ -697,3 +697,5 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Autonomous HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) M2M API Gateway, Remote MCP Server (`https://citizens-collection-princess-dozens.trycloudflare.com/mcp`), and Task Clearinghouse for AI Agents with 100/100 Verified SLA (Stealth Web Unlocker, Structured Table/Financial Extractor + BTC Oracle, AST Python Math Sandbox, Clean Markdown Scraper, and Persistent K/V Agent Memory).
