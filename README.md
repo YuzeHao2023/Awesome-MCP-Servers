@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- MeetJSON — https://meetjson.com — Ultra-low-latency Edge MCP server (`https://api.meetjson.com/mcp` & `/sse`) for AST code skeleton extraction, data pruning, and JSON healing that reduces LLM context tokens by 60-99%.
 - many others in Community Servers and Official Servers
 
 ---
