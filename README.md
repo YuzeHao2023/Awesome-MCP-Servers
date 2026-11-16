@@ -467,6 +467,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- CoS Codex Bridge — https://github.com/AV-Labs-Co/cos-codex-bridge — Local stdio bridge for finding and continuing Codex tasks, with scoped project access, idempotent prompt delivery and durable receipts.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
