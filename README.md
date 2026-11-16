@@ -376,6 +376,7 @@ Automation platforms and workflow tools.
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
+- JustFill (⭐) — https://github.com/mrmaciej1/justfill-mcp — Official MCP server (`streamable-http` OAuth 2.1 at `https://justfill.app/api/mcp` or `uvx justfill-mcp`) to detect, visually review, and fill fields in existing PDF forms (including flat PDFs and scans) from JSON or reusable templates via https://justfill.app/mcp
 - Tool aggregators like Rube, Rube/Composio and MCPJungle are listed in Aggregators.
 
 ---
