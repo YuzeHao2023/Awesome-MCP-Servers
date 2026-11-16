@@ -322,6 +322,7 @@ Mapping and geolocation.
 
 - Campertunity — https://github.com/campertunity/mcp-server
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
+- Ignav Flights — https://github.com/gusgordon/ignav-skill
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
 - IP2Location.io — https://github.com/ip2location/mcp-ip2location-io
 - QGIS — https://github.com/jjsantos01/qgis_mcp
