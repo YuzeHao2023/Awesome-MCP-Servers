@@ -320,6 +320,7 @@ Web fetching, scraping, and search.
 
 Mapping and geolocation.
 
+- Agent Flights — https://github.com/lomiafrica/agent-flights-mcp
 - Campertunity — https://github.com/campertunity/mcp-server
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
