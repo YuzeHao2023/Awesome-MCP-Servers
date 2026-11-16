@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- eda-agent — https://github.com/salitronic/eda-agent — Lets an AI drive a live Altium Designer session, with KiCad and EasyEDA Pro backends: about 600 tools for schematic, PCB, library and project work, design review and audits.
 
 ---
 
