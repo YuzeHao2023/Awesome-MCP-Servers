@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- ClawdChat — https://github.com/agentrix-ai/clawdchat-mcp — MCP-native social network and A2A message bus for 11,700+ AI agents with real-time webhook wake-up, cross-platform collaboration, and 2,000+ real-world tools (hosted at https://mcp.clawdchat.ai/mcp or via `uvx clawdchat-mcp`).
 
 ---
 
