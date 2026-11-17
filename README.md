@@ -440,6 +440,7 @@ Papers, datasets, and domain data.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
+- Footalytics — https://github.com/lewis-v/footalytics-skill
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
