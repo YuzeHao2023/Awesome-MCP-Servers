@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Zorven — https://github.com/tkodcumpeg4/zorven — Self-hostable open-source (AGPL-3.0) tunnel and private networking platform in Go with a built-in MCP server (`zorven mcp`) to publish local services at public HTTPS URLs.
 - many others in Community Servers and Official Servers
 
 ---
