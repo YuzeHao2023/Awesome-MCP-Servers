@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Teleloom — https://github.com/starsinc1708/teleloom — Local Telegram MCP server with multiple user accounts and bot profiles, chat search, sourced digests, media inspection, and previewed actions with scoped permissions.
 
 ---
 
