@@ -289,6 +289,7 @@ Access observability and monitoring systems.
 ---
 
 ## Category: Search & Web (🔍)
+- **[GMPSignal Real-Time Intelligence MCP](https://github.com/xpayrcom/gmpsignal-mcp)** - 91 live B2B lead, corporate KYB/GLEIF, SEC EDGAR, EU TED tenders, and macroeconomic intelligence tools over Streamable HTTP MCP + x402 Base USDC.
 
 Web fetching, scraping, and search.
 
