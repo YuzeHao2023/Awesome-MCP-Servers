@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- [Linq.es](https://github.com/giulianobr/linqes-mcp) (⭐) - Official remote Streamable HTTP MCP server (`https://linq.es/mcp`) for managing Link-in-Bio profiles, `/s/` shortlinks with UTM tags, click analytics, and captured leads.
 
 ---
 
