@@ -210,6 +210,7 @@ Secure sandbox environments for code execution.
 - Microsandbox (⭐) — https://github.com/microsandbox/microsandbox
 - E2B (⭐) — https://github.com/e2b-dev/mcp-server
 - Docker (QuantGeekDev) — https://github.com/QuantGeekDev/docker-mcp
+- kosa8 (⭐) — https://github.com/kosa8ai/kosa8-claude-plugin
 
 ---
 
