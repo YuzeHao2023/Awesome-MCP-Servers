@@ -436,6 +436,7 @@ AI モデルおよび ML サービスとの統合。
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
+- HumanPen (⭐) — https://github.com/humanpen/humanpen-mcp — 文書のリライト・引用形式の修正・短縮・翻訳に対応し、書式をできる限り維持。APIキーが必要で、処理はクレジット課金。
 - OpenAI 互換のチャット — https://github.com/pyroprompts/any-chat-completions-mcp
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud

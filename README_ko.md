@@ -334,6 +334,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 ## 카테고리: AI 서비스 (🤝)
 
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
+- HumanPen (⭐) — https://github.com/humanpen/humanpen-mcp — 문서 재작성·인용 서식 교정·축약·번역을 지원하며 서식을 최대한 유지합니다. API 키가 필요하고 문서 처리는 크레딧으로 과금됩니다.
 
 ---
 
