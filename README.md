@@ -418,6 +418,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- Debitura (⭐) — https://github.com/debitura/Debitura.MCP — Debitura is a B2B cross-border debt collection platform matching unpaid invoices to licensed local partners in 180 countries on a No Cure, No Pay basis. Hosted Streamable HTTP: `https://mcp.debitura.com/mcp`; creditor API key via `XApiKey`. [Setup docs](https://support.debitura.com/en/articles/15563318-clients-how-to-connect-your-ai-assistant-to-debitura-mcp-server).
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
