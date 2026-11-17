@@ -320,6 +320,7 @@ Web fetching, scraping, and search.
 
 Mapping and geolocation.
 
+- BatchData (hosted U.S. real estate data: property lookup and search, comparables, skip tracing, address verification and geocoding) — https://github.com/batchdataco/batchdata-mcp-server
 - Campertunity — https://github.com/campertunity/mcp-server
 - Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 - IPLocate — https://github.com/iplocate/mcp-server-iplocate
