@@ -456,6 +456,7 @@ AI model & ML service integrations.
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
 - HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace
+- HumanPen (⭐) — https://github.com/humanpen/humanpen-mcp — Document rewriting, citations, condensation and translation; API key required, some operations consume credits.
 - PiAPI — https://github.com/apinetwork/piapi-mcp-server
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
