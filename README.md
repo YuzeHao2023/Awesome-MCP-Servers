@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Product Metrics (⭐) — https://www.productmetrics.io/docs/mcp/overview — Connect stores and ad channels, check tracking, set up profit bidding and manage product segmentation through the hosted OAuth MCP server at https://www.productmetrics.io/mcp.
 
 ---
 
