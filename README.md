@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Solana Rent & Rug Shield MCP (11-layer Solana pre-buy token rug scanner, Block-0 Sybil detector, and read-only SPL/Token-2022 ATA rent checker via Streamable HTTP MCP and x402) — https://github.com/sonnyman2014/solana-rent-rug-shield-mcp
 
 ---
 
