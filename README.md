@@ -258,6 +258,7 @@ Database access with schema inspection and query capabilities.
 - NocoDB — https://github.com/edwinbernadus/nocodb-mcp-server
 - Couchbase (⭐) — https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
 - Redis (⭐) — https://github.com/redis/mcp-redis
+- Job-o-Matic — https://github.com/JR91387/jobomatic-reusme-skills-database (local career database your AI keeps current and writes résumés from)
 - Many other DB-specific servers are listed in Community Servers.
 
 ---
