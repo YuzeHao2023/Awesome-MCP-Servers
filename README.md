@@ -40,6 +40,7 @@ BTW, we provide a [full list of MCP (Master Control Program) Servers](https://gi
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [Little Cups of Claude](https://littlecupsofclaude.com) - Short tips for Claude Code, the Claude API, the Agent SDK and MCP, one per weekday.
 
 ## Community
 
