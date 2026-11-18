@@ -467,6 +467,8 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- FFmpeg MCP Server - https://github.com/Ashutos1997/ffmpeg-mcp-server - Local media processing server for FFmpeg and FFprobe with 19 tools for transcoding, GPU hardware encoding, 9:16 vertical reels, audio normalization, and Whisper STT prep.
+
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
