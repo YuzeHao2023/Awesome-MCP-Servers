@@ -285,6 +285,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- Runheed — https://github.com/getrunheed/runheed-plugin
 
 ---
 
