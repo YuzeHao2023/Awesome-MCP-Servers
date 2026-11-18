@@ -522,6 +522,7 @@ Single MCP endpoints that expose many integrations.
 - Magg — https://github.com/sitbon/magg
 
 ---
+* [mcp-bridge](https://github.com/zhangbotong92-cyber/mcp-bridge) 🐍 - One MCP server in front of any OpenAI-compatible endpoint (DeepSeek, Qwen, GLM, Kimi, local ollama). Per-project usage ledger, `--doctor` environment check, offline fallback labelled in the reply. Stdlib only, MIT.
 
 ## Category: Language & Translation (💬)
 
