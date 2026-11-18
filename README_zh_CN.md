@@ -454,6 +454,8 @@ Shell、操作系统与任务自动化相关。
 - Mastra/mcp（⭐） — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
+- Coding Tools MCP — https://github.com/mybolide/coding-tools-mcp — Rust + Tauri 2 桌面应用，把本地项目变成 AI 可直接开发的 MCP 工作区：文件读写、命令与测试执行、Git 状态，以及可跨会话恢复上下文的历史会话。Windows/macOS 安装包，Apache-2.0。
+- mcp-probe-kit — https://github.com/mybolide/mcp-probe-kit — 规格驱动的开发工作流 MCP：start_feature/start_bugfix 编排、可恢复计划、要求需求/规格/实现/测试/评审证据的收敛门，跨会话历史。`npx -y mcp-probe-kit@latest`，MIT。
 
 ---
 
