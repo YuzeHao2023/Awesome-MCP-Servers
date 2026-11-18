@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Kitbay — https://kitbay.app/ - Remote MCP server (https://kitbay.app/mcp, no sign-in) to search 48,000+ MCP servers and agent skills by tool, with sourced facts and install configs
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
