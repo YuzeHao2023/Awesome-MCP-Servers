@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- Presencis Regulatory MCP — https://github.com/Presencis-com/regulatory-mcp — Read-only local stdio MCP server for the public [Presencis Regulatory Corpus](https://presencis.com/regulations/): 95 AI, cyber, privacy, and sector regulations (EU AI Act, DORA, NIS2, GDPR, ISO/IEC 42001), cross-framework comparison crosswalks, and [350 compliance Q&A explainers](https://presencis.com/questions/). Run via `npx -y @presencis/regulatory-mcp`.
 
 ---
 
