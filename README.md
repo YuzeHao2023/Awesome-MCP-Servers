@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- slashman413/cowork — https://github.com/slashman413/cowork — Self-hosted Streamable HTTP MCP hub (`io.github.slashman413/cowork`, 18 tools) and dark web dashboard connecting Claude Code, Codex, Gemini CLI, and local Hermes/SGLang/Ollama workers on one file-backed task queue with automatic rate-limit fallback chains.
 - many others in Community Servers and Official Servers
 
 ---
