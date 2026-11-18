@@ -442,6 +442,15 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- PuckAPI — https://github.com/PuckAPI/mcp (hosted remote server, free tier of 500 credits a month: NHL play-by-play, stats and odds history)
+- EndzoneAPI — https://github.com/noahowsh/endzoneapi-mcp (hosted remote server, free tier of 500 credits a month: NFL play-by-play with EPA, stats and odds history)
+- DunkAPI — https://github.com/noahowsh/dunkapi-mcp (hosted remote server, free tier of 500 credits a month: NBA, WNBA and college basketball play-by-play, box scores and odds history)
+- FastballAPI — https://github.com/noahowsh/fastballapi-mcp (hosted remote server, free tier of 500 credits a month: MLB pitch-by-pitch data, box scores and odds history)
+- StrikerAPI — https://github.com/noahowsh/strikerapi-mcp (hosted remote server, free tier of 500 credits a month: soccer events with shot locations and xG, standings and odds history)
+- AcesAPI — https://github.com/noahowsh/acesapi-mcp (hosted remote server, free tier of 500 credits a month: ATP and WTA tennis results, draws, rankings and Elo ratings)
+- BirdieAPI — https://github.com/noahowsh/birdieapi-mcp (hosted remote server, free tier of 500 credits a month: PGA Tour golf leaderboards and hole-by-hole scores)
+- FighterAPI — https://github.com/noahowsh/fighterapi-mcp (hosted remote server, free tier of 500 credits a month: UFC fight results, stat sheets and fighter records)
+- YorkerAPI — https://github.com/noahowsh/yorkerapi-mcp (hosted remote server, free tier of 500 credits a month: cricket ball-by-ball data in every format)
 
 ---
 
