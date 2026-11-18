@@ -341,6 +341,8 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 
+- Coding Tools MCP — https://github.com/mybolide/coding-tools-mcp — Rust + Tauri 2 데스크톱 앱. 로컬 프로젝트를 AI가 직접 개발할 수 있는 MCP 작업 공간으로 변환: 파일 읽기/쓰기, 명령 및 테스트 실행, Git 상태, 세션 간 컨텍스트를 복원하는 히스토리 세션. Windows/macOS 설치 패키지, Apache-2.0.
+- mcp-probe-kit — https://github.com/mybolide/mcp-probe-kit — 사양 기반 개발 워크플로 MCP: start_feature/start_bugfix 오케스트레이션, 복구 가능한 플랜, 요구사항/사양/구현/테스트/리뷰 증거를 요구하는 수렴 게이트, 크로스 세션 히스토리. `npx -y mcp-probe-kit@latest`, MIT.
 ---
 
 ## 카테고리: 데이터 시각화 (📊)
