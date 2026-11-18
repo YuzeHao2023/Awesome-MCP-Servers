@@ -315,6 +315,7 @@ Web fetching, scraping, and search.
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
+- Leadgen ONRC Romania — https://github.com/darksider4all/leadgen-mcp
 
 ## Category: Location Services (🗺️)
 
