@@ -468,6 +468,8 @@ AI 與機器學習服務整合：
 - Mastra / mcp（⭐） — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs / defang — https://github.com/DefangLabs/defang
+- Coding Tools MCP — https://github.com/mybolide/coding-tools-mcp — Rust + Tauri 2 桌面應用，把本地專案變成 AI 可直接開發的 MCP 工作區：檔案讀寫、命令與測試執行、Git 狀態，以及可跨會話恢復上下文的歷史會話。Windows/macOS 安裝包，Apache-2.0。
+- mcp-probe-kit — https://github.com/mybolide/mcp-probe-kit — 規格驅動的開發工作流 MCP：start_feature/start_bugfix 編排、可恢復計畫、要求需求/規格/實作/測試/評審證據的收斂門，跨會話歷史。`npx -y mcp-probe-kit@latest`，MIT。
 
 ---
 
