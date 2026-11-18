@@ -298,6 +298,7 @@ Web fetching, scraping, and search.
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
+- Horizon Pulse — https://github.com/horizon-pulse/horizon-pulse/tree/main/mcp
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
