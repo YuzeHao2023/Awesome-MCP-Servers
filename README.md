@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Octopost (posts, schedules and threads to X, Bluesky, Mastodon and LinkedIn with a human approval queue; remote MCP at https://octopost.ink/mcp, OAuth 2.1 or API key) — https://github.com/octopost-ink/octopost-plugin
 
 ---
 
