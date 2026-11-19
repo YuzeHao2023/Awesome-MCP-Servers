@@ -422,6 +422,7 @@ Payments, market data, and finance tools.
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
+- [Free Crypto News](https://github.com/nirholas/cryptocurrency.cv) - Crypto news MCP server (40+ tools) for latest headlines and search across 300+ sources, a historical archive, sentiment, and market and DeFi data; hosted at `https://cryptocurrency.cv/api/mcp` or run locally. [npm: @nirholas/free-crypto-news-mcp]
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
