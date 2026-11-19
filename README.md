@@ -484,6 +484,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- ptai-eng/chronos-agent — https://github.com/ptai-eng/chronos-agent — Single-binary Rust MCP server (Tree-sitter + KuzuDB + Rhai) with a 5D living code graph, AST-aware symbol editing, edge-verified multi-file refactoring, and blast-radius/super-mutant verification across 7 language families via 14 MCP tools.
 - many others in Community Servers and Official Servers
 
 ---
