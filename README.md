@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Online Web Directory - https://onlinewebdirectory.net/mcp - Remote registry of how websites treat AI agents (bot walls, JavaScript needs, robots rules, llms.txt); look up before fetching
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
