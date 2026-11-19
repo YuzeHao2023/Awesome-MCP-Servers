@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- Droply (remote) — https://droply.so (publish HTML pages, sites and files to a shareable droply.page link; remote server at https://droply.so/mcp, registry name so.droply/droply)
 
 ---
 
