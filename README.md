@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- BizPeel MCP — https://bizpeel.com/docs/connect-agent — Remote Streamable HTTP MCP server (`https://bizpeel.com/mcp`) for verified startup revenue, traffic sources, SEO keywords, ad creatives, and 700+ competitive growth breakdowns.
 
 ---
 
@@ -484,6 +485,7 @@ Developer-focused MCP servers and tools.
 - DefangLabs/defang — https://github.com/DefangLabs/defang
 - jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - HendryAvila/Hoofy — https://github.com/HendryAvila/Hoofy — Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary.
+- Skillry MCP — https://skillry.dev/mcp — Local stdio MCP server (`npx --yes skillry-cli@latest mcp`) to search, preview, and install curated creative Agent Skills (slides, websites, images, launch videos) inside Claude Code, Codex, Cursor, and VS Code.
 - many others in Community Servers and Official Servers
 
 ---
