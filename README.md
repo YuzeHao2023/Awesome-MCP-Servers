@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- Embarko — https://github.com/walkover-mcp/embarko (hosted remote server at https://mcp.embarko.ai/mcp; deploy and host AI-built apps and websites)
 
 ---
 
