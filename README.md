@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Tresca — https://tresca.app/ - Remote MCP server (https://tresca.app/mcp, no sign-in) to search MCP servers and agent skills for engineering software (CAD, BIM, FEA, CFD, EDA, PLC), with sourced facts and install steps
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
