@@ -288,6 +288,7 @@ MCP 서버를 검색、설치、관리 및 작업하는 데 도움이 되는 유
 
 ## 카테고리: 클라우드 플랫폼 (⚡)
 
+- CloudBurn: https://github.com/towardsthecloud/cloudburn (Terraform, CloudFormation 및 실제 AWS 계정의 비용 문제를 읽기 전용으로 분석합니다. stdio로 실행되는 로컬 TypeScript 서버이며 Node.js 24+가 필요합니다.)
 - Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes 관련 구현들
 

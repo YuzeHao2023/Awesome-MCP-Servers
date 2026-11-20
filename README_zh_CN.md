@@ -338,6 +338,7 @@
 
 云厂商与基础设施管理。
 
+- CloudBurn: https://github.com/towardsthecloud/cloudburn (只读 AWS 成本分析，检查 Terraform、CloudFormation 和真实 AWS 账户。本地 TypeScript 服务器，通过 stdio 运行；需要 Node.js 24+。)
 - Cloudflare（⭐） — https://github.com/cloudflare/mcp-server-cloudflare
 - Kubernetes（多实现） — https://github.com/strowk/mcp-k8s-go、https://github.com/weibaohui/k8m、https://github.com/StacklokLabs/mkp
 - Tinybird（⭐） — https://github.com/tinybirdco/mcp-tinybird
