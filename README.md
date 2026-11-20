@@ -338,6 +338,7 @@ Marketing and analytics tools.
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
 
+- [A3M Router](https://github.com/Das-rebel/a3m-router) — Open-source LLM gateway with biology-inspired routing for AI agents. Routes queries across 80+ providers.
 ---
 
 ## Category: Note Taking (📝)
