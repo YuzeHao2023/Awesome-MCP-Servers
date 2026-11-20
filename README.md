@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- MSG91 — https://github.com/walkover-mcp/msg91 (hosted remote server at https://mcp.msg91.com/mcp; search the MSG91 docs and API reference and call MSG91 APIs for SMS, WhatsApp, email, voice and OTP)
 
 ---
 
