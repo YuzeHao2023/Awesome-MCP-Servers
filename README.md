@@ -585,6 +585,7 @@ Orchestration and data pipeline platforms.
 Robotics and device control.
 
 - Bagel — https://github.com/Extelligence-ai/bagel
+- TiaLink — https://github.com/tia-forge/tialink
 
 ---
 
