@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- Verisource — https://github.com/kulinichnick/verisource (B2B Generative Engine Optimization & AI search citation audit MCP server at `https://mcp.verisource.dev/mcp` with OAuth 2.1, GPTBot WAF probing, and syntax-validated JSON-LD, `/llms.txt`, and `/agents.md` generation)
 
 ---
 
