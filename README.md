@@ -559,6 +559,7 @@ Books, libraries, and creative tools.
 
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
+- DankMachine (meme soundboard for AI agents: 38k meme sound effects, find a reaction sound for a moment, search by name/mood/use case, trending, play locally; remote endpoint https://dankmachine.com/mcp, no auth) — https://github.com/HalberdLLC/dank-meme-sounds [npm: dank-meme-sounds]
 
 ---
 
