@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- DataXAPI (hosted MCP for public data from Douyin, Xiaohongshu/RedNote, WeChat Official Accounts and Channels, Weibo, Bilibili, Kuaishou, Zhihu, TikTok, X, YouTube and more: posts, comments, creators, trends and ad libraries; 5 tools, OAuth or API key, pay per call) — https://github.com/data-x-api/dataxapi
 
 ---
 
