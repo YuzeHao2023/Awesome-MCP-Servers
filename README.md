@@ -425,6 +425,7 @@ Payments, market data, and finance tools.
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
+- Miramarket (⭐) - https://github.com/miramarket/mcp-server (hosted MCP server for an account trading Hyperliquid perps, tokenized stocks on Base and Polymarket prediction markets: look up markets, build a strategy from a plain-English idea, simulate it, or run it live within a budget the owner sets)
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
