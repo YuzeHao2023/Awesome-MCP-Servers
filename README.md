@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
+- GSCPAP — https://gscpap.com (hosted, read-only Google Search Console, GA4, Bing Webmaster Tools, PageSpeed Insights and live SERPs, with Search Console and Bing history past their 16-month limits)
 
 ---
 
