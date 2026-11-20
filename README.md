@@ -568,6 +568,7 @@ Commerce and marketplace integrations.
 
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
+- OsmO Travel eSIM (⭐) — https://github.com/Mountainheads-Private-limited/osmo-travel-esim
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---
