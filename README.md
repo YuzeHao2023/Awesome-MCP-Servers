@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Quibbly LinkedIn inbox (hosted remote server: read LinkedIn conversations and connections, see who watched your videos, set follow-ups and notes, and draft replies you send with one click; never sends on its own) — https://github.com/Scriptify-Inc/linkedin-mcp [remote: https://server.quibbly.co/mcp]
 
 ---
 
