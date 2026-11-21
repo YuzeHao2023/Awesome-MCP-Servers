@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- deed.page — https://deed.page/mcp (remote MCP: publish a folder or HTML file to a permanent `https://<name>.deed.page` URL; docs https://deed.page/docs)
 
 ---
 
