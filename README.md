@@ -566,8 +566,9 @@ Books, libraries, and creative tools.
 
 Commerce and marketplace integrations.
 
-- Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
+- Mercado Libre — https://mcp.mercadolibre.com/
+- Oppi Digital Products — https://github.com/Reggiebro/oppi-digital-products (agent commerce MCP server: browse digital products and free samples, get crypto payment instructions and read-only on-chain payment verification; `npx -y oppi-digital-products-mcp`)
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---
