@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- Zaptu — https://zaptu.ai/agents/ (remote MCP: send a consented contact request to local US home-service pros for cleaning, pest control and plumbing)
 
 ---
 
