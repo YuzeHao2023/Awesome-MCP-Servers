@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- crosscheck - https://github.com/maxugc/crosscheck - Checks a skill or MCP server's files before install (read, never run) for piped installers, credential and wallet reads, secrets sent over the network, persistence, hidden Unicode, and instructions aimed at the agent. Also checks work one agent hands another before payment, and drafts before a human sees them. Hosted MCP at https://crosscheckapi.com/mcp or `npx -y crosscheckapi`; paid per call over x402 with a free trial.
 
 ---
 
