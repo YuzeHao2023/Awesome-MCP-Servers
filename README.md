@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Everything2MCP ? https://github.com/shcdwz1234/Everything2MCP ? Turn local caps, private-net services, OpenAPI/gRPC/MQTT/queues and Feishu/DingTalk/WeCom into one MCP surface with hot-reload and Safe defaults. Install: `npx everything2mcp`.
 
 ---
 
