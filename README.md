@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- I2v.ai — https://github.com/i2v-ai/i2v-mcp (remote MCP: official image and video generation server — 12 image and 16 video models, cost estimate before spending, idempotent jobs, OAuth 2.1; docs https://i2v.ai/docs/mcp)
 
 ---
 
