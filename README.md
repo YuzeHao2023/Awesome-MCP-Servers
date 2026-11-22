@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- synthetic cfo (synthetic SAP ECC, S/4HANA and Oracle accounting data with labelled fraud schemes and a ground-truth answer key) — https://github.com/syntheticcfo/syntheticcfo
 
 ---
 
