@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- PFS Free Domains — https://github.com/PublicFreeSuffix/PublicFreeSuffix (remote MCP: `https://s.eus/api/mcp/pfs`, OAuth)
 
 ---
 
