@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- - Social Fetch (Public social media data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more, via a hosted MCP server and REST API) — https://github.com/social-freak-ltd/socialfetch-mcp
 
 ---
 
