@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- Rota (Native macOS menu bar scheduler and session inbox for Claude Code, Codex, Grok Build, Antigravity, and shell commands, with a local stdio `rota mcp` server) — https://github.com/wiltodelta/rota
 
 ---
 
