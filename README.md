@@ -424,6 +424,7 @@ Payments, market data, and finance tools.
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
+- HelmSwap — https://github.com/gambrelcolby63/helmswap-sdk (non-custodial swap MCP server and API; returns quotes and unsigned transactions that the user signs; `npx -y helmswap-mcp`) [glama](https://glama.ai/mcp/servers/gambrelcolby63/helmswap-sdk)
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
