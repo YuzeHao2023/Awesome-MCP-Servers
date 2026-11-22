@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- DroidPath (Cross-platform Rust MCP server, zero-APK Kotlin Shadow DOM daemon, persistent A* UI router & Tauri v2 HUD for sub-second Android automation without VLM screenshot loops) — https://github.com/V0val0x/DroidPath
 
 ---
 
