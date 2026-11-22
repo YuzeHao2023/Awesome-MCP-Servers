@@ -338,6 +338,7 @@ Marketing and analytics tools.
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
 
+- RuMCP (Yandex Metrika and Webmaster; hosted, OAuth) — https://github.com/babang1da/rumcp
 ---
 
 ## Category: Note Taking (📝)
