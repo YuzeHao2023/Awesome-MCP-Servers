@@ -557,6 +557,7 @@ MCP servers for device and IoT integration.
 
 Books, libraries, and creative tools.
 
+- FateSense MCP — https://github.com/BENZEMA216/fatesense-mcp
 - MCP Open Library — https://github.com/8enSmith/mcp-open-library
 - Pollinations — https://github.com/pollinations/model-context-protocol
 
