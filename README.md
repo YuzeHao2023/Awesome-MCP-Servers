@@ -332,6 +332,7 @@ Mapping and geolocation.
 
 Marketing and analytics tools.
 
+- Distribewt — https://github.com/AbdiAreys/Distribewt
 - Agent Mindshare — https://agentmindshare.com
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
