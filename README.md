@@ -301,6 +301,7 @@ Web fetching, scraping, and search.
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- FlashData — https://github.com/flashdatadev/flashdata-mcp - Google Search and YouTube data via hosted remote MCP, including transcripts and downloads; free trial, no credit card required.
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
