@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- FlowFeed MCP (real-time macro/forex/crypto news + economic calendar for AI agents, remote OAuth) — https://github.com/loyt1/flowfeed-mcp
 
 ---
 
