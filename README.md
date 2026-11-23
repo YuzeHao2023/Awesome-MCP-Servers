@@ -425,6 +425,7 @@ Payments, market data, and finance tools.
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
+- Stock Analysis by ValuEdge — https://github.com/kkfir13/stock-analysis (hosted, read-only stock valuation, financial statements, daily technical indicators, and peer comparisons; analysis requires OAuth and is plan-metered)
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
