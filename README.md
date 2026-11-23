@@ -450,6 +450,7 @@ Papers, datasets, and domain data.
 AI model & ML service integrations.
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
+- ApeRAG — https://github.com/apecloud/ApeRAG
 - NeuroLink — https://github.com/juspay/neurolink
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
 - OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp
