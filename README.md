@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- fudaut-datev-extf-mcp (local stdio MCP server for German DATEV EXTF accounting batches, Formatkategorie 21: validates 31 header fields and 125 booking columns with integer-cent math, 5 tools, read-only by default, MIT) — https://github.com/iisakovbusiness-wq/fudaut-datev-extf-mcp [glama](https://glama.ai/mcp/servers/iisakovbusiness-wq/fudaut-datev-extf-mcp)
 
 ---
 
