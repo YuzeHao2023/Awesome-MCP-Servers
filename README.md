@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- mcp-launch-audit — https://github.com/zColdWater/mcp-launch-audit — Zero-dependency read-only MCP server for pre-deploy web security (TLS 443, JS bundle secrets, Supabase RLS & Firebase exposure), SPF/DKIM/DMARC email authentication, RDAP/USPTO domain checks, and `/llms.txt` readiness (`npx -y github:zColdWater/mcp-launch-audit` or remote Streamable HTTP).
 
 ---
 
