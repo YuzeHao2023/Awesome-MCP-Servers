@@ -407,6 +407,7 @@ Social platforms integration.
 
 ---
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 ## Category: Gaming (🎮)
 
 Game engines and tooling.
