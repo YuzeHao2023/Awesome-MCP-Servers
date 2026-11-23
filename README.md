@@ -396,6 +396,7 @@ Shell, OS, and task automation.
 
 Social platforms integration.
 
+- ContHunt (hosted MCP server for short-form video research across TikTok, Instagram Reels, and YouTube Shorts) — https://github.com/Synthenova/conthunt-mcp
 - BlueSky — https://github.com/keturiosakys/bluesky-context-server
 - YouTube — https://github.com/anaisbetts/mcp-youtube and https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 - Spotify — https://github.com/varunneal/spotify-mcp
