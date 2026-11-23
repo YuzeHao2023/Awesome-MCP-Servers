@@ -200,6 +200,7 @@ Provides access to local or remote file systems with configurable permissions.
 - Everything Search — https://github.com/mamertofabian/mcp-everything-search
 - fast-filesystem-mcp — https://github.com/efforthye/fast-filesystem-mcp
 - llm-context — https://github.com/cyberchitta/llm-context.py
+- mcp-server-paperless (paperless-ngx 3.x document archive) — https://github.com/gardenbaum/mcp-server-paperless
 
 ---
 
