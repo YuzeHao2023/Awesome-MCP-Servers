@@ -284,6 +284,7 @@
 - Exa Search（⭐） — https://github.com/exa-labs/exa-mcp-server
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
+- FlashData — https://github.com/flashdatadev/flashdata-mcp - Google 搜索与 YouTube 数据远程 MCP，支持字幕和下载；免绑卡免费试用。
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
