@@ -403,6 +403,7 @@ Shell、操作系统与任务自动化相关。
 - PayPal（⭐） — https://github.com/paypal/agent-toolkit
 - Stripe（⭐） — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI（⭐） — https://github.com/longportapp/openapi/tree/main/mcp
+- AlphaSift（7大股票市场定量筛选、Walk-Forward 形态回放与零依赖 STDIO MCP 服务器，内置 11 工具与 3 资源） — https://github.com/ZhuLinsen/alphasift
 
 ---
 
