@@ -352,6 +352,7 @@ Personal knowledge and notes integrations.
 - Todoist — https://github.com/abhiz123/todoist-mcp-server
 - Google Keep — https://github.com/feuerdev/keep-mcp
 - OMEGA — https://github.com/omega-memory/core (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+- PADAM NOCTURNE — https://github.com/MaksimGalatin/padam-nocturne (Local sovereign AI agent memory in one SQLite file with pre-write secret redaction, prompt-injection quarantine, 4-ring Agentic Shield, and hybrid FTS5 + vector search. 97.0% top-5 / 99.2% top-10 on LongMemEval-S; v0.8.0, `uvx padam-nocturne`.)
 
 ---
 
