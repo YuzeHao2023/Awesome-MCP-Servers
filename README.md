@@ -613,6 +613,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 - BloodHound-MCP — https://github.com/MorDavid/BloodHound-MCP-AI
 - Box community server — https://github.com/hmk/box-mcp-server
 - Browser MCPs — multiple implementations for local and remote browser automation
+- bytebase/bytebase-mcp — https://github.com/bytebase/bytebase-mcp
 - bytebase/dbhub — https://github.com/bytebase/dbhub
 - Calculator — https://github.com/githejie/mcp-server-calculator
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp

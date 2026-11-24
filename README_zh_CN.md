@@ -580,6 +580,7 @@ Shell、操作系统与任务自动化相关。
 - BloodHound-MCP — https://github.com/MorDavid/BloodHound-MCP-AI
 - Box 社区实现 — https://github.com/hmk/box-mcp-server
 - Browser MCPs — 多个实现（本地与云端浏览器自动化）
+- bytebase/bytebase-mcp — https://github.com/bytebase/bytebase-mcp
 - bytebase/dbhub — https://github.com/bytebase/dbhub
 - Calculator — https://github.com/githejie/mcp-server-calculator
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp
