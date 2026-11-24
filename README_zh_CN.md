@@ -123,6 +123,7 @@
 
 由公司维护的、面向生产环境的官方集成（有时标注为 ⭐）：
 
+- JiZhiMCP（极智MCP）— https://github.com/alanwang100/jizhineng-mcp
 - 1mcpserver — https://github.com/particlefuture/1mcpserver
 - 21st.dev Magic — https://github.com/21st-dev/magic-mcp
 - 4everland/4everland-hosting-mcp — https://github.com/4everland/4everland-hosting-mcp
