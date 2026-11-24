@@ -697,3 +697,4 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+- **[AQX Logistics Shipping Rates](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp)** - Real-time international air freight quotes, volumetric weight calculation, and customs de minimis lookup across 15 trade corridors via the public [AQX Logistics](https://aqxlogistics.com) Quote API.
