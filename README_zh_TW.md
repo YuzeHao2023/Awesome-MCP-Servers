@@ -594,6 +594,7 @@ AI 與機器學習服務整合：
 - BloodHound-MCP — https://github.com/MorDavid/BloodHound-MCP-AI
 - Box 社群實作 — https://github.com/hmk/box-mcp-server
 - Browser MCPs — 多個本地與雲端瀏覽器自動化實作
+- bytebase / bytebase-mcp — https://github.com/bytebase/bytebase-mcp
 - bytebase / dbhub — https://github.com/bytebase/dbhub
 - Calculator — https://github.com/githejie/mcp-server-calculator
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp

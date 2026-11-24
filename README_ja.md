@@ -592,6 +592,7 @@ AI モデルおよび ML サービスとの統合。
 - BloodHound-MCP — https://github.com/MorDavid/BloodHound-MCP-AI
 - Box community server — https://github.com/hmk/box-mcp-server
 - ブラウザ MCP（複数） — ローカルおよびリモートのブラウザ自動化用の実装多数
+- bytebase/bytebase-mcp — https://github.com/bytebase/bytebase-mcp
 - bytebase/dbhub — https://github.com/bytebase/dbhub
 - Calculator — https://github.com/githejie/mcp-server-calculator
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp
