@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Hydracept — https://docs.hydracept.com/ — One MCP endpoint for capability discovery, quotes, durable jobs, receipts, and artifacts across image, video, audio, text, DNS, and domain providers.
 
 ---
 
