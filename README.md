@@ -441,6 +441,7 @@ Papers, datasets, and domain data.
 - Ancestry — https://github.com/reeeeemo/ancestry-mcp
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
+- Wellnizz (personal labs, wearables & DNA health intelligence, remote OAuth 2.1 MCP) — https://github.com/liveforeverbetter/wellnizz-mcp
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
 
 ---
