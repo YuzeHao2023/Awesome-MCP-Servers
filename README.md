@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- fudaut-erechnung-bmf-mcp (local read-only stdio MCP server and CLI for German B2B e-invoicing: BMF 15.10.2026, EN 16931, XRechnung 3.0, ZUGFeRD 2.3 PDF/A-3 XMP WAWI-86919, Shopware 6 credit notes, and GAEB X83/X84/X86 XML-to-JSON, 4 tools, BigInt cent math, MIT) — https://github.com/iisakovbusiness-wq/fudaut-erechnung-bmf-mcp
 
 ---
 
