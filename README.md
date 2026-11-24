@@ -569,6 +569,7 @@ Commerce and marketplace integrations.
 - Mercado Libre — https://mcp.mercadolibre.com/
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
+- fudaut-bmecat-oci-mcp (local read-only stdio MCP server and CLI for B2B wholesale & procurement: BMEcat 1.2/2005 validation, ERP JSON/CSV conversion for JTL-Wawi/weclapp/Shopware 6/Sage 100/SelectLine, CSV/JSON to BMEcat 2005, and SAP OCI 4.0/5.0 PunchOut cart checks, BigInt math, MIT) — https://github.com/iisakovbusiness-wq/fudaut-bmecat-oci-mcp
 
 ---
 
