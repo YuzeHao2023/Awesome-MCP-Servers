@@ -164,6 +164,8 @@ Official integrations are maintained by companies building production-ready MCP 
 - Stripe — https://github.com/stripe/agent-toolkit/tree/main (⭐)
 - PayPal — https://github.com/paypal/agent-toolkit/tree/main (⭐)
 - Tinybird — https://github.com/tinybirdco/mcp-tinybird (⭐)
+- Tesseract — https://tesseract.dev/mcp/ (hosted: pictures, effects and video; OAuth)
+- Tesseract Decks & Designs — https://tesseract.dev/mcp/design/ (hosted: slide decks, diagrams, charts and designs; OAuth, free)
 - Cloud-run, AWS, Azure, Google offerings — various official MCP servers in the awslabs and Google repos under modelcontextprotocol.
 
 (For a full list of official servers and vendor-maintained implementations, see the "Official Servers" and "Reference Servers" in this document and the linked repos.)
