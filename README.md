@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- TikTok & TikTok Shop (15 MCP tools for public TikTok & TikTok Shop OEC data across 22+ countries — watermark-free video downloads, Whisper VTT transcripts, VQScore algorithm audits, product SKUs, seller ratings, and affiliate shortlink forensics) — https://github.com/Techssss/tiktok-scraper-api-tiktok-shop-no-watermark [Remote MCP: https://tiktok-scraper-api.minhnghiathcstp.workers.dev/mcp]
 
 ---
 
