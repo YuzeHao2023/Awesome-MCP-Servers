@@ -232,6 +232,7 @@ Access to cloud storage platforms.
 
 - Google Drive — https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive
 - Box (⭐) — https://developer.box.com/guides/box-mcp/
+- Vertov MCP — https://vertov.app/docs/mcp (official hosted server; searches screen recordings, reads timestamped transcripts, and uploads videos; OAuth or API key)
 - VideoDB (agent-toolkit) — https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol (⭐)
 - Microsoft 365 — https://github.com/softeria/ms-365-mcp-server
 
