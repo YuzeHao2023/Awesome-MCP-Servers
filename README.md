@@ -618,6 +618,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 - CalDAV MCP — https://github.com/dominik1001/caldav-mcp
 - Context-aware & discovery servers (context-awesome, ref, etc.)
 - Currents — https://github.com/currents-dev/currents-mcp
+- Database MCP — https://github.com/haymon-ai/database
 - DINO-X, Digma, Driflyte, DreamFactory, Dash0, DB-specific servers, and many more.
 
 (For the exhaustive long list of community servers and links, refer to the aggregated listings in community and official sections across the MCP ecosystem. This README collects and organizes the major categories and many example projects; the community maintains a rapidly growing set of servers — check the linked repos for the latest.)
