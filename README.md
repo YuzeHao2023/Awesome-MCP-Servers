@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- US Code MCP (U.S. Code statutes) — https://github.com/lrehmann/uscode-mcp — Read-only search, section retrieval, and title listing from an independent mirror of OLRC-published U.S. Code; citations link to uscode.ecfr.io.
 
 ---
 
