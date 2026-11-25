@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- AI Chili (⭐) — https://github.com/AI-Chili/aichili — Official zero-dependency CLI and MCP server (`npx -y @aichili/mcp` stdio & `https://aichili.ai/mcp` Streamable HTTP) for cinematic AI video generation, lip-synced talking avatars, $0 dry-run credit quotes, and live model discovery. [glama](https://glama.ai/mcp/connectors/io.github.AI-Chili/aichili)
 
 ---
 
