@@ -302,6 +302,7 @@ Web fetching, scraping, and search.
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
+- GMapsScraper — https://github.com/gmapsscraper/gmapsscraper-mcp — Official MCP server for gmapsscraper.io to scrape Google Maps business leads (names, phones, emails, websites, ratings).
 - Search1API — https://github.com/fatwang2/search1api-mcp
 - RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP
 - Tavily — https://github.com/Tomatio13/mcp-server-tavily
