@@ -418,6 +418,7 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- Market News API — https://github.com/takashidoyle/crypto-news-x402-examples (Remote Streamable HTTP MCP at `https://goat-lighthouse.site/mcp`, 15 tools, Glama Grade A + Python stdio bridge: AI-scored crypto, equities, forex & macro news, 1,424-day archive, `$0.10` signal batch & Binance announcements paid per call via x402 USDC on Base/Solana)
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
