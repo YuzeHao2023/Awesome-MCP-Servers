@@ -389,6 +389,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- iPhone (iphone-mcp) — https://github.com/DamienDrash/iphone-mcp — see and control a real iPhone over USB or Wi-Fi via WebDriverAgent
 
 ---
 
