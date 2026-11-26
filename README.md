@@ -418,6 +418,8 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
+- EdgeRadar — Zero-dependency Python financial forensic MCP (Hyperliquid vs Binance L2 slippage traps, raw SEC EDGAR Form 4 XML parser, Deribit skew, DefiLlama fees; Official MCP Registry `io.github.ROy19012e/edgeradar`) — https://github.com/ROy19012e/edgeradar
+
 - Omnis Venture Intelligence MCP — https://github.com/HCS412/ventureautomated (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
 - AgentFund — https://github.com/RioBot-Grind/agentfund-mcp
 - Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server
