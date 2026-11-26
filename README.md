@@ -308,6 +308,7 @@ Web fetching, scraping, and search.
 - ArXiv — https://github.com/blazickjp/arxiv-mcp-server
 - PapersWithCode — https://github.com/hbg/mcp-paperswithcode
 - Playwright — https://github.com/executeautomation/mcp-playwright
+- sessfork (sessfork-mcp) — https://github.com/wasabihu/sessfork - ~816 KiB zero-Node.js Rust CDP MCP server & Chrome/Edge auth session bridge (Moli pipe up to 160 parallel agents or any local Chromium/CEF via `--cdp-url` up to 56 parallel agents on 24 GB, 0 MB swap, reproducible security audit)
 - Websearch (SearXNG) — https://github.com/mnhlt/WebSearch-MCP and https://github.com/ihor-sokoliuk/mcp-searxng
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
