@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- ParlayAPI (sports betting odds, player props, and prediction-market data from 45+ sportsbooks and sources across 90+ sports, with verdict, parlay grading, arbitrage, +EV, consensus, and middles tools) - https://github.com/JacobiusMakes/parlay-api-mcp
 
 ---
 
