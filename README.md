@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- Autotroph Data & Compliance MCP — https://github.com/char5742/autotroph-mcp-catalog (schema-verified SEC EDGAR XBRL financials, EU TED eForms tenders, USAspending contracts, USPTO patent claim trees, and US Federal Register rules via remote Streamable HTTP & stdio MCP) [glama](https://glama.ai/mcp/connectors/io.github.char5742/autotroph-data-apis)
 
 ---
 
