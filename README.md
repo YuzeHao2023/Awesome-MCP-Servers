@@ -463,6 +463,8 @@ AI model & ML service integrations.
 
 ---
 
+- **[Wanyra MCP](https://github.com/a5768549/wanyra-mcp)** - Zero-dependency stdio MCP server (Node.js 18+, MIT) for Wanyra API (https://api.star1age.cn/en) covering 81 live GA multimodal models (23 video, 23 image, 22 text, 7 audio) with no-auth live pricing lookup and cost estimation.
+
 ## Category: Development Tools (💻)
 
 Developer-focused MCP servers and tools.
