@@ -467,6 +467,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- Concord MCP — https://github.com/Get-Concord-AI/concord-mcp — Cross-harness communication and shared work-state for Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. Install with `npx -y @concord-ai/concord-mcp`.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
