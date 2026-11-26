@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- FMF Tools — https://tools.fmf-x402.workers.dev/?ref=awesome-mcp-servers — Catalog of remote MCP servers and pay-per-call APIs for agents. Streamable HTTP MCP at https://tools.fmf-x402.workers.dev/mcp; tools/list is free, no account or API key.
 
 ---
 
