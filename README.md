@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Groundsocial (hosted, read-only public data from Reddit, X, TikTok, Instagram, YouTube, LinkedIn and 70+ more platforms, in each platform's own JSON) — https://github.com/shivanshmehendiratta/groundsocial-mcp [remote: https://api.groundsocial.dev/mcp]
 
 ---
 
