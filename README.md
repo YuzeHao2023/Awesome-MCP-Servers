@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- Apidly Cloud — https://github.com/idimetrix/apidly-tools/tree/main/mcp (GPU servers and serverless GPU endpoints billed by the second: list plans, price and launch servers, read logs and usage. Read-only by default; stdio.)
 
 ---
 
