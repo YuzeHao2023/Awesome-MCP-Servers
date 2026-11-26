@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- MailGate (Self-hosted OTP & magic-link email inbox on Cloudflare Workers + D1) - https://github.com/Dicka18/mailgate
 
 ---
 
