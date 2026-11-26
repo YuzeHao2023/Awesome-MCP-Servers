@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Apple RAG — https://github.com/BingoWon/apple-rag-mcp - Remote MCP & CLI for 376,000+ Apple Developer docs and 1,880+ WWDC video transcripts with hybrid RAG search, SwiftUI/UIKit topic browsing, and resilient fetch
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
