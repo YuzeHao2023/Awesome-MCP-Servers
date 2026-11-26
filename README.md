@@ -403,7 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
-- Ziztu (hosted AI video studio MCP servers: faceless YouTube videos at https://getziztu.com/mcp/youtube, reels and Shorts at https://getziztu.com/mcp/reel, micro dramas and anime at https://getziztu.com/mcp) — https://github.com/0xnirlin/ziztu
+- Ziztu (hosted AI video MCP servers: Clip Maker for YouTube, Twitch and Kick streams at https://getziztu.com/mcp/clips, faceless YouTube at https://getziztu.com/mcp/youtube, reels and Shorts at https://getziztu.com/mcp/reel, micro dramas at https://getziztu.com/mcp) — https://github.com/0xnirlin/ziztu
 
 ---
 
