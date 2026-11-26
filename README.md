@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Agent360 Browser MCP — https://github.com/Agent360dk/browser-mcp - Drives your signed-in Chrome through an extension and asks you on screen for 2FA codes and CAPTCHAs
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
@@ -389,6 +390,7 @@ Shell, OS, and task automation.
 - Windows Control — https://github.com/Cheffromspace/nutjs-windows-control
 - Command Line — https://github.com/phialsbasement/cmd-mcp-server
 - Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts
+- Computer MCP — https://github.com/Agent360dk/computerMCP - macOS computer use through the accessibility API; password fields blacked out before screenshots, consent before deleting or sending
 
 ---
 
