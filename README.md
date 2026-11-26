@@ -411,6 +411,7 @@ Social platforms integration.
 Game engines and tooling.
 
 - Unity Engine (various) — https://github.com/IvanMurzak/Unity-MCP, https://github.com/CoderGamester/mcp-unity, https://github.com/codemaestroai/advanced-unity-mcp
+- branching-story-mcp — https://github.com/ouba-studio/branching-story-mcp
 
 ---
 
