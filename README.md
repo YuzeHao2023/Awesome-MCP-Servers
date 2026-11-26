@@ -595,6 +595,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 - AllInOneMCP / MCP Discovery / MCP of MCPs — https://github.com/particlefuture/MCPDiscovery
 - Airtable — https://github.com/domdomegg/airtable-mcp-server
 - Agentset — https://github.com/agentset-ai/mcp-server
+- AgentFEM (local stdio tools to create, check and run finite-element projects and inspect results; requires a separate AgentFEM scientific runtime) — https://github.com/haoming-luo/agentfem-mcp
 - Alertmanager — https://github.com/ntk148v/alertmanager-mcp-server
 - Algorand — https://github.com/GoPlausible/algorand-mcp
 - Android MCP — https://github.com/minhalvp/android-mcp-server
