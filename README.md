@@ -403,6 +403,7 @@ Social platforms integration.
 - Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp
 - X/Twitter — https://github.com/mbelinky/x-mcp-server
 - Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — https://github.com/socialneuron/mcp-server [npm: @socialneuron/mcp-server]
+- Auto Poster AI (16 MCP tools to draft, schedule, publish and analyze posts on Instagram, TikTok, LinkedIn, X, Facebook, Threads, YouTube and more; hosted OAuth server, tools need a paid plan) — https://github.com/autoposterai/mcp [npm: @autoposter/mcp]
 
 ---
 
