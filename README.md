@@ -467,6 +467,7 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
+- AdaptOrch (⭐) — https://github.com/dmae97/Adaptorch-MCP — DAG topology routing, multi-model synthesis, and verifiable execution receipts for coding agents (Claude Code, Cursor, Codex). Hosted MCP at https://adaptorch.com/mcp · benchmarks & Three.js comparisons at https://adaptorch.com/#proof.
 - CentralMind/Gateway — https://github.com/centralmind/gateway
 - Currents (⭐) — https://github.com/currents-dev/currents-mcp
 - Octocode — https://github.com/bgauryy/octocode-mcp
