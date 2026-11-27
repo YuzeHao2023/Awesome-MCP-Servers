@@ -299,6 +299,7 @@ Web fetching, scraping, and search.
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
+- Geekflare (⭐) — https://github.com/geekflare/geekflare-api-mcp - Official server for web scraping, web and Google SERP search, site crawling and screenshots
 - NYTimes — https://github.com/angheljf/nyt
 - Google News — https://github.com/ChanMeng666/server-google-news
 - Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server
