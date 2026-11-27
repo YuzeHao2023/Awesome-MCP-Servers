@@ -430,6 +430,7 @@ Payments, market data, and finance tools.
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
 - x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 - awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402
+- OursMeme - https://github.com/muranwirebaugh-cmyk/ours-mcp (0-fee BTC, ETH, and 24/7 Gold perpetual launchpad on BNB Chain with 48 tools for live Pyth quotes and unsigned transaction calldata; Streamable HTTP at https://devapi.ours.meme/api/mcp) [glama](https://glama.ai/mcp/connectors/meme.ours.devapi/ours-meme)
 
 ---
 
