@@ -542,6 +542,8 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- priorart — https://github.com/KhomDev/priorart — Offline Rust MCP server that searches prior audits, known issues and scope for a smart-contract finding and returns quoted evidence. Never issues a verdict. Run via `cargo install priorart`.
+- realism-gate — https://github.com/KhomDev/realism-gate — Offline Rust MCP server that statically checks Foundry, Solana and Move exploit PoC tests and the finding that cites them. Never runs the PoC. Run via `cargo install realism-gate`.
 
 ---
 
