@@ -285,6 +285,7 @@ Access observability and monitoring systems.
 - sslmon — https://github.com/firesh/sslmon-mcp
 - Signoz — https://github.com/DrDroidLab/signoz-mcp-server
 - VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics
+- ViewChat — https://github.com/uriva/view-chat-skill (Hosted Streamable HTTP MCP at `https://api.view-chat.com/mcp` for real-time AI chatbot conversation monitoring, automatic secret redaction, analytics, and AI QA checkup reports)
 
 ---
 
