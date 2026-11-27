@@ -542,6 +542,7 @@ Security-focused servers and scanning tools.
 - Vulert — https://vulert.com
 - Thales / CDSP servers — various MCP integrations for secrets & keys
 - Agent OS — https://github.com/imran-siddique/agent-os — Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- cvENGINE — https://github.com/hevnsnt/CVEngine — Attack surface and CVE platform with 178 MCP tools: ask your agent which of your hosts a new CVE hits, review findings and start scans. Self-hosted (Docker Compose), Python, Streamable HTTP at `/mcp/` with a Bearer API key.
 
 ---
 
