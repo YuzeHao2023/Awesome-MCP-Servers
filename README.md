@@ -272,6 +272,7 @@ Integration with chat and messaging platforms.
 - Atlassian — https://github.com/sooperset/mcp-atlassian
 - Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server
 - ntfy — https://github.com/gitmotion/ntfy-me-mcp
+- Winly MCP — https://github.com/getwinly/winly-mcp — Run your Instagram and Facebook DMs from Claude, ChatGPT or any AI agent.
 
 ---
 
