@@ -333,6 +333,7 @@ Mapping and geolocation.
 Marketing and analytics tools.
 
 - Agent Mindshare — https://agentmindshare.com
+- Manifold — https://www.manifoldmcp.com (remote MCP: `https://mcp.manifoldmcp.com/mcp`)
 - Open Strategy Partners Marketing Tools — https://github.com/open-strategy-partners/osp_mark
 - Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
