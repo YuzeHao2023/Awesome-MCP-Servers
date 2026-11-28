@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Google Trends for Agent — https://github.com/meka-im/google-trends-for-agent - Free, open-source (MIT) Google Trends MCP server & CLI returning calibrated daily search volume estimates via 59 Google Ads anchors
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
