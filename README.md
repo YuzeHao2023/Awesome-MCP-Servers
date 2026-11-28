@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- B2B Market Intel MCP (3 instant zero-key tools for Google News URL decoding, UK Gov Tenders, and ClinicalTrials.gov biotech leads + 5 optional APIFY_TOKEN batch scrapers) — https://github.com/truonggiang0111/b2b-market-intel-mcp
 
 ---
 
