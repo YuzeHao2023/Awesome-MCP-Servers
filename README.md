@@ -376,7 +376,7 @@ Automation platforms and workflow tools.
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
-- ViaSocket — https://github.com/walkover-mcp/viasocket (hosted remote server at https://connect.viasocket.com/mcp; integration and AI infrastructure for developers: explore ViaSocket's docs and APIs and build integrations across 2,300+ apps)
+- ViaSocket — https://github.com/walkover-mcp/viasocket (hosted remote server at https://connect.viasocket.com/mcp; infrastructure for building apps and AI agents, with integrations, automation and AI capabilities)
 - Tool aggregators like Rube, Rube/Composio and MCPJungle are listed in Aggregators.
 
 ---
