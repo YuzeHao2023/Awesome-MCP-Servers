@@ -339,6 +339,7 @@ Marketing and analytics tools.
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
 
 ---
+- The SEO Agent MCP - https://github.com/jeremy665/theseoagent-mcp
 
 ## Category: Note Taking (📝)
 
